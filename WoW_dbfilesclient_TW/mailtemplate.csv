@@ -375,7 +375,606 @@ I didn't have room for this pet in my journal and my bags were all full, so I ma
 來首都找我吧。我想要贈與你能夠與你的地位相匹配的坐騎。
 
  - 戰鬥坐騎軍需官"
-"550",""
+"550","為了使用金幣重新啟用你的帳號，我們從你的郵件提領了一些未領取的金幣。因此，你可能會注意到郵件中的金幣比預期的少。無須太過緊張，金幣並沒有短少。
+
+謝謝合作，並且歡迎回到艾澤拉斯！
+
+- 魔獸世界研發團隊"
+"551","[DNT] $gSir:Lady;"
+"552","My beautiful $p,
+
+I was most pleased to receive your letter, for I have been thinking of you as well.
+
+I simply cannot wait to tell you what happened to a certain duke at my latest court.
+
+It is positively hilarious. I thought of you immediately when it happened.
+
+Until then,
+The Countess"
+"553","My beautiful $p,
+
+Although I would rather speak with you in person, I always welcome your messages.
+
+I fear I have nothing of particular import of which to inform you since last we spoke.
+
+It has been positively dull out here in the Redelav District.
+
+Perhaps I shall stir up a little excitement...
+
+Devilishly yours,
+The Countess"
+"554","My beautiful $p,
+
+Imagine my joy when I discovered your message amongst the letters Alfryd brought me this morning.
+
+It was, of course, the first to which I replied.
+
+As to your question, I cannot say. I will see what gossip I may uncover amongst the socialites and nobles of the Redelav District in regard to it.
+
+Come see me soon and I shall share what I learn.
+
+Sincerely,
+The Countess"
+"555","<信上絕大多數的文字都有塗改和寫錯字的痕跡。>
+
+親愛的好夥伴，
+
+迷失的希比兒幫我讀信。
+
+迷失的希比兒教我回信。
+
+你是最好的夥伴！
+
+祝好
+岩石頭"
+"556","<信上絕大多數的文字都有塗改和寫錯字的痕跡。>
+
+好夥伴，
+
+我不會看信。
+
+迷失的希比兒不在。
+
+好了，掰掰。
+
+我啦
+岩石頭"
+"557","<信上絕大多數的文字都有塗改和寫錯字的痕跡。>
+
+好夥伴，
+
+我要點心。
+
+你的信不好吃。
+
+寄好吃的信。
+
+需要點心
+岩石頭"
+"558","Hey $p,
+
+Why'd you write us a letter? We're right here in Sinfall.
+
+Cudgelface don't read so good. Just stop by and say hi next time.
+
+--Rendle"
+"559","Hey $p,
+
+This what it feels like be a fancy noble, gettin' letters all the time?
+
+Not sure I like it. Talkin's easier and I'm a lot better at it.
+
+You see the fancy calligraphy I did on your name at the top?
+
+Took too long, so I stopped after that. But it looks great, yeah?
+
+Anyway, gotta run. How do dem fancy fangs end letters?
+
+Probably some big swirly calligraphy, right?
+
+<The rest of the page is covered in excessively large swirls.>"
+"560","我是棍臉。
+
+謝謝來信。
+
+我現在很喜歡信。
+
+我正在寫信。
+
+學習新的東西。
+
+我是棍臉。"
+"561","Greetings old friend,
+
+I am certain you would be amused to know that your letter surprised me. Quite literally.
+
+The stone fiend threw it at me while I was locking up one of the crypts.
+
+That particular messenger must have had a grudge against me.
+
+You never can fully trust a stone fiend. Stone fiends must obey our orders, but they are devilishly good at finding loopholes when they want to.
+
+I have ordered my messenger directly to not throw, toss, or lob this letter at you. Hopefully it works.
+
+Sincerely,
+Cryptkeeper Kassir"
+"562","你好，老朋友，
+
+我被你的信鼓勵到了。我相信現在的罪殞城統治者是個有能力的人。
+
+你可以幫我跟控罪者說一下，請下次她前往贖罪之殿的時候，順道來我的地穴一趟嗎？
+
+關於我們在地穴找到的某個靈魂，我有些事想向她請教。
+
+情況非常不對勁…
+
+祝福你
+墓穴守衛者凱希爾"
+"563","Greetings old friend,
+
+You must forgive my short reply. The Chamberlain's thugs have cracked open one of my crypts again!
+
+They stole the soul that I was tending to, and put a mirror in the crypt instead.
+
+Do not worry, I did not follow them through it.
+
+I know better than to wander into a mirror when I do not know its destination.
+
+Sincerely,
+Cryptkeeper Kassir"
+"564","If you can read this, you must really be $p.
+
+I enchanted the parchment to reveal my true message only to you.
+
+Everyone else will see a drawing of Bwonsamdi's behind--ha!
+
+That's what they deserve for reading someone else's letter!
+
+Anyway, I don't really have anything to say, I just really wanted to trick someone into looking at the drawing.
+
+Leave it somewhere that the Prince will find it. That'd be hilarious!
+
+See you soon,
+Lady Moonberry"
+"565","Heya $p,
+
+Thanks for the letter. I read it to Lemonseed and the gang and everyone here loved it!
+
+They're all so jealous that I get to attend the Ember Court with you. They're begging me to take them to the next one.
+
+What a great opportunity to play some tricks on them all...
+
+See? Even when the Ember Court isn't happening, it's still fun!
+
+Talk to you soon,
+Lady Moonberry"
+"566","$p，
+
+我們是好朋友，對吧？
+
+既然是好朋友，如果向你求助，你一定不會問東問西，對吧？
+
+對吧？
+
+嗯，那很好。
+
+我需要你把二十個泥掘者裝箱送過來，每個都要帶著淤泥彈和拉炮，然後命令他們在箱子打開的時候，大叫「中計了吧」！
+
+算我欠你一次
+月莓女士"
+"567","給$p，
+
+謝謝你寄來最近狩獵成果的詳盡報告。
+
+儘管內容並非都跟曠野獵者目前的行動有關，不過還是令人印象深刻。
+
+我今天負責圍堵一隻從果姆蟲巢跑出來的暴怒護蛋者。看守者維洛從上面的陽台射出一支完美瞄準的箭，了結了它的性命。
+
+你沒辦法親眼目睹，實在太可惜了。你一定會佩服他神準的箭術。
+
+狩獵不止
+狩獵隊長克芮恩"
+"568","To $p,
+
+I won't contest the accuracy of your current tally of kills, as reported in your previous letter.
+
+But I do find them suspiciously high. I suppose you are the Maw Walker...
+
+Still, I enjoy our contests and will attempt to keep up with you.
+
+I have recorded one-hundred thirty-eight killing blows since I received your previous letter, and have--
+
+<Hunt-Captain Korayn's writing trails off the page.>
+
+Make that one-hundred fifty-two kills! Sure, a few in that last wave were mites, but I can't afford to be picky when you're so far ahead!
+
+Beat that,
+Hunt-Captain Korayn"
+"569","$p, I received your letter in a rare moment of quiet here at Claw's Edge.
+
+The tales of your recent adventures were most welcome, both to me and the few hunters and grovewardens recovering alongside me.
+
+I hope you don't mind: I shared your stories with them. Your legend is growing faster than you might imagine.
+
+There's no doubt that tales of the mighty Maw Walker will be told around Wild Hunt campfires for a long time in Ardenweald.
+
+I am proud to be a part of your story.
+
+Until we hunt together again,
+Hunt-Captain Korayn"
+"570","Dear $p,
+
+I hope this letter eventually reaches you. I've learned to be wary of faeries offering to help, but this one brought a letter from you!
+
+Or least a very good imitation of one...
+
+Still, I think we know each other well enough by now to identify one another's writing style.
+
+As to the content of your letter, I trust you know that my grove is always welcome to you. Many have found peace and safety here after troubles in their past, myself included.
+
+Whenever you need respite from the heavy burdens of being the Maw Walker, you will always find it here in Hibernal Hollow.
+
+Sincerely,
+Aliothe"
+"571","親愛的$p，
+
+你的上一封信已經成為林地的熱門話題。
+
+守護者莫蘭對你最近經歷的戰鬥印象深刻。他要求你提供更多細節，包括戰鬥期間的部隊戰術配置圖。
+
+納洛爾則是對你描述旅行期間的風景神往不已。那傢伙有一顆流浪的心…
+
+泰芭和其他工匠則是急著想在你下次到訪時，檢查你的新裝備。他們希望能在幫你修理裝備的時候，從中學到一點東西。
+
+你願意在不同國度間傳播知識的行為，讓我們所有人都深受啟發。
+
+謝謝你
+艾利歐德"
+"572","Dear $p,
+
+Anima falls like stars in the grove as I write this letter to you. Dazzlewing weaves between them in the sky, giggling.
+
+Teendynneetll remains still, but has not yet noticed that a single star has landed on their shoulder. Or perhaps, they do not mind.
+
+It is moments like this that make the fighting worthwhile. Remember that as you strive toward your next endeavor.
+
+From your previous letter, it sounds like it will be a most worthwhile one.
+
+But as you walk your path and embrace your role as Maw Walker, do not forget to rest in the peaceful moments as well.
+
+They remind us why we must fight.
+
+In rest,
+Aliothe"
+"573","Hey $p,
+
+I was just trying to wake up Rury when your letter came.
+
+Hours of my shouting at him couldn't get him to budge, but the moment he heard you'd wrote us a letter, he perked right up. Figures, heh.
+
+Anyway, we all like the plan you're thinking of for the next Ember Court. Sounds like it'll be a blast!
+
+We're going to get an invitation, I assume. It wouldn't be right to tease us with the details and then not ask us to come... right?
+
+Right?!
+
+Waiting for that invitation,
+Choofa and the gang"
+"574","這次必須長話短說，$p。
+
+我沒時間詳述所有細節，不過我們這麼說吧，我似乎藏了一些前幾場餘燼宴會用剩的煙火。然後我似乎決定用那些煙火嚇嚇月莓女士。
+
+結果就是我現在在逃命。月莓女士發誓要抓到我，好好教訓我一番，而且一扯到惡作劇，她絕對不會半途而廢！
+
+希望她會認為是盧里幹的。他會比較好抓！
+
+送更多煙火過來吧！
+逃命中的丘發"
+"575","Hey buddy!
+
+I gotta say, your letter made me even more excited for the next Ember Court. My hype level is cranked to eleven!
+
+So when's it gonna happen? Slanknen won't stop asking me about it, and Awool's giving me his go-to grumpy stare from across the grove.
+
+To be honest, the stare is probably my fault, but Slanknen's curiosity isn't! You gotta give me some details to share with him.
+
+Or better yet, swing by Tirna Vaal and bring us our invitation in person!
+
+It'd be fun to see you.
+
+Keep partying,
+Choofa"
+"576","$p,
+
+Not sure how long ago your letter arrived. Hopefully recent.
+
+Found it under a pile of ingots. It was covered in grease.
+
+Only fourteen words were still legible, and none of them in direct sequence.
+
+I assume you included some new curio in the package. In which case, I'm certain I've already found it, disassembled it, and reassembled it at least once already.
+
+It was no doubt illuminating.
+
+Your friend,
+Mikanikos"
+"577","$p，
+
+我好像忘了我要去哪裡，還有我為什麼要去那裡。那應該是很重要的事。
+
+我在包包裡發現你的信。也許你知道我本來在做什麼？
+
+我附近似乎有棵大樹…如果這點有幫助的話…就這樣。
+
+請給我一點指示。
+
+你的摯友
+米卡尼寇斯"
+"578","$p,
+
+Great letter. Diagrams of relics and technology you have encountered recently on your travels are very appreciated.
+
+I will memorize them before distributing them to the forgehands for further study and experimentation.
+
+If I am not mistaken, one of the designs you sent will make a powerful new hat for Bron.
+
+Will try soon.
+
+Your friend,
+Mikanikos
+
+P.S. Bron says hello."
+"579","To $p,
+
+You must warn me before opening your letters with amusing anecdotes. I nearly cracked a smile in front of the other polemarches.
+
+That said, you are correct. It was quite entertaining when Theotar did that... thing at the Ember Court. You have some wild friends, $p.
+
+I am glad to count myself among them.
+
+By the grace of the Archon,
+Polemarch Adrestes
+
+<There is a small disclaimer stamped at the bottom of the letter.>
+This letter is and all of its contents are the sole property of the Archon."
+"580","To $p,
+
+Thank you for obtaining permission from General Draven to send me a thorough copy of the Stone Legion's military regulations and procedures.
+
+It was both an enlightening and rewarding book to read during my off-duty hours.
+
+I look forward to discussing it further with the general and the other military leaders at your next Ember Court.
+
+Until then,
+Polemarch Adrestes
+
+<There is a small disclaimer stamped at the bottom of the letter.>
+This letter is and all of its contents are the sole property of the Archon."
+"581","To $p,
+
+Thank you for your letter. I sat on the edge of Hero's Rest, overlooking Purity's Pinnacle in the distance, as I read it.
+
+It was a valuable reminder of the victories we are winning across all of the Shadowlands. 
+
+We will restore things to their proper order--even here, as the Forsworn assault our temples and attempt to sabotage us from within.
+
+We will prevail. We must.
+
+In honor,
+Polemarch Adrestes
+
+<There is a small disclaimer stamped at the bottom of the letter.>
+This letter is and all of its contents are the sole property of the Archon."
+"582","$p,
+
+Thank you for letter.
+
+It was very long.
+
+Please be more concise next time.
+
+Efficiency essential to all of life's endeavors.
+
+Sika"
+"583","$p：
+
+西卡很高興知道你很忙，非常好。
+
+西卡也很忙，非常好。
+
+快來西卡的工坊，我們不要那麼忙。我們當朋友一下。
+
+西卡"
+"584","$p：
+
+你信裡面的故事很好。西卡讀給所有尋求協助的志士聽。
+
+西卡的好朋友都要聽到好故事。
+
+你是故事裡的英雄了。你快來找我，自己講故事。
+
+西卡"
+"585","我的朋友：
+
+很高興收到你的消息，一有機會，我就會盡快回信，希望你也一樣。
+
+我很喜歡看你的冒險故事，尤其是你和其他同伴因為理念聯手的時候。
+
+$p，告訴我。有沒有什麼時刻，你的同袍展現出了最激勵人心的英勇犧牲精神？
+
+我今天或許需要激勵一下。
+
+你的朋友，
+佩拉苟斯"
+"586","我的朋友：
+
+我不太確定你的上一封信是不是想傳達某種悲傷的感覺，也可能是我誤會了。
+
+但無論如何，我想給你幾句話，激勵你一下。
+
+你以王子之名，對暗影之境的團結有著非常大的貢獻。
+
+當你衝鋒前往未知的時候，有許多這個領域的英雄，在你的旗下與你一同前進。
+
+而光是提到你的名字，我們領域的惡棍就會聞風喪膽。
+
+所以我非常榮幸，能把你當作朋友。
+
+你的摯友，
+佩拉苟斯
+
+P.S. 克蕾雅也以你為榮！"
+"587","親愛的$p：
+
+我從佩拉苟斯那邊搶來了筆和紙，所以這次是我來寫信給你。
+
+我現在飛在空中，在佩拉苟斯上面寫信。他在下面吵吵鬧鬧，試著要我下去。
+
+這不是我最光榮的一刻，但看來這是唯一能讓我寫信給你的機會。
+
+然後現在…我其實不知道要寫什麼了…
+
+希望你一切順利，早點回來看我們。
+
+你的摯友，
+克蕾雅，
+
+P.S. 如果佩拉苟斯問你我寫了什麼，就說我的信美麗又激勵人心！"
+"588","$p！
+
+我收到信了，但瑞文崔斯的軟泥和黏液沒有和信一起送到。我很確定它們原先是要一起送來的。
+
+我的實驗不能再拖了，所以我得放棄那些軟泥，讓實驗繼續下去。
+
+你可以盡快派一隻泥掘者，帶著遺失的貨物過來嗎？
+
+如果有你想要擺脫的泥掘者，就派他吧。這樣我們兩個雙贏！
+
+先謝謝你，
+瘟疫設計者瑪利雷斯"
+"589","$p：
+
+恐怕凱文已經攔截你的前一封信了，我還沒機會讀到它。在寫下這些文字的當下，我只能看著信在他的軟泥裡浮浮沉沉。
+
+他似乎不想讓我拿到信，而且信也溶化了一大半，所以就算了吧。
+
+只不過，這件事給了我一個全新的好點子，是有關於實驗體軟泥的…
+
+你的老師，
+瘟疫設計者瑪利雷斯
+
+P.S. 凱文看起來比較開心了，那一定是一封充滿善意的信。"
+"590","No time for pleasantries!
+
+We have a crisis at the House of Plagues! (Well, another crisis...)
+
+Kevin caused it, of course. His constant flaunting of hats and showboating of balancing skills has sent the nearby colossal goos into a rampage!
+
+They're stomping right toward us, no doubt to smash everything in sight! None of us will survive!
+
+As my apprentice you must carry on my work and--
+
+Wait, it appears they turned left. They're heading back out to the leaning tower. They're sitting down. Oh, that's nice.
+
+False alarm. Carry on.
+
+Your teacher,
+Plague Deviser Marileth"
+"591","Got your note, $p.
+
+Appreciate the leads on new challengers for the Theater of Pain. Send 'em my way whenever they're ready.
+
+I don't care who they are, where they come from, or where they're going.
+
+If they can fight, I want 'em in my arena.
+
+Speaking of which, when are you going to come fight again? The fights today have put half the spectators to sleep.
+
+--Grandmaster Vole"
+"592","Keep sending stories like the one in your last letter, and you'll be an even bigger legend around here.
+
+Overseer Kalvaros has been barking out the story of your battle to rile up the fans waiting below.
+
+You should've heard the cheer when he got to the part with your killing blow. Ha!
+
+Finish up whatever you're doing and then get over here to fight. The crowd's already chanting your name!
+
+--Grandmaster Vole"
+"593","Look, $p, I'm glad you're doing whatever it is you're doing out there across the Shadowlands, but you've got to get back here to the Theater of Pain.
+
+Mistress Dyrax just cleared the entire floor of challengers with five arms tied behind her back. It was incredible!
+
+I had Au'larrynar bring in some Azerothian refreshments for you. Rencissa smashed them all because you took so long, but ol' Marcel Mullby's still got plenty of lukewarm tauralus milk.
+
+You like that stuff, right? Makes your bones strong!
+
+--Grandmaster Vole"
+"594","To $p,
+
+Thank you for sending a report of your recent military endeavors. I know that you are not required to do so, but appreciate your efforts to keep me in the loop as situations develop across the Shadowlands.
+
+When you have time, I am interested in discussing your unusual tactics in the battle described in your letter.
+
+Strange they may seem, but effective nonetheless. I would like to learn from them.
+
+For Maldraxxus,
+Alexandros Mograine"
+"595","To $p,
+
+As requested: a status report for the Bleak Redoubt.
+
+The Undying Army's position here remains strong.
+
+Bladeguards hold the north gate and walls, while our summoners work to pull in a powerful ally.
+
+The western entrance is our weak spot, but the soldiers there are not giving up. We should be able to hold it.
+
+Stitchmaster Rathan is investigating the possibility of establishing a new stitchyard nearby to further fortify our position.
+
+For Maldraxxus,
+Alexandros Mograine"
+"596","To $p,
+
+Your recent letter was a welcome surprise. I have been thinking back to my time on Azeroth more frequently since your arrival. I am sure much has changed, but I wonder what remains the same.
+
+I look forward to discussing Azeroth further with you when our campaign is done. I may have a story or two to tell that you'd be interested in.
+
+Your friend and comrade in arms,
+Alexandros Mograine"
+"597","親愛的$p：
+
+我是相當喜歡我們這種連絡方式。不過你應該避免用這種不安全的郵件系統來談敏感的資訊。
+
+如果你急著想知道答案，我會派卡莉克親自把答案交給你。
+
+不過最好是你親自來廢棄大牢拜訪一趟。
+
+我比較喜歡面對面的交流。
+
+隨時警覺，
+瓦許女爵"
+"598","Dear $p,
+
+Thank you for passing along that intriguing bit of intelligence in your last letter. Mekkar has filed it away in our records. I have no doubt that it will prove quite useful one day.
+
+Allow me to return the favor. Anzio The Infallible at the Theater of Pain is anything but his namesake.
+
+In fact, I have heard that he is no longer allowed onto the arena floor because of his frequent errors in battle. Banned by Grandmaster Vole himself.
+
+Interesting, no?
+
+Always watching,
+Baroness Vashj"
+"599","My little $p,
+
+You need not waste your time detailing your activities in Maldraxxus. Although I appreciate the thoroughness of your recent letter, you may rest assured that if it happened in Maldraxxus, I am already aware of it.
+
+Still, it is quite endearing that are you so willing to be open with me about your activities. I suppose we are friends now, are we not?
+
+Well, it appears that is one thing happening in Maldraxxus that I did not foresee.
+
+Always watching,
+Baroness Vashj"
 "85","謝謝你來看我，$n。我很高興知道我們沒被遺忘。"
 "88","謝謝你來看我，$n。我很高興知道我們沒被遺忘。"
 "89","謝謝你來看我，$n。我很高興知道我們沒被遺忘。"

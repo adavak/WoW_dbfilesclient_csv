@@ -22,7 +22,7 @@ Preferred Weapon: Two-Handed Sword, Mace, Axe","2","2","0","2","68","135873","5"
 Preferred Weapon: Two-Handed Axe, Mace, Sword","1","0","0","2","68","132355","5","0","262111","0"
 "72","Fury","Fury","A furious berserker unleashing a flurry of attacks to carve $Ghis:her; opponents to pieces.
 
-Preferred Weapons: Dual Two-Handed Axes, Maces, Swords","1","1","0","2","20","132347","5","0","76856","0"
+Preferred Weapons: Dual Axes, Maces, Swords","1","1","0","2","20","132347","5","0","76856","0"
 "73","Protection","Protection","A stalwart protector who uses a shield to safeguard $Ghimself:herself; and $Ghis:her; allies.
 
 Preferred Weapon: Axe, Mace, Sword, and Shield","1","2","0","0","4","132341","5","0","76857","0"
@@ -31,7 +31,7 @@ Preferred Weapon: Axe, Mace, Sword, and Shield","1","2","0","0","4","132341","5"
 "81","Tenacity","Tenacity","Stalwart and veteran defenders who unquestionably place their thick hides and protective exteriors in harm's way for their allies.","0","1","1","0","0","132121","0","0","0","0"
 "102","Balance","Balance","Can shapeshift into a powerful Moonkin, balancing the power of Arcane and Nature magic to destroy enemies.
 
-Preferred Weapon: Staff, Dagger, Mace","11","0","0","2","331","136096","0","363","77492","0"
+Preferred Weapon: Staff, Dagger, Mace","11","0","0","2","331","136096","0","363","326085","0"
 "103","Feral","Feral","Takes on the form of a great cat to deal damage with bleeds and bites.
 
 Preferred Weapon: Staff, Polearm","11","1","0","2","260","132115","3","363","77493","0"
@@ -67,7 +67,7 @@ Preferred Weapon: Staff, Wand, Dagger, Mace","5","0","0","1","67","135940","0","
 Preferred Weapon: Staff, Wand, Dagger, Mace","5","1","0","1","3","237542","0","353","77485","0"
 "258","Shadow","Shadow","Uses sinister Shadow magic and terrifying Void magic to eradicate enemies.
 
-Preferred Weapon: Staff, Wand, Dagger, Mace","5","2","0","2","11","136207","0","353","77486","0"
+Preferred Weapon: Staff, Wand, Dagger, Mace","5","2","0","2","11","136207","0","353","343690","0"
 "259","Assassination","Assassination","A deadly master of poisons who dispatches victims with vicious dagger strikes.
 
 Preferred Weapons: Daggers","4","0","0","2","68","236270","3","0","76803","0"
@@ -113,3 +113,15 @@ Preferred Weapons: Warglaives, Swords, Axes, Fist Weapons","12","0","0","2","68"
 "581","Vengeance","Vengeance","Embraces the demon within to incinerate enemies and protect their allies.
 
 Preferred Weapons: Warglaives, Swords, Axes, Fist Weapons","12","1","0","0","4","1247265","3","364","203747","0"
+"1444","Initial","Initial","","7","4","0","2","3","136048","0","369","0","0"
+"1446","Initial","Initial","","1","4","0","2","68","132355","5","0","0","0"
+"1447","Initial","Initial","","11","4","0","2","331","136096","0","363","0","0"
+"1448","Initial","Initial","","3","4","0","2","66","461112","2","0","0","0"
+"1449","Initial","Initial","","8","4","0","2","67","135846","0","362","0","0"
+"1450","Initial","Initial","","10","4","0","2","68","608953","2","618","0","0"
+"1451","Initial","Initial","","2","4","0","2","68","135873","5","0","0","0"
+"1452","Initial","Initial","","5","4","0","1","67","135940","0","353","0","0"
+"1453","Initial","Initial","","4","4","0","2","68","236270","3","0","0","0"
+"1454","Initial","Initial","","9","4","0","2","67","136145","0","357","0","0"
+"1455","Initial","Initial","","6","4","0","2","68","135775","5","0","0","0"
+"1456","Initial","Initial","","12","4","0","2","68","1247264","3","364","0","0"

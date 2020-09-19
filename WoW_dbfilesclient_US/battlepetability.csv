@@ -111,9 +111,9 @@ The user is healed for [points(1,3)]% of the damage dealt.","136214","3","1","0"
 Deals [StandardDamage(1,1)] [School()] damage and increases your speed by [abs(abilityStateMod(25,161))]% for [duration(1,2)] |4round:rounds;.","132307","4","0","0","0"
 "163","Stampede","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Starts a stampede, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage.
+Starts a stampede, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round.
 
-Opponents struck by the stampede take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the stampede take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 Stampede continues for [numTurns()] |4round:rounds;.","134060","4","0","0","0"
 "164","Crouch","Your damage taken has been reduced by [abs(abilityStateMod(24,164))]%.","132118","-1","0","27","2"
@@ -195,9 +195,9 @@ Accuracy reduced by [abs(abilityStateMod( 41, 196 ))]%.","134339","-1","0","0","
 "197","Adrenal Glands","Increases your critical strike chance by [abs(abilityStateMod(40, 841))]% for [duration(1,1)] |4round:rounds.","134339","5","0","0","2"
 "198","Zergling Rush","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Starts a Zergling Rush, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage.
+Starts a Zergling Rush, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round.
 
-Opponents struck by the rush take double damage for [duration(1,4)] rounds.
+Opponents struck by the rush take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] rounds.
 
 Zergling Rush continues for [numTurns()] rounds.","136217","5","0","0","0"
 "202","Thrash","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -320,6 +320,8 @@ Flying creatures gain 50% extra speed while above 50% health.
 |TInterface\PetBattles\BattleBar-AbilityBadge-Weak.blp:24|t 33% from Beast abilities","618976","2","0","0","6"
 "240","Aquatic","|cFFFFFFFFPassive: Purity|r
 Harmful damage over time effects are reduced by 50% on Aquatic pets.
+
+Damage over time effects dealt by Aquatic pets are increased by 25%.
 
 |cFFFFFFFFDamage Taken|r
 |TInterface\PetBattles\BattleBar-AbilityBadge-Strong.blp:24|t 50% from Flying abilities
@@ -1182,9 +1184,9 @@ Deals [StandardDamage(1,1)] [School()] damage and increases your speed by 50% fo
 Puts the target to sleep for [duration(1,1)] |4round:rounds;.","309187","4","5","0","2"
 "581","Flock","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Flocks the target, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage every round. Lasts [numTurns()] |4round:rounds;.
+Flocks the target, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round. Lasts [numTurns()] |4round:rounds;.
 
-Opponents struck by the flock take double damage for [duration(1,4)] |4round:rounds;.","135996","2","0","0","0"
+Opponents struck by the flock take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.","135996","2","0","0","0"
 "583","Intensity","Deals bonus damage on the next attack.
 
 The bonus is reduced each time you deal damage.","648206","-1","0","0","2"
@@ -1244,7 +1246,7 @@ Stun the target for [duration(1,1)] |4round:rounds;.","136106","5","5","0","2"
 
 Places a temporal rift beneath the enemy team. 
 
-After 3 |4round:rounds, the rift erupts, causing the current enemy pet to take [StandardDamage(3,1,175)] [School()] damage and be stunned for [duration(3,2,175)] round.","237538","5","5","0","0"
+After 3 |4round:rounds, the rift erupts, causing the current enemy pet to take [StandardDamage(3,1,601)] [School()] damage and be stunned for [duration(3,2,601)] round.","237538","5","5","0","0"
 "603","Temporal Lapse","Your team's attacks are doubled for [duration(1,1)] |4round:rounds.","609811","1","20","0","2"
 "604","Extreme Power","Your team's attacks deal [abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 604 ))]% additional damage.","648206","-1","0","0","2"
 "605","Elementium Bolt","Detonates after [numTurns()-1] |4round:rounds, dealing [StandardDamage(1,1,2372)] [School()] damage to the current enemy pet and stunning the target for [duration(3,2)] |4round:rounds;.
@@ -1447,9 +1449,9 @@ This effect cannot be removed. Cockroaches and Beetles always survive this attac
 "684","GM Suicide","Kills the caster. Giving up so soon?","236363","3","0","0","0"
 "706","Swarm","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Starts a swarm, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage. 
+Starts a swarm, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round. 
 
-Opponents struck by the swarm take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the swarm take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 Swarm continues for [numTurns()] |4round:rounds;.","538518","4","0","0","0"
 "710","Build Turret","Builds a turret that assaults the enemy team's front pet, dealing [FormatDamage(SimpleDamage(1,1,711)*3)] [School()] damage each round. 
@@ -1665,14 +1667,14 @@ Takes [abs(abilityStateMod( 24, 807 ))]% additional damage.","136083","3","0","0
 "809","Roll","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Lil' Deathwing performs a flying roll, dealing [StandardDamage (1,1)] [School()] damage and enraging the user, increasing the damage they deal by [abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 485 ))]% for [duration(1,2)] |4round:rounds;.","574790","1","0","0","0"
-"810","Magma Trap","Attacks have a chance to trigger the trap, causing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED
+"810","Magma Trap","Abilities have a chance to trigger the trap, causing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED
 ),1)] [School()] damage and stunning the pet for [duration(getProcIndex(PROC_ON_AURA_REMOVED
 ),2)] |4round:rounds;.
 
 [StandardAccuracy(2,1)] |cffffffffHit Chance|r","525024","6","0","436","0"
 "811","Magma Trap","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Places a magma trap onto the ground. Opponents have a chance to trigger the trap each time they attack.
+Places a magma trap onto the ground. Opponents have a chance to trigger the trap each time they use an ability.
 
 When the opponent triggers the trap, they will take [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED
 ,810),1,810)] [School()] damage and be unable to attack for [duration(getProcIndex(PROC_ON_AURA_REMOVED
@@ -1735,9 +1737,9 @@ Unattackable.","132128","-1","0","639","2"
 Deals [StandardDamage(1,1)] [School()] damage, reduces the target's damage by [abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 153 ))]% for [duration(1,2)] |4round:rounds; and increases the user's damage by [abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 485 ))]% for [duration(1,3)] |4round:rounds;.","531974","5","4","0","0"
 "870","Murder","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-A murder of crows swoops in, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage. 
+A murder of crows swoops in, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round. 
 
-Opponents struck by the murder take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the murder take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 Swarm continues for [numTurns()] |4round:rounds;.","645217","2","0","0","0"
 "900","Fel Immolate","Deals [StandardDamage(1,1)] Elemental damage every round.
@@ -1745,7 +1747,7 @@ Swarm continues for [numTurns()] |4round:rounds;.","645217","2","0","0","0"
 |cFFFF2020Burning|r","135802","6","0","678","0"
 "901","Fel Immolate","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage instantly. The enemy |cFFFF2020Burns|r for [StandardDamage(1,1,177)] additional [School()] damage per round for [duration(1,2)] |4round:rounds.","135802","6","0","0","0"
+Deals [StandardDamage(1,1)] [School()] damage instantly. The enemy |cFFFF2020Burns|r for [StandardDamage(1,1,900)] additional [School()] damage per round for [duration(1,2)] |4round:rounds.","135802","6","0","0","0"
 "903","Deflection","Increases your chance to avoid attacks by [abs(abilityStateMod( 73, 311 ))]%.","458412","-1","0","468","2"
 "904","Cute Face","Increases your chance to dodge attacks by [abs(abilityStateMod( 73, 904 ))]%.","132311","-1","0","468","2"
 "905","Cute Face","Increases your chance to dodge an attack by [abs(abilityStateMod( 73, 904 ))]%.
@@ -1803,7 +1805,7 @@ Frightens the enemy team, dealing [StandardDamage(1,1)] [School()] damage to all
 
 Hunt in a party of raptors, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage.
 
-Opponents struck by the hunting party take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the hunting party take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 Hunting Party continues for [numTurns()] |4round:rounds;.","838684","7","4","0","0"
 "922","Healing Stream","Calls upon the healing streams, restoring [StandardHealing(1,1)] health to the user, and half that to other aquatic allies.","538570","8","3","0","2"
@@ -1936,9 +1938,9 @@ This ability always goes first.","613397","5","3","0","2"
 [StandardAccuracy(1,1)] |cffffffffHit Chance|r","656166","5","0","458","0"
 "1002","Inflation","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Produces copies of the user, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage. 
+Produces copies of the user, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round. 
 
-Opponents struck by the copies take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the copies take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 Inflation continues for [numTurns()] |4round:rounds;.","370211","9","0","0","0"
 "1003","Gold Rush","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -1995,7 +1997,7 @@ Shoots the enemy with a phaser beam, dealing [StandardDamage(1, 1)] [School()] d
 "1022","Plot Twist","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Surprises the enemy with several polar bears, dealing [FormatDamage(SimpleDamage(1,1)*3)] [School()] damage.","133741","7","0","0","0"
-"1023","Rebooting","Enters reboot mode, performing no actions for 2 rounds, then recovers [StandardHealing(3,1,278)] health.","133860","9","0","805","2"
+"1023","Rebooting","Enters reboot mode, performing no actions for 2 rounds, then recovers [StandardHealing(3,1,1024)] health.","133860","9","0","805","2"
 "1024","Reboot","Reboots the operating system, performing no actions for two |4round:rounds;, then recovers [StandardHealing(3,1)] health.","133860","9","5","0","2"
 "1025","Armageddon","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
@@ -2136,7 +2138,7 @@ Interrupts the opponent's round if the user goes first.","651727","0","3","0","0
 Bashes the enemy, dealing [StandardDamage(1,1)] [School()] damage.","133485","0","0","0","0"
 "1080","Booby-Trapped Presents","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Lays down a ring of booby-trapped presents around the opponent. The next pet to swap into the battle will receive [StandardDamage(1,1,635)] [School()] damage.","134143","9","5","0","0"
+Lays down a ring of booby-trapped presents around the opponent. The next pet to swap into the battle will receive [StandardDamage(1,1,1081)] [School()] damage.","134143","9","5","0","0"
 "1081","Booby-Trapped Presents","The next pet on this team to enter the battlefield receives [StandardDamage(1,1)] [School()] damage.","134143","9","0","790","0"
 "1082","Jade Breath","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
@@ -2163,9 +2165,9 @@ Bones continue to fall on the enemy's current pet, dealing [StandardDamage(1,1, 
 "1092","Bone Barrage","Deals [StandardDamage(1,1)] [School()] damage to the current pet every round.","458717","3","0","0","0"
 "1093","Dead Man's Party","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Summons a dead man's party, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage.
+Summons a dead man's party, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round.
 
-Opponents struck by the party take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the party take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 The party continues for [numTurns()] |4round:rounds;.","307568","3","0","0","0"
 "1094","Macabre Maraca","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -2183,7 +2185,9 @@ Sends out deadly spinning hammers, dealing [FormatDamage(SimpleDamage(1,1)*3)] [
 "1101","Shieldstorm","A magic shield surrounds each friendly pet, blocking the next attack they would take. Lasts [duration(1,1)] |4round:rounds;.","135874","0","8","0","2"
 "1103","Righteous Inspiration","The user inspires a friendly pet to charge into battle. This ability always goes first.
 
-The swapped-in pet has double speed and damage for [duration(1,2)] |4round:rounds;. If all their friends are dead, the user can still inspire themself.","135971","5","8","0","2"
+The swapped-in pet has double speed and damage for [duration(1,2)] |4round:rounds;. If all their friends are dead, the user can still inspire themself.
+
+This ability starts on cooldown.","135971","5","8","0","34"
 "1104","Reflective Shield","Deals damage equal to 50% of direct attacks back to the attacker.","132362","-1","0","27","2"
 "1105","Reflective Shield","The user is shielded, dealing 50% of the damage they take to their attacker for [duration(1, 2)] rounds.","132362","0","3","0","2"
 "1106","Falling Murloc","[StandardAccuracy(1,2)] |cffffffffHit Chance|r
@@ -2306,6 +2310,9 @@ Bites deeply into the enemy, dealing [StandardDamage(1,1)] [School()] damage.
 
 Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(30*AttackBonus())] [School()] damage.","970834","8","0","0","0"
 "1377","Hearty Meal","Due to some unusual eating habits, this team restores [StandardHealing(1,1)] health per round.","133952","7","0","0","2"
+"1378","Righteous Inspiration","The user inspires a friendly pet to charge into battle. This ability always goes first.
+
+The swapped-in pet has double speed and damage for [duration(1,2)] |4round:rounds;. If all their friends are dead, the user can still inspire themself.","135971","5","8","0","2"
 "1379","Shell Armor","Reduces up to [abs(abilityStateMod(71,1379))*AttackBonus()] damage from every attack against the target.","134969","-1","0","660","2"
 "1380","Shell Armor","Reduces up to [abs(abilityStateMod(71,1379))*AttackBonus()] damage from each attack against you. 
 
@@ -2407,10 +2414,10 @@ Channels the enemy's worst fear, causing [StandardDamage(1,1)] [School()] damage
 Always hits if the target is |cff0099FFSleeping|r or |cFF808080Stunned|r.","237569","5","3","0","0"
 "1556","Jar of Smelly Liquid","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage and reduces the target's speed by [abs(abilityStateMod(25,470))]% and damage done by [abs(abilityStateMod(23,470))]% for [duration(1,2)] |4round:rounds;.","1001622","0","1","0","0"
+Deals [StandardDamage(1,1)] [School()] damage and reduces the target's speed by [abs(abilityStateMod(25,470))]% and damage done by [abs(abilityStateMod(23,470))]% for [duration(1,2)] |4round:rounds;.","1001622","0","2","0","0"
 "1557","Buuurp!","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [petTypeName(abilityPetType())] damage instantly. The enemy is |cFF1EFF00Poisoned|r for [StandardDamage(1,1,500)] additional [petTypeName(abilityPetType())] damage per round for [duration(1,2)] |4round:rounds.","136182","6","4","0","0"
+Deals [StandardDamage(1,1)] [petTypeName(abilityPetType())] damage instantly. The enemy is |cFF1EFF00Poisoned|r for [StandardDamage(1,1,379)] additional [petTypeName(abilityPetType())] damage per round for [duration(1,2)] |4round:rounds.","136182","6","4","0","0"
 "1558","Buuurp!","","0","6","0","903","0"
 "1559","Paralyzing Venom","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
@@ -2463,7 +2470,7 @@ Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [Sta
 Blasts the enemy with a surge of arcane power, dealing [StandardDamage(1,1)] [School()] damage. 
 
 Opponents struck by the blast take 50% extra damage for [duration(1,4)] |4round:rounds;.","135735","5","0","0","0"
-"1598","Unstable Shield","Deals [StandardDamage(1,1,907)] [School()] damage each time you take direct damage.
+"1598","Unstable Shield","Deals [StandardDamage(1,1,1599)] [School()] damage each time you take direct damage.
 
 Lasts [duration(1,1)] |4round:rounds;.","136051","6","4","0","0"
 "1599","Unstable Shield","Deals [FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)] [School()] damage each time you take direct damage.","136051","6","0","681","0"
@@ -2490,9 +2497,9 @@ This ability always goes first.","458733","0","5","0","2"
 "1680","Hidden","Increases your chance to avoid attacks by [abs(abilityStateMod( 73, 311 ))]%.","132331","-1","0","468","2"
 "1681","Puppy Parade","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Starts a stampede, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage.
+Starts a stampede, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round.
 
-Opponents struck by the stampede take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the stampede take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 Stampede continues for [numTurns()] |4round:rounds;.","236344","7","0","0","0"
 "1682","Holy Strike","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -2575,7 +2582,7 @@ A team may only have one clone.","132835","2","8","0","2"
 
 Swarms the target, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage every round. Lasts [numTurns()] |4round:rounds;.
 
-Opponents struck by the flock take double damage for [duration(1,4)] |4round:rounds;.","1332545","2","0","0","0"
+Opponents struck by the flock take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.","1332545","2","0","0","0"
 "1786","Thunderclap","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage split evenly across the enemy team.","132326","6","4","0","0"
@@ -2584,9 +2591,9 @@ Deals [StandardDamage(1,1)] [School()] damage split evenly across the enemy team
 Recklessly rushes into the enemy, dealing [StandardDamage(1,1)] [School()] damage and dealing [SimpleDamage(1,3)] [School()] damage to themselves.","304501","7","0","0","0"
 "1796","Family Reunion","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Gathers Trashy's family, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage.
+Gathers Trashy's family, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round.
 
-Opponents struck by the stampede take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the stampede take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 Stampede continues for [numTurns()] |4round:rounds;.","646059","4","0","0","0"
 "1797","Dumpster Dive","[StandardAccuracy(2,1)] |cffffffffHit Chance|r
@@ -2627,7 +2634,7 @@ First use: Loads the cannon.
 
 Second use: Fires the cannon, dealing [StandardDamage(1,1)] [School()] damage.","135837","5","0","0","0"
 "1874","Flame On!","Deals [StandardDamage(1,1)] [School()] damage to an enemy every round.","841218","6","0","951","0"
-"1875","Flame On!","Ignites the caster, causing them to deal [StandardDamage(1,1,408)] [School()] damage to the current enemy pet every round. Lasts [duration(1,1)] |4round:rounds.","841218","6","0","0","0"
+"1875","Flame On!","Ignites the caster, causing them to deal [StandardDamage(1,1,1874)] [School()] damage to the current enemy pet every round. Lasts [duration(1,1)] |4round:rounds.","841218","6","0","0","0"
 "1880","Plague Breath","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Breathes putrid smoke on to the enemy, dealing [StandardDamage(1,1)] [School()] damage.","840198","1","0","0","0"
@@ -2743,7 +2750,7 @@ While recharging, you cannot perform any other actions.","1711341","9","5","0","
 
 Deals [StandardDamage(1,1)] [School()] damage to the enemy team and swaps the user with your highest health pet.","839982","8","5","0","0"
 "1990","Ancient Knowledge","Increases your maximum health by [abs(abilityStateMod(2,1990))/100] points per level.","648207","-1","0","376","2"
-"1991","Ancient Knowledge","Heals the user for [StandardHealing(1,5)] health and increases the maximum health of your active pet by [points(1,1,1990)] per level for [duration(1,1)] rounds.","441147","1","5","0","2"
+"1991","Ancient Knowledge","Heals the user for [StandardHealing(1,5)] health and increases the maximum health of your active pet by [abs(abilityStateMod(2,1990))/100] per level for [duration(1,1)] rounds.","441147","1","5","0","2"
 "2009","Express Delivery","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage. 
@@ -2765,9 +2772,9 @@ Deals [StandardDamage(1,1)] [School()] damage and forces an opponent's pet to sw
 Throws a package at the enemy, dealing [StandardDamage(1,1)] [School()] damage.","1506461","0","0","0","0"
 "2023","Junk Mail","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Starts an avalanche of mail, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage.
+Starts an avalanche of mail, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage on the first round, [FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))] [School()] on the second round, and [FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))] [School()] on the third round.
 
-Opponents struck by the mail take double damage for [duration(1,4)] |4round:rounds;.
+Opponents struck by the mail take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,4)] |4round:rounds;.
 
 Junk Mail continues for [numTurns()] |4round:rounds;.","133462","0","0","0","0"
 "2024","Kernel Toss","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -2800,14 +2807,14 @@ Lasts [duration(1,1)] |4round:rounds;.","463521","7","4","0","2"
 
 Causes an eruption of filth and garbage to form under the enemy pet. 
 
-In two |4round:rounds, the opponent's pet will take [StandardDamage(3,1,512)] [School()] damage and be rooted for [duration(3,2,512)] rounds.","236271","5","3","0","0"
+In two |4round:rounds, the opponent's pet will take [StandardDamage(3,1,2063)] [School()] damage and be rooted for [duration(3,2,2063)] rounds.","236271","5","3","0","0"
 "2063","Sewage Eruption","[StandardAccuracy(3,1)] |cffffffffHit Chance|r
 
 When this effect expires, your current pet will take [StandardDamage(3,1)] [School()] damage and be unable to flee for [duration(3,2)] rounds.","236271","5","0","1118","0"
 "2064","""Tea Party""","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Attacks the enemy in the blink of an eye, dealing [StandardDamage(1,7)] [School()] damage to all enemy pets.","132802","3","0","0","0"
-"2065","Nap Time","Fall asleep, restoring [StandardHealing(1,1,246)] health on the first round, [StandardHealing(2,1,246)] health on the second, then [StandardHealing(3,1, 246)] health on the third.
+"2065","Nap Time","Fall asleep, restoring [StandardHealing(1,1,2066)] health on the first round, [StandardHealing(2,1,2066)] health on the second, then [StandardHealing(3,1,2066)] health on the third.
 
 While napping you cannot swap pets.","132156","7","5","0","2"
 "2066","Napping","Napping.
@@ -2905,8 +2912,8 @@ Then die a horrible death.","134298","2","10","0","32"
 "2100","Swarm of Bees","Deals [StandardDamage(1,1)] [School()] damage to the current pet every round.","2027853","4","0","219","0"
 "2101","Swarm of Bees","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-A swarm of bees attacks the enemy's active pet, dealing [StandardDamage(1,1,231)] [School()] damage every round for [duration(1,1)] |4round:rounds;. Persists through pet swaps.","2027853","4","0","0","0"
-"2102","Void Cyclone","Creates a cyclone which has a [accuracy(1,1,189)]% chance to deal [StandardDamage(1,1,189)] [School()] damage to the enemy team each round.
+A swarm of bees attacks the enemy's active pet, dealing [StandardDamage(1,1,2100)] [School()] damage every round for [duration(1,1)] |4round:rounds;. Persists through pet swaps.","2027853","4","0","0","0"
+"2102","Void Cyclone","Creates a cyclone which has a [accuracy(1,1,2103)]% chance to deal [StandardDamage(1,1,2103)] [School()] damage to the enemy team each round.
 
 Lasts [duration(1,1)] rounds.","1386548","5","5","0","0"
 "2103","Void Cyclone","Deals [StandardDamage(1,1)] [School()] damage to your team each round.
@@ -3065,7 +3072,7 @@ Deals [StandardDamage(1,1,2256)] [School()] damage to the enemy's active pet eve
 "2257","Corrupted Touch","Deals [StandardDamage(1,1)] [School()] damage each round.","651090","6","0","1123","1"
 "2258","Corrupted Touch","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Sap all hope from the target, causing it to suffer [StandardDamage(1,1)] [School()] damage plus [StandardDamage(1,1,2251)] [School()] damage each round. Lasts [duration(1,2)] |4round:rounds.","651090","6","0","0","0"
+Sap all hope from the target, causing it to suffer [StandardDamage(1,1)] [School()] damage plus [StandardDamage(1,1,2257)] [School()] damage each round. Lasts [duration(1,2)] |4round:rounds.","651090","6","0","0","0"
 "2259","Species Attack","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Launch a deadly Shredder Blade at your enemy, dealing [StandardDamage(1, 1)] [School()] damage. Deals [FormatDamage(3*AttackBonus())] additional damage for each additional pet on your team that is the same species as the caster.","134427","9","0","0","0"
@@ -3088,7 +3095,7 @@ Apply Redirect Aura","134427","9","0","0","2"
 Damage all enemy targets for [points(1,1)]% of their current health, and heal for [points(1,2)]% of that amount.","134427","9","0","0","2"
 "2280","test attack","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Launch a deadly Shredder Blade at your enemy, dealing [StandardDamage(1, 1)] [School()] damage. Deals [FormatDamage(3*AttackBonus())] additional [School()] damage for each additional pet on your team that is the same species as the caster.","134427","9","0","0","0"
+Launch a deadly Shredder Blade at your enemy, dealing [StandardDamage(1, 1)] [School()] damage. Deals [FormatDamage(3*AttackBonus())] additional [School()] damage for each additional pet on your team that is the same species as the caster.","134427","0","0","0","0"
 "2281","intercept aura","winning the game","132090","-1","0","0","2"
 "2282","intercept","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
@@ -3134,7 +3141,7 @@ Each minion lasts [duration(1,1)] |4round:rounds;.","136119","3","2","0","0"
 
 Deals [StandardDamage(1,1)] [School()] damage and defiles the area with an aura of necromancy.
 
-After [duration(1,2)] |4round:rounds the area will erupt in a burst of necrotic energy, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED, 2301),1,2301)] [School()] damage to all enemy pets and healing for [points(1,3)]% of the damage dealt.","2576095","3","3","0","0"
+After [duration(1,2)] |4round:rounds the area will erupt in a burst of necrotic energy, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED, 2301),1,2301)] [School()] damage to all enemy pets and healing for [points(1,2,2301)]% of the damage dealt.","2576095","3","3","0","0"
 "2301","Necrotic Bomb","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)] [School()] damage after 3 |4round:rounds; to the all enemy pets, and heals the caster for [points(1,2)]% of the damage dealt.","2576095","3","0","0","0"
@@ -3241,7 +3248,7 @@ On the next round, you attack, dealing [StandardDamage(2, 1)] [School()] damage.
 
 Flocks the target, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3)+SimpleDamage(1,4)+SimpleDamage(1,5))] [School()] damage every round. Lasts [numTurns()] |4round:rounds;.
 
-Opponents struck by the flock take double damage for [duration(1,6)] |4round:rounds;.","135996","2","0","0","0"
+Opponents struck by the flock take [abs(abilityStateMod( 24, 542 ))]% increased damage for [duration(1,6)] |4round:rounds;.","135996","2","0","0","0"
 "2335","Counterstrike X","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage. 
@@ -3314,7 +3321,7 @@ When this effect expires, your current pet will take [StandardDamage(3,1)] [Scho
 
 Causes a void tremor to form under the enemy pet. 
 
-In two |4round:rounds, the opponent's pet will take [StandardDamage(3,1,512)] [School()] damage and be rooted for [duration(3,2,512)] rounds.","537022","5","3","0","0"
+In two |4round:rounds, the opponent's pet will take [StandardDamage(3,1,2359)] [School()] damage and be rooted for [duration(3,2,2359)] rounds.","537022","5","3","0","0"
 "2361","Void Slap","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Slap your enemies with void energy, dealing [StandardDamage(1,1)] [School()] damage, split evenly amongst them.","237244","5","2","0","0"
@@ -3337,13 +3344,53 @@ Fire a cluster of unguided rockets into the air, dealing [StandardDamage(1,1)] [
 
 Zap the target from both claws, dealing [StandardDamage(1,1)*2] [School()] damage to the enemy pet.
 
-Double Zap has a [StandardAccuracy(1,3)]% chance to apply Healing Jolt to the caster for [duration(1,3)] turns, causing any attack against the Gigacharged Mayhem Maker to heal the target.","2735955","9","0","0","0"
+Double Zap has a [StandardAccuracy(1,3)] chance to apply Healing Jolt to the caster for [duration(1,3)] turns, causing any attack against the Gigacharged Mayhem Maker to heal the target.","2735955","9","0","0","0"
 "2372","Elementium Bolt","Detonates after [numTurns()-1] |4round:rounds, dealing [StandardDamage(3,1)] [School()] damage to the current enemy pet and stunning the target for [duration(3,2)] |4round:rounds;.
 
 [StandardAccuracy(3,1)] |cffffffffHit Chance|r","575536","1","0","0","8"
-"2373","Void Crash","Detonates after [numTurns()-1] |4round:rounds, dealing [StandardDamage(3,1)] [School()] damage to the current enemy pet and stunning the target for [duration(3,2)] |4round:rounds;.
+"2373","Void Crash","Detonates after [duration(1,1,2358)] |4round:rounds, dealing [StandardDamage(1,1)] [School()] damage to the current enemy pet and stunning the target for [duration(3,2,605)] |4round:rounds;.
 
-[StandardAccuracy(3,1)] |cffffffffHit Chance|r","1386551","5","0","0","8"
+[StandardAccuracy(1,1)] |cffffffffHit Chance|r","1386551","5","0","0","8"
+"2375","Needle Claw","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Instantly deals [StandardDamage(1,1)] [School()] damage and |cFF1EFF00Poisons|r the target for [StandardDamage(1,1,379)] additional [School(379)] damage per round for [duration(1,2)] |4round:rounds.","1508492","8","0","0","0"
+"2376","Ray of Hope","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+A ray of hope shines through, restoring [StandardHealing(1,1)] health to all friendly pets and transforming the weather into a sunny day for [duration(1,4)] rounds.
+
+During a sunny day, the maximum health of all pets is increased by [abs(abilityStateMod(99,403))]%. and healing done is increased by [abs(abilityStateMod(65,403))]%.","537227","8","5","0","0"
+"2377","Holy Blast","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Blasts the enemy with holy light, dealing [StandardDamage(1,1)] [School()] damage. 
+
+Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(25 *AttackBonus())] [School()] damage.","461859","5","0","0","0"
+"2378","Nova Swarm","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets. Restores[StandardHealing(1,1)] health to all allies.","525026","5","1","0","0"
+"2379","Swirling Knowledge","Blocks the next 2 attacks but the caster is locked in place researching for 1 turn.","134917","5","0","1179","2"
+"2380","Stay a While and Listen","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Puts the target to sleep for [duration(1,1)] |4round:rounds;.","458721","5","5","0","2"
+"2381","Dark Bolt","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Blasts the enemy with a surge of shadow, dealing [StandardDamage(1,1)] [School()] damage.","3565726","5","0","0","0"
+"2382","Deep in Research","Books swirl around you, blocking the next two attacks, but locking you in place for a turn.","134917","5","4","0","2"
+"2383","Crusher Jaws","At the end of the round,Jawbone will cause a devastating bite at the enemy pet, dealing  [abs(abilityStateMod(, 542 ))]%","1339043","8","0","0","0"
+"2384","Hammer","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [School()] damage and forces an opponent's pet to swap into battle.","1405803","9","4","0","0"
+"2385","Holy Nova","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","135922","5","2","0","0"
+"2386","Shadowy Lurker","Nightfang automatically gains Prowl at the end of each turn.","514640","-1","0","0","2"
+"2387","Mind Games","Addius has cursed your pet team. Choose which detriment you want to your team to suffer!","135740","5","4","0","2"
+"2388","Mind Games: Health","Damage all of your team for [points(1,1)]% of their current health.","135740","5","0","0","2"
+"2389","Mind Games: Stun","Stun your current active pet for [duration(1,1)] rounds.","135740","5","0","0","2"
+"2390","Mind Games: Ability Lockout","Lock out ability slots 1 and 2 for [lockduration(1,1)] turns.","135740","5","0","0","2"
+"2391","Mind Games: Recharging","Addius' Mind Games ability is recharging...","135740","5","0","0","2"
+"2392","Mind Games","Addius has cursed your pet team. Choose which detriment you want to your team to suffer!","135740","5","0","0","2"
+"2393","Mind Games","Wretch has temporarily replaced an ability with Grave Destruction.","135740","5","0","0","2"
+"2394","Mind Games","Addius has cursed your pet team. Choose which detriment you want to your team to suffer!","135740","5","0","0","10"
 "1934","Breath","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Overwhelms the enemy with draconic breath, dealing [StandardDamage(1, 1)] [School()] damage.","135807","1","0","0","0"
@@ -3385,9 +3432,6 @@ Pummels the enemy 1-2 times, dealing [StandardDamage(1,1)] [School()] damage per
 
 Hits an additional time if the user attacks first.","458970","0","0","0","0"
 "1075","Spiny Carapace","Deals [FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)] [School()] damage each time you take direct damage.","134964","8","0","0","0"
-"1378","Righteous Inspiration","The user inspires a friendly pet to charge into battle. This ability always goes first.
-
-The swapped-in pet has double speed and damage for [duration(1,2)] |4round:rounds;. If all their friends are dead, the user can still inspire themself.","135971","5","8","0","2"
 "1359","Bark","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage and reduces the target's next attack by [abs(abilityStateMod( 23, 1120 ))]%. Lasts [duration(1, 2)] |4round:rounds;.","461121","7","0","0","0"
@@ -3397,3 +3441,4 @@ Calls for canine backup, dealing [FormatDamage(SimpleDamage(1,2)*3)] [School()] 
 "2231","Sonic Detonator","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Toss a sonic detonator at your target, dealing [StandardDamage(1,1)] [School()] to your enemy and an additional [StandardDamage(1,2)] [School()] damage to any other enemies when it detonates.","1345087","9","3","0","0"
+"2395","Mind Games","Addius has cursed your pet team. Choose which detriment you want to your team to suffer!","135740","5","0","0","10"
