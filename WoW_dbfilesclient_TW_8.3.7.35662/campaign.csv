@@ -1,0 +1,4 @@
+Id,Name,InternalName,Description,UiTextureKitId,RewardQuestId,VisibilityConditionId
+"1","陣營戰役","Alliance War Campaign","為了聯盟！","261","0","62149"
+"2","陣營戰役","Horde War Campaign","為了部落！","262","0","62179"
+"3","Test Campaign","[Internal] Test Campaign","","261","52262","62344"

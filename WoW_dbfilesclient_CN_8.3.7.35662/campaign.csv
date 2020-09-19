@@ -1,0 +1,4 @@
+Id,Name,InternalName,Description,UiTextureKitId,RewardQuestId,VisibilityConditionId
+"1","阵营战役","Alliance War Campaign","为了联盟！","261","0","62149"
+"2","阵营战役","Horde War Campaign","为了部落！","262","0","62179"
+"3","Test Campaign","[Internal] Test Campaign","","261","52262","62344"

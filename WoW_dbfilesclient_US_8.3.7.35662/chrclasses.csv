@@ -1,0 +1,13 @@
+Id,Name,Filename,NameMale,NameFemale,PetNameToken,CreateScreenFileDataId,SelectScreenFileDataId,IconFileDataId,LowResScreenFileDataId,StartingLevel,SpellTextureFileDataId,Flags,CinematicSequenceId,DefaultSpec,PrimaryStatPriority,DisplayPower,RangedAttackPowerPerAgility,AttackPowerPerAgility,AttackPowerPerStrength,SpellClassSet
+"1","Warrior","WARRIOR","Warrior","","PET","0","0","626008","0","1","791568","5170","0","71","5","1","0","0","1","4"
+"2","Paladin","PALADIN","Paladin","","PET","0","0","626003","0","1","791563","4154","0","70","5","0","0","0","1","10"
+"3","Hunter","HUNTER","Hunter","","PET","0","0","626000","0","1","791560","406","0","253","2","2","1","1","0","9"
+"4","Rogue","ROGUE","Rogue","","PET","0","0","626005","0","1","791565","4098","0","259","3","3","1","1","0","8"
+"5","Priest","PRIEST","Priest","","PET","0","0","626004","0","1","791564","2","0","256","0","0","0","0","0","6"
+"6","Death Knight","DEATHKNIGHT","Death Knight","","PET","236082","236082","135771","1560617","55","791558","9338","165","251","5","6","0","0","1","15"
+"7","Shaman","SHAMAN","Shaman","","PET","0","0","626006","0","1","791566","26","0","262","0","0","0","1","0","11"
+"8","Mage","MAGE","Mage","","PET","0","0","626001","0","1","791561","4098","0","62","0","0","0","0","0","3"
+"9","Warlock","WARLOCK","Warlock","","DEMON","0","0","626007","0","1","791567","134","0","265","0","0","0","0","0","5"
+"10","Monk","MONK","Monk","","PET","0","0","626002","0","1","791562","1538","0","268","2","3","0","1","0","53"
+"11","Druid","DRUID","Druid","","PET","0","0","625999","0","1","791559","10","0","102","0","0","0","1","0","7"
+"12","Demon Hunter","DEMONHUNTER","Demon Hunter","","PET","1305036","1305036","236415","1560446","98","1004940","75","0","577","3","17","0","1","0","107"

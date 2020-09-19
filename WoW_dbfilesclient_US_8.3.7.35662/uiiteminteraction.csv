@@ -1,0 +1,4 @@
+Id,TutorialText,TitleText,Description,ButtonText,UiTextureKitId,OpenSoundKitId,CloseSoundKitId,Cost,ItemInteractionFrameType,InteractionSpellId,CurrencyTypeId,Field_8_3_0_32414_012,DropInSlotSoundKitId,TakeOutSlotSoundKitId
+"1","[PH] This is some text telling the player how to use this UI!","Cleanse Reforger","Removes the benefit and side effect from a corrupted item","Cleanse","5272","115219","115220","32","0","13262","0","1","0","0"
+"2","[PH] This is some text telling the player how to use this UI!","Cleanse Reforger","Removes the benefit and side effect from a corrupted item","Cleanse","5272","115219","115220","32","0","0","0","2","8560","8560"
+"3","Place a Corrupted Item here and click ""Purify"" to remove both the On Equip and Corruption from the item.","Titanic Purification","Removes the On Equip and Corruption from a Corrupted Item","Purify","5272","115219","115220","5","0","0","1719","2","146817","146814"

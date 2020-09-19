@@ -1,0 +1,4 @@
+Id,Name,InternalName,Description,UiTextureKitId,RewardQuestId,VisibilityConditionId
+"1","War Campaign","Alliance War Campaign","For the Alliance!","261","0","62149"
+"2","War Campaign","Horde War Campaign","For the Horde!","262","0","62179"
+"3","Test Campaign","[Internal] Test Campaign","","261","52262","62344"

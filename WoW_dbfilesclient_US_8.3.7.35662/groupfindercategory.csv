@@ -1,0 +1,11 @@
+Id,Name,OrderIndex,Flags
+"1","Questing","0","20"
+"2","Dungeons","1","0"
+"3","Raids","3","1"
+"4","Arenas","0","0"
+"5","Scenarios","2","0"
+"6","Custom","10","2"
+"7","Arena Skirmishes","1","0"
+"8","Battlegrounds","2","2"
+"9","Rated Battlegrounds","3","2"
+"111","Island Expeditions","4","0"

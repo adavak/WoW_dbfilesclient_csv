@@ -1,0 +1,4 @@
+Id,TutorialText,TitleText,Description,ButtonText,UiTextureKitId,OpenSoundKitId,CloseSoundKitId,Cost,ItemInteractionFrameType,InteractionSpellId,CurrencyTypeId,Field_8_3_0_32414_012,DropInSlotSoundKitId,TakeOutSlotSoundKitId
+"1","[PH] This is some text telling the player how to use this UI!","祛除重鑄者","移除腐化物品上的強化效果與副作用","祛除","5272","115219","115220","32","0","13262","0","1","0","0"
+"2","[PH] This is some text telling the player how to use this UI!","淨化重鑄者","移除腐化物品上的強化效果與副作用","祛除","5272","115219","115220","32","0","0","0","2","8560","8560"
+"3","將腐化物品放置在此，然後點擊「淨化」移除物品上的額外裝備效果與腐化值","泰坦淨化程序","移除腐化物品上的額外裝備效果與腐化值","淨化","5272","115219","115220","5","0","0","1719","2","146817","146814"

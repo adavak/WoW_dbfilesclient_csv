@@ -1,0 +1,4 @@
+Id,TutorialText,TitleText,Description,ButtonText,UiTextureKitId,OpenSoundKitId,CloseSoundKitId,Cost,ItemInteractionFrameType,InteractionSpellId,CurrencyTypeId,Field_8_3_0_32414_012,DropInSlotSoundKitId,TakeOutSlotSoundKitId
+"1","[PH] This is some text telling the player how to use this UI!","净化重铸师","移除一个腐蚀物品上的增益和负面效果。","净化","5272","115219","115220","32","0","13262","0","1","0","0"
+"2","[PH] This is some text telling the player how to use this UI!","净化重铸师","移除一个腐蚀物品上的增益和负面效果。","净化","5272","115219","115220","32","0","0","0","2","8560","8560"
+"3","在此放入腐蚀物品并点击“净化”以移除该物品上的装备特效和腐蚀值。","泰坦净化","移除一个腐蚀物品上的装备特效和腐蚀值。","净化","5272","115219","115220","5","0","0","1719","2","146817","146814"
