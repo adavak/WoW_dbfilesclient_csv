@@ -68,17 +68,17 @@ Id,Description
 "217","當此事件開放時，你的戰寵會獲得三倍的經驗值！馬上開始對戰吧！"
 "218","當此事件開放時，只要在100級的英雄或傳奇難度地城中擊敗敵人，就可以獲得對應的德拉諾陣營聲望。"
 "219","當此事件開放時，在隨機戰場中可以取得更高的榮譽值。從戰場上光榮凱旋歸來吧！"
-"220","當此事件開放時，等級81或以上的玩家將可加入特殊的時光漫遊地城佇列，拜訪過去《巫妖王之怒》資料片的地城。參與時光漫遊事件時，玩家的角色和裝備等級將會被調低，但是首領掉落的物品依然是玩家正常等級所應獲得之水準。
+"220","While this event is active, players level 50 or higher may access a special Timewalking Dungeon Finder queue, which scales players and their items down to revisit past dungeons from the Wrath of the Lich King expansion. While Timewalking, bosses will yield loot appropriate for a player's natural level.
 
-在巫妖王之怒時光漫遊事件期間，玩家可以組成10到30人的隊伍，前往北裂境的達拉然跟沃爾慕交談，進入時光漫遊版本的奧杜亞團隊副本。"
+During Wrath Timewalking, you may assemble a raid group of between 10 and 30 players, travel to Dalaran in Northrend, and speak with Vormu to access a Timewalking version of the Ulduar raid."
 "221","當此事件開放時，在競技場練習賽將可以更高的榮譽值。好戰鬥，不打嗎？"
-"222","當此事件開放時，等級71或以上的玩家將可加入特殊的時光漫遊地城佇列，拜訪過去《燃燒的遠征》資料片的地城。參與時光漫遊事件時，玩家的角色和裝備等級將會被調低，但是首領掉落的物品依然是玩家正常等級所應獲得之水準。
+"222","While this event is active, players level 50 or higher may access a special Timewalking Dungeon Finder queue, which scales players and their items down to revisit past dungeons from The Burning Crusade expansion. While Timewalking, bosses will yield loot appropriate for a player's natural level.
 
-在燃燒的遠征時光漫遊事件期間，玩家可以組成10到30人的隊伍，前往外域的撒塔斯城跟沃爾慕交談，進入時光漫遊版本的黑暗神廟團隊副本。"
+During Burning Crusade Timewalking, you may assemble a raid group of between 10 and 30 players, travel to Shattrath City in Outland, and speak with Vormu to access a Timewalking version of the Black Temple raid."
 "223","當此事件開放時，頂尖水晶會神秘地增加。在德拉諾原先會掉落頂尖水晶的生物現在掉落的機率更高了。"
-"224","此事件期間，等級86以上的玩家將可加入特殊時光漫遊地城搜尋器的佇列，重新造訪《浩劫與重生》資料片的過往地城。時光漫遊時，玩家與道具等級將隨之降低，但首領會掉落與玩家原本等級相當的物品。
+"224","While this event is active, players level 50 or higher may access a special Timewalking Dungeon Finder queue, which scales players and their items down to revisit past dungeons from the Cataclysm expansion. While Timewalking, bosses will yield loot appropriate for a player's natural level.
 
-在《浩劫與重生》時光漫遊地城事件期間，你可聚集 10 至 30 名玩家的團隊，前往奧格瑪或暴風城與沃爾慕談話，進入時光漫遊地城版本的火源之界。"
+During Cataclysm Timewalking, you may assemble a raid group of between 10 and 30 players, travel to Orgrimmar or Stormwind City, and speak with Vormu to access a Timewalking version of the Firelands raid."
 "225","當此事件開放時，每個軍團地城的最後首領都會多掉落一件物品。"
 "226","當此事件開放時，完成世界任務會得到相應陣營的聲望加成獎勵。"
 "227","在這個日子，艾澤拉斯和德拉諾的居民會對勞苦功高的守衛表示敬意。向守衛敬禮表示感謝！"
@@ -91,7 +91,7 @@ Id,Description
 "234","艾澤拉斯的法師們偶爾也需要放鬆放鬆。在附近的酒館跳進傳送門，就能加入旅店大拼酒活動！"
 "235","在今天，北風凍原的冬鰭魚人寶寶要完成橫渡西裂峽的壯舉。"
 "236","今天是贊格沼澤的斯博格爾孢子人慶祝年度香菇節慶的日子。幫助他們維持福咻菇的生命，越久越好！"
-"237","當此事件開放時，等級91或以上的玩家將可加入特殊的時光漫遊地城搜尋器佇列，前往過去《潘達利亞之謎》資料片的地城歷險。參與時光漫遊事件時，玩家的角色和裝備等級將會被調低，但是首領掉落的物品依然是玩家正常等級所應獲得之水準。"
+"237","While this event is active, players level 50 or higher may access a special Timewalking Dungeon Finder queue, which scales players and their items down to revisit past dungeons from the Mists of Pandaria expansion. While Timewalking, bosses will yield loot appropriate for a player's natural level."
 "238",""
 "241","找出你最吸睛的肩鎧，跟全艾澤拉斯的玩家比一比誰最時尚！只要拜訪各大城市中的塑形師就可以參加時尚大考驗！"
 "242","今天會在奧格瑪和暴風城中的主要拍賣場舉辦跳舞派對！大家快聚過來展現你陣營的榮耀吧！"
@@ -134,7 +134,7 @@ Id,Description
 "379","在喀撒朗蠻荒的海龜海灘為劉浪和神真子慶祝並且向他們致敬。好好沉思一番然後高歌吧！"
 "380","商人開始在艾澤拉斯的好幾個地點販售…免費T恤衫！！！據說，還有表演藝人在各個主城發放免費的二手衣！"
 "381","GG工程公司在瓦許伊爾深處發現發光生物。他們需要你趕在發光生物躲回深海以前，幫忙研究這些生物！"
-"382","當此事件開放時，等級101或以上的玩家將可加入特殊的時光漫遊地城搜尋器佇列，前往過去《德拉諾之霸》資料片的地城歷險。參與時光漫遊事件時，玩家的角色和裝備等級將會被調低，但是首領掉落的物品依然是玩家正常等級所應獲得之水準。"
+"382","While this event is active, players level 50 or higher may access a special Timewalking Dungeon Finder queue, which scales players and their items down to revisit past dungeons from the Warlords of Draenor expansion. While Timewalking, bosses will yield loot appropriate for a player's natural level."
 "383","深入斯陀頌恩谷地地底的神秘空間，發掘散佈在這片土地上的暗影來自何處。普通與英雄難度現已開放。"
 "384","傳奇難度的風暴邪淵團隊副本等待著最勇猛的冒險者，玩家現在也可以透過團隊搜尋器進入團隊副本。"
 "387","納沙塔爾的危險只是開端而已。突破宮殿的大門，踏進艾薩拉致命的領地。"

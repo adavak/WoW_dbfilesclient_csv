@@ -377,40 +377,40 @@ Id,Body
 
 ——魔兽世界开发团队"
 "551","[DNT] $gSir:Lady;"
-"552","My beautiful $p,
+"552","我美丽的$p，
 
-I was most pleased to receive your letter, for I have been thinking of you as well.
+我很高兴能收到你的来信，我一直都在想着你呢。
 
-I simply cannot wait to tell you what happened to a certain duke at my latest court.
+我已经等不及想把上一次王庭中某位公爵的遭遇告诉你了。
 
-It is positively hilarious. I thought of you immediately when it happened.
+那真的非常滑稽，我当时就想到了你。
 
-Until then,
-The Countess"
-"553","My beautiful $p,
+愿我们早日相会，
+女伯爵"
+"553","我美丽的$p，
 
-Although I would rather speak with you in person, I always welcome your messages.
+虽然我更想和你当面聊天，但是你的信件我也欢迎。
 
-I fear I have nothing of particular import of which to inform you since last we spoke.
+在我们上次相谈之后，我还没有什么重要的事情能告诉你。
 
-It has been positively dull out here in the Redelav District.
+雷迪拉夫区总是非常无趣。
 
-Perhaps I shall stir up a little excitement...
+也许我可以找点乐子……
 
-Devilishly yours,
-The Countess"
-"554","My beautiful $p,
+你残忍的，
+女伯爵"
+"554","我美丽的$p，
 
-Imagine my joy when I discovered your message amongst the letters Alfryd brought me this morning.
+我在阿尔弗莱德带来的一沓信件中发现了你的邮件，你不知道我当时多么欣喜。
 
-It was, of course, the first to which I replied.
+这当然也是我最先回复的一封信。
 
-As to your question, I cannot say. I will see what gossip I may uncover amongst the socialites and nobles of the Redelav District in regard to it.
+至于你的提问，我无法回答。我会留意雷迪拉夫区贵族与名流之间的风言风语。
 
-Come see me soon and I shall share what I learn.
+请尽快来找我，我会与你分享我的发现。
 
-Sincerely,
-The Countess"
+诚挚的，
+女伯爵"
 "555","<书信中的大部分文字都被划掉或拼错了。>
 
 我最亲爱的好朋友，
@@ -447,28 +447,28 @@ The Countess"
 
 要吃点心，
 石首"
-"558","Hey $p,
+"558","嘿，$p，
 
-Why'd you write us a letter? We're right here in Sinfall.
+你怎么会想着给我们写信的？我们就在堕罪堡呀。
 
-Cudgelface don't read so good. Just stop by and say hi next time.
+棍脸不太识字，你下次过来打个招呼就行了。
 
---Rendle"
-"559","Hey $p,
+——伦德尔"
+"559","嘿，$p，
 
-This what it feels like be a fancy noble, gettin' letters all the time?
+书信一封接着一封，这就是成为华丽贵族的感觉吗？
 
-Not sure I like it. Talkin's easier and I'm a lot better at it.
+我也说不清自己是否喜欢，说话更方便，而且我也更擅长。
 
-You see the fancy calligraphy I did on your name at the top?
+你看到我在你名字旁边写下的精美字体了吧？
 
-Took too long, so I stopped after that. But it looks great, yeah?
+这花了我好久，以后还是算了。但看起来还是很棒吧？
 
-Anyway, gotta run. How do dem fancy fangs end letters?
+不管怎么样，我还有事，那些精致的尖牙贵族是怎么结尾的来着？
 
-Probably some big swirly calligraphy, right?
+花哨的螺旋连笔签名，对吧？
 
-<The rest of the page is covered in excessively large swirls.>"
+<书信的其余部分都是超大的螺旋笔画。>"
 "560","我是棍脸。
 
 谢谢写信。
@@ -480,20 +480,20 @@ Probably some big swirly calligraphy, right?
 学新东西。
 
 我是棍脸。"
-"561","Greetings old friend,
+"561","你好，老朋友，
 
-I am certain you would be amused to know that your letter surprised me. Quite literally.
+你肯定很想知道，你的来信让我大吃一惊，是字面上的意思。
 
-The stone fiend threw it at me while I was locking up one of the crypts.
+我当时正在给地穴上锁，石精突然把信扔给了我。哈！
 
-That particular messenger must have had a grudge against me.
+那个信使肯定对我很不爽。
 
-You never can fully trust a stone fiend. Stone fiends must obey our orders, but they are devilishly good at finding loopholes when they want to.
+你没法真正信赖一个石精，石精必须遵从我们的指令。但只要它们想，它们总能找到漏洞。
 
-I have ordered my messenger directly to not throw, toss, or lob this letter at you. Hopefully it works.
+我已经直接命令信使不得把这封信抛掷、投掷或扔给你。希望这有用。
 
-Sincerely,
-Cryptkeeper Kassir"
+诚挚的，
+地穴看守者卡希尔"
 "562","你好，老朋友，
 
 你的信鼓舞了我，我相信堕罪堡现在已归于能人之手。
@@ -506,44 +506,44 @@ Cryptkeeper Kassir"
 
 诚挚的，
 地穴看守者卡希尔"
-"563","Greetings old friend,
+"563","你好，老朋友，
 
-You must forgive my short reply. The Chamberlain's thugs have cracked open one of my crypts again!
+请原谅我的简短回信，宫务大臣的走狗又一次砸开了我的地穴！
 
-They stole the soul that I was tending to, and put a mirror in the crypt instead.
+他们偷走了我看管的灵魂，还放进去了一面镜子。
 
-Do not worry, I did not follow them through it.
+别担心，我不会跟着他们进去的。
 
-I know better than to wander into a mirror when I do not know its destination.
+我当然不会进入一面不知道通向哪里的镜子。
 
-Sincerely,
-Cryptkeeper Kassir"
-"564","If you can read this, you must really be $p.
+诚挚的，
+地穴看守者卡希尔"
+"564","如果你能读到这封信，你肯定是真正的$p。
 
-I enchanted the parchment to reveal my true message only to you.
+我对书卷施了魔法，只会向你显示真正的讯息。
 
-Everyone else will see a drawing of Bwonsamdi's behind--ha!
+其他人只会看到邦桑迪的屁股！哈哈哈！
 
-That's what they deserve for reading someone else's letter!
+偷看别人信件活该得到这种下场！
 
-Anyway, I don't really have anything to say, I just really wanted to trick someone into looking at the drawing.
+其实我也没什么想说的，我只是想骗几个人看到那副画。
 
-Leave it somewhere that the Prince will find it. That'd be hilarious!
+你把信留在王子能找到的地方吧。这一定滑稽极了！
 
-See you soon,
-Lady Moonberry"
-"565","Heya $p,
+回见，
+月莓女勋爵"
+"565","嗨呀，$p，
 
-Thanks for the letter. I read it to Lemonseed and the gang and everyone here loved it!
+感谢你的来信，我读给了柠核和其他人听，大家都很喜欢呢！
 
-They're all so jealous that I get to attend the Ember Court with you. They're begging me to take them to the next one.
+我可以和你一起参加灰烬王庭，这让他们都羡慕坏了，都求我下次带上他们。
 
-What a great opportunity to play some tricks on them all...
+这是个戏耍所有人的好机会……
 
-See? Even when the Ember Court isn't happening, it's still fun!
+瞧，就算没有灰烬王庭，乐趣也随处可寻！
 
-Talk to you soon,
-Lady Moonberry"
+下次再聊，
+月莓女勋爵"
 "566","$p，
 
 我们是最好的朋友吧？
@@ -570,48 +570,48 @@ Lady Moonberry"
 
 继续狩猎吧，
 狩猎队长柯莱恩"
-"568","To $p,
+"568","致$p，
 
-I won't contest the accuracy of your current tally of kills, as reported in your previous letter.
+你在之前的信件中报告了猎物的数量，我不会质疑它的精确性。
 
-But I do find them suspiciously high. I suppose you are the Maw Walker...
+但是这个数字也太高了。我想你作为噬渊行者……
 
-Still, I enjoy our contests and will attempt to keep up with you.
+但我依然很享受狩猎竞赛，我也会尽量追上你。
 
-I have recorded one-hundred thirty-eight killing blows since I received your previous letter, and have--
+自我收到你的上一封信以来，我已经完成了138次猎杀，并且……
 
-<Hunt-Captain Korayn's writing trails off the page.>
+<狩猎队长柯莱恩的字体越来越小。>
 
-Make that one-hundred fifty-two kills! Sure, a few in that last wave were mites, but I can't afford to be picky when you're so far ahead!
+现在是152次！最后一波里有几个只是小虫子，但你已经领先了那么多，我当然不能挑三拣四了！
 
-Beat that,
-Hunt-Captain Korayn"
-"569","$p, I received your letter in a rare moment of quiet here at Claw's Edge.
+再接再厉，
+狩猎队长柯莱恩"
+"569","$p，收到你的来信时，我正在利爪之缘度过少有的宁静时刻。
 
-The tales of your recent adventures were most welcome, both to me and the few hunters and grovewardens recovering alongside me.
+我、其他猎人和林地卫士都很喜欢你最近的冒险故事。
 
-I hope you don't mind: I shared your stories with them. Your legend is growing faster than you might imagine.
+希望你不介意让我和他们分享故事，你的传奇正在不断流传，可能远超你的想象。
 
-There's no doubt that tales of the mighty Maw Walker will be told around Wild Hunt campfires for a long time in Ardenweald.
+毋庸置疑的是，噬渊行者的辉煌传说将在荒猎团的营火边流传不息了。
 
-I am proud to be a part of your story.
+我很自豪能成为这段传说的一部分。
 
-Until we hunt together again,
-Hunt-Captain Korayn"
-"570","Dear $p,
+愿我们能再次狩猎，
+狩猎队长柯莱恩"
+"570","尊敬的$p，
 
-I hope this letter eventually reaches you. I've learned to be wary of faeries offering to help, but this one brought a letter from you!
+希望这封信能送到你的手上。我现在已经会提防妖精们的主动帮助了，但这个妖精带来了你的信件！
 
-Or least a very good imitation of one...
+或者……至少模仿得很像。
 
-Still, I think we know each other well enough by now to identify one another's writing style.
+但我们应该已经熟识了，能够认出各自的书写方式。
 
-As to the content of your letter, I trust you know that my grove is always welcome to you. Many have found peace and safety here after troubles in their past, myself included.
+至于邮件的内容，我的林地永远欢迎你。许多灵魂都在这里找到了安宁与平和，放下了过往的烦恼。我也一样。
 
-Whenever you need respite from the heavy burdens of being the Maw Walker, you will always find it here in Hibernal Hollow.
+只要你想卸下噬渊行者的重担，冬日林谷随时欢迎你。
 
-Sincerely,
-Aliothe"
+诚挚的，
+艾莉奥瑟"
 "571","尊敬的$p，
 
 你的上一封信件成为了林地热议的话题。
@@ -626,36 +626,36 @@ Aliothe"
 
 谢谢你，
 艾莉奥瑟"
-"572","Dear $p,
+"572","尊敬的$p，
 
-Anima falls like stars in the grove as I write this letter to you. Dazzlewing weaves between them in the sky, giggling.
+在我写这封信的时候，心能正如林地中的群星一般纷纷坠落。嬉笑着的炫翼在空中编织着它们。
 
-Teendynneetll remains still, but has not yet noticed that a single star has landed on their shoulder. Or perhaps, they do not mind.
+提恩迪尼特尔还是一动不动，没有注意到肩上落下的一颗星……也可能是毫不在意吧。
 
-It is moments like this that make the fighting worthwhile. Remember that as you strive toward your next endeavor.
+看到这样的美妙时刻，你经历的所有苦战都变得值得了。在你为下一个目标不懈奋斗的时候，请别忘记这一点。
 
-From your previous letter, it sounds like it will be a most worthwhile one.
+从你的上一封信来看，你的新目标似乎很有价值。
 
-But as you walk your path and embrace your role as Maw Walker, do not forget to rest in the peaceful moments as well.
+但是在你踏上自己的道路、承担作为噬渊行者的责任时，不要忘记在这样的安宁时刻中歇息片刻。
 
-They remind us why we must fight.
+这会提醒我们战斗的理由。
 
-In rest,
-Aliothe"
-"573","Hey $p,
+安宁静歇，
+艾莉奥瑟"
+"573","嘿，$p，
 
-I was just trying to wake up Rury when your letter came.
+在我想唤醒鲁力的时候，你的信刚好来了。
 
-Hours of my shouting at him couldn't get him to budge, but the moment he heard you'd wrote us a letter, he perked right up. Figures, heh.
+我冲他吼了几个小时，都没能让他动弹。可是他一听到你寄来了信，突然就打起了精神。人呐，呵呵。
 
-Anyway, we all like the plan you're thinking of for the next Ember Court. Sounds like it'll be a blast!
+反正我们都很喜欢你对下一场灰烬王庭的安排。听起来就很棒！
 
-We're going to get an invitation, I assume. It wouldn't be right to tease us with the details and then not ask us to come... right?
+我们会想办法获得一份邀请的。你总不会把精彩内容都告诉了我们，结果却不请我们去吧？
 
-Right?!
+对不对？
 
-Waiting for that invitation,
-Choofa and the gang"
+静候邀请，
+丘法和朋友们"
 "574","我长话短说，$p。
 
 我没法说细节了，我“可能”在前面几场灰烬王庭中捎走了一些剩下的烟火。我也“可能”用它们吓坏了月莓女勋爵。
@@ -666,34 +666,34 @@ Choofa and the gang"
 
 再送点烟火来！
 落跑的丘法"
-"575","Hey buddy!
+"575","嘿，朋友！
 
-I gotta say, your letter made me even more excited for the next Ember Court. My hype level is cranked to eleven!
+你的信让我更期待灰烬王庭了。我的兴奋指数已经爆表了！
 
-So when's it gonna happen? Slanknen won't stop asking me about it, and Awool's giving me his go-to grumpy stare from across the grove.
+所以什么时候举办呢？斯兰克宁一直问个不停，而阿乌尔也隔着整片林子向我投来恼怒的目光。
 
-To be honest, the stare is probably my fault, but Slanknen's curiosity isn't! You gotta give me some details to share with him.
+坦白地说，愤怒目光多半是我不好。但是斯兰克宁和我可没关系！你最好分享一些细节，让我跟他说说。
 
-Or better yet, swing by Tirna Vaal and bring us our invitation in person!
+或者你可以直接到瓦尔仙林来转转，亲自给我们发邀请函！
 
-It'd be fun to see you.
+能见到你一定很愉快。
 
-Keep partying,
-Choofa"
-"576","$p,
+聚会不停歇，
+丘法"
+"576","$p，
 
-Not sure how long ago your letter arrived. Hopefully recent.
+不知道上一次收到你的信是什么时候，希望没多久。
 
-Found it under a pile of ingots. It was covered in grease.
+我在一堆金属锭下找到了你的信，上面还沾满了油。
 
-Only fourteen words were still legible, and none of them in direct sequence.
+只有十四个字还看得清，而且没能连成一句话。
 
-I assume you included some new curio in the package. In which case, I'm certain I've already found it, disassembled it, and reassembled it at least once already.
+我猜你在包裹里带来了新的珍玩。我估计已经找到、拆解并且至少拼起来一次了。
 
-It was no doubt illuminating.
+那确实很有启发性。
 
-Your friend,
-Mikanikos"
+你的朋友，
+米卡尼科斯"
 "577","$p，
 
 我好像忘记要去哪里以及为什么要去了。好像是个挺重要的地方。
@@ -706,72 +706,72 @@ Mikanikos"
 
 你的朋友，
 米卡尼科斯"
-"578","$p,
+"578","$p，
 
-Great letter. Diagrams of relics and technology you have encountered recently on your travels are very appreciated.
+不错的信，我很感谢你能分享在旅途中遇到的古物和技术图示。
 
-I will memorize them before distributing them to the forgehands for further study and experimentation.
+我会先记住它们，然后把它们交给铸手，进行后续的研究与实验。
 
-If I am not mistaken, one of the designs you sent will make a powerful new hat for Bron.
+如果我没会错意的话，你送来的某张设计图可以为布隆制作一顶强大的新帽子。
 
-Will try soon.
+我会尽快试试。
 
-Your friend,
-Mikanikos
+你的朋友，
+米卡尼科斯
 
-P.S. Bron says hello."
-"579","To $p,
+又及：布隆向你问好。"
+"579","致$p，
 
-You must warn me before opening your letters with amusing anecdotes. I nearly cracked a smile in front of the other polemarches.
+你在信里分享如此有趣的奇闻时，请事先提醒我。我差点就在其他文官面前笑开了花。
 
-That said, you are correct. It was quite entertaining when Theotar did that... thing at the Ember Court. You have some wild friends, $p.
+但你说得没错，西塔尔在灰烬王庭做……那件事的时候，确实让我很愉悦。你的朋友可真奇怪啊，$p。
 
-I am glad to count myself among them.
+我也很荣幸能成为其中的一员。
 
-By the grace of the Archon,
-Polemarch Adrestes
+愿执政官的恩典照耀你，
+文官阿得赖斯提斯
 
-<There is a small disclaimer stamped at the bottom of the letter.>
-This letter is and all of its contents are the sole property of the Archon."
-"580","To $p,
+<信件底部还印着一行声明，字体略小。>
+此信件及其内容都是执政官的所有物。"
+"580","致$p，
 
-Thank you for obtaining permission from General Draven to send me a thorough copy of the Stone Legion's military regulations and procedures.
+谢谢你获得了德莱文将军的许可，为我送来了顽石军团的军规和章程副本。
 
-It was both an enlightening and rewarding book to read during my off-duty hours.
+这既能对我有所启发，也很适合在闲暇时间里阅读。
 
-I look forward to discussing it further with the general and the other military leaders at your next Ember Court.
+我很期待在下一次灰烬王庭上与将军和其他军队指挥官探讨。
 
-Until then,
-Polemarch Adrestes
+愿我们早日相会，
+文官阿得赖斯提斯
 
-<There is a small disclaimer stamped at the bottom of the letter.>
-This letter is and all of its contents are the sole property of the Archon."
-"581","To $p,
+<信件底部还印着一行声明，字体略小。>
+此信件及其内容都是执政官的所有物。"
+"581","致$p，
 
-Thank you for your letter. I sat on the edge of Hero's Rest, overlooking Purity's Pinnacle in the distance, as I read it.
+感谢你的来信，我正坐在英雄之眠，俯瞰着远方的纯洁之巅。
 
-It was a valuable reminder of the victories we are winning across all of the Shadowlands. 
+这让我们回想起了在暗影界各地赢得的光辉胜利。
 
-We will restore things to their proper order--even here, as the Forsworn assault our temples and attempt to sabotage us from within.
+我们终将让万物恢复秩序，包括这里，虽然弃誓者还在袭击我们的神庙，尝试从内部颠覆我们。
 
-We will prevail. We must.
+而我们将会胜利，也必须胜利。
 
-In honor,
-Polemarch Adrestes
+心怀荣耀，
+文官阿得赖斯提斯
 
-<There is a small disclaimer stamped at the bottom of the letter.>
-This letter is and all of its contents are the sole property of the Archon."
-"582","$p,
+<信件底部还印着一行声明，字体略小。>
+此信件及其内容都是执政官的所有物。"
+"582","$p，
 
-Thank you for letter.
+感谢你的来信。
 
-It was very long.
+信太长了。
 
-Please be more concise next time.
+下次简短些。
 
-Efficiency essential to all of life's endeavors.
+效率是万千追求之本。
 
-Sika"
+西卡"
 "583","$p，
 
 西卡很高兴得知你的忙碌，非常好。
@@ -860,83 +860,83 @@ Sika"
 魔药设计师马里莱斯
 
 又及：凯文现在开心多了，这封信的内容一定令人愉快。"
-"590","No time for pleasantries!
+"590","没时间客套了！
 
-We have a crisis at the House of Plagues! (Well, another crisis...)
+凋零密院有大危机了！（嗯，又一个危机……）
 
-Kevin caused it, of course. His constant flaunting of hats and showboating of balancing skills has sent the nearby colossal goos into a rampage!
+当然是凯文搞出来的，他一直在炫耀自己的帽子，显摆他的平衡能力，结果激怒了附近的巨型粘液！
 
-They're stomping right toward us, no doubt to smash everything in sight! None of us will survive!
+它们径直向我们冲来，碾碎了视线所及的一切！我们都要完蛋了！
 
-As my apprentice you must carry on my work and--
+作为我的学徒，你必须继承起我未尽的事业，然后……
 
-Wait, it appears they turned left. They're heading back out to the leaning tower. They're sitting down. Oh, that's nice.
+等等，它们好像走了。它们朝那座歪斜的塔楼去了。它们安静了下来。好极了。
 
-False alarm. Carry on.
+没事了，一切照常。
 
-Your teacher,
-Plague Deviser Marileth"
-"591","Got your note, $p.
+你的老师，
+魔药设计师马里莱斯"
+"591","收到你的消息了，$p。
 
-Appreciate the leads on new challengers for the Theater of Pain. Send 'em my way whenever they're ready.
+感谢你给伤逝剧场物色新的挑战者，等他们准备好了，就送他们来我这儿。
 
-I don't care who they are, where they come from, or where they're going.
+他们是谁、打哪儿来、到哪儿去，这我一概不管。
 
-If they can fight, I want 'em in my arena.
+只要他们能打，竞技场就收。
 
-Speaking of which, when are you going to come fight again? The fights today have put half the spectators to sleep.
+说到这儿，你什么时候再来打一场？今天的战斗太无聊了，一半的观众都打瞌睡了。
 
---Grandmaster Vole"
-"592","Keep sending stories like the one in your last letter, and you'll be an even bigger legend around here.
+——沃尔大师"
+"592","你只要多讲些故事，就像上一封信一样，你很快就会成为传奇人物了。
 
-Overseer Kalvaros has been barking out the story of your battle to rile up the fans waiting below.
+监督者卡瓦洛斯现在会宣讲你的故事，让底下等待的粉丝们躁起来。
 
-You should've heard the cheer when he got to the part with your killing blow. Ha!
+每当他讲到你完成致命一击的时候，现场那此起彼伏的欢呼声啊，你真该亲耳听听。哈哈！
 
-Finish up whatever you're doing and then get over here to fight. The crowd's already chanting your name!
+等你手头的事情结束了，就回来继续战斗吧。观众已经开始念叨你的名字了！
 
---Grandmaster Vole"
-"593","Look, $p, I'm glad you're doing whatever it is you're doing out there across the Shadowlands, but you've got to get back here to the Theater of Pain.
+——沃尔大师"
+"593","瞧，$p，我很高兴你在暗影界完成了那么多壮举，但是你必须回到伤逝剧场来。
 
-Mistress Dyrax just cleared the entire floor of challengers with five arms tied behind her back. It was incredible!
+之前，妖女戴拉克斯绑起了五条胳膊，就凭那一只能用的手，轻松砍翻了整层的挑战者。真是太精彩了！
 
-I had Au'larrynar bring in some Azerothian refreshments for you. Rencissa smashed them all because you took so long, but ol' Marcel Mullby's still got plenty of lukewarm tauralus milk.
+我让奥·拉里纳给你准备了艾泽拉斯的饮食，但因为你一直不来，它们都被伦希萨砸扁了。不过马塞尔·穆比还有很多微热的荒牛奶。
 
-You like that stuff, right? Makes your bones strong!
+这你肯定喜欢，对不对？喝牛奶能强壮骨骼！
 
---Grandmaster Vole"
-"594","To $p,
+——沃尔大师"
+"594","致$p，
 
-Thank you for sending a report of your recent military endeavors. I know that you are not required to do so, but appreciate your efforts to keep me in the loop as situations develop across the Shadowlands.
+谢谢你发来了近期军事行动的报告。我知道你不必这么做，但很感谢你与我分享暗影界各地的战局。
 
-When you have time, I am interested in discussing your unusual tactics in the battle described in your letter.
+如果你有时间，我想和你讨论一下你在信中提及的不同寻常的战术。
 
-Strange they may seem, but effective nonetheless. I would like to learn from them.
+这些战术看起来很奇特，但的确效果极佳。我很渴望学习一下。
 
-For Maldraxxus,
-Alexandros Mograine"
-"595","To $p,
+为了玛卓克萨斯，
+亚历山德罗斯·莫格莱尼"
+"595","致$p，
 
-As requested: a status report for the Bleak Redoubt.
+根据你的要求，这是阴冷棱堡的现状报告。
 
-The Undying Army's position here remains strong.
+不朽军团在此地的军势依然强健。
 
-Bladeguards hold the north gate and walls, while our summoners work to pull in a powerful ally.
+剑卫把守着北侧的大门和城墙，召唤师们正在召唤一位强大的盟友。
 
-The western entrance is our weak spot, but the soldiers there are not giving up. We should be able to hold it.
+西侧入口的守备较为薄弱，但那里的士兵永不言败，我们一定可以守住。
 
-Stitchmaster Rathan is investigating the possibility of establishing a new stitchyard nearby to further fortify our position.
+缝合大师拉萨恩正在进行考察，希望在附近新建一个缝合场，以此巩固我们的防线。
 
-For Maldraxxus,
-Alexandros Mograine"
-"596","To $p,
+为了玛卓克萨斯，
+亚历山德罗斯·莫格莱尼"
+"596","致$p，
 
-Your recent letter was a welcome surprise. I have been thinking back to my time on Azeroth more frequently since your arrival. I am sure much has changed, but I wonder what remains the same.
+你最近的信件让我十分惊喜，自从你来到了这里，我就越发频繁地回想起艾泽拉斯的时光。我知道时过境迁，物是人非，但也许有些地方未曾改变。
 
-I look forward to discussing Azeroth further with you when our campaign is done. I may have a story or two to tell that you'd be interested in.
+等我们的战役结束，我想和你多聊聊艾泽拉斯。我也许可以分享几个你会感兴趣的故事。
 
-Your friend and comrade in arms,
-Alexandros Mograine"
+你的好友与浴血同胞，
+亚历山德罗斯·莫格莱尼"
 "597","尊敬的$p，
 
 我确实很喜欢书信往来，但你需要明白，在如此不安全的邮件系统中询问敏感信息并非理智之举。
@@ -949,28 +949,28 @@ Alexandros Mograine"
 
 时刻守望，
 瓦丝琪女男爵"
-"598","Dear $p,
+"598","尊敬的$p，
 
-Thank you for passing along that intriguing bit of intelligence in your last letter. Mekkar has filed it away in our records. I have no doubt that it will prove quite useful one day.
+感谢你在上一封信中分享了如此有趣的情报。梅卡尔已经将其归入了档案，它早晚能派上用场。
 
-Allow me to return the favor. Anzio The Infallible at the Theater of Pain is anything but his namesake.
+作为回报，我会还你一个情报。伤逝剧场的无误者安吉奥其实名不副实。
 
-In fact, I have heard that he is no longer allowed onto the arena floor because of his frequent errors in battle. Banned by Grandmaster Vole himself.
+我听说他已经失去了踏上竞技场的资格，因为他在战斗中频频失误。是沃尔大师亲自下的禁令。
 
-Interesting, no?
+很有趣，不是吗？
 
-Always watching,
-Baroness Vashj"
-"599","My little $p,
+时刻守望，
+瓦丝琪女男爵"
+"599","我的小$p，
 
-You need not waste your time detailing your activities in Maldraxxus. Although I appreciate the thoroughness of your recent letter, you may rest assured that if it happened in Maldraxxus, I am already aware of it.
+你不必详述你在玛卓克萨斯的活动。我很欣赏你在上一封信中的详尽描述，但是你大可放心，玛卓克萨斯发生的一切都躲不开我的眼睛。
 
-Still, it is quite endearing that are you so willing to be open with me about your activities. I suppose we are friends now, are we not?
+但你愿意对我坦诚相待，这确实令我非常欣喜。我想我们现在是朋友了吧？
 
-Well, it appears that is one thing happening in Maldraxxus that I did not foresee.
+嗯，看来在玛卓克萨斯，还是有一件意料之外的事情。
 
-Always watching,
-Baroness Vashj"
+时刻守望，
+瓦丝琪女男爵"
 "85","感谢你来看望我，$n。我很高兴，因为我们还没有被遗忘。"
 "88","感谢你来看望我，$n。我很高兴，因为我们还没有被遗忘。"
 "89","感谢你来看望我，$n。我很高兴，因为我们还没有被遗忘。"

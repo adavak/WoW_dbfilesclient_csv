@@ -687,3 +687,6 @@ Id,SourceText,ItemId,Flags,SourceTypeEnum
 "1091","|cFFFFD200Drop: |rMorguliax|n|cFFFFD200Zone: |rThe Maw","184292","0","0"
 "1092","|cFFFFD200Drop: |rBorr-Geth|n|cFFFFD200Zone: |rThe Maw","184312","0","0"
 "1093","|cFFFFD200Vendor: |rChachi the Artiste|n|cFFFFD200Zone: |rRevendreth|n|cFFFFD200Cost: |r1500|Hcurrency:1813|h|TInterface\ICONS\Spell_AnimaBastion_Orb.BLP:0|t|h","183716","0","2"
+"1094","|cFFFFD200Treasure: |rBlackhound Cache|n|cFFFFD200Zone: |rMaldraxxus","184318","0","0"
+"1095","|cFFFFD200Vendor: |rElwyn|n|cFFFFD200Zone: |rArdenweald|n|cFFFFD200Cost: |r1500|Hcurrency:1813|h|TInterface\ICONS\Spell_AnimaBastion_Orb.BLP:0|t|h","180290","0","2"
+"1096","|cFFFFD200Vendor: |rAdjutant Galos|n|cFFFFD200Zone: |rBastion|n|cFFFFD200Cost: |r1500|Hcurrency:1813|h|TInterface\ICONS\Spell_AnimaBastion_Orb.BLP:0|t|h","184353","0","2"

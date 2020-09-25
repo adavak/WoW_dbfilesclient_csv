@@ -13,4 +13,5 @@ Id,Name,InternalName,Description,UiTextureKitId,RewardQuestId,VisibilityConditio
 "125","暗影之境戰役","9.0 Shadowlands Campaign - TSH/ZTO/SMD","這是通用戰役任務追蹤區塊，適用於介於暗影之境兩場戰役之間的玩家。","5362","0","86414"
 "126","朦朧的黑暗","9.0 Shadowlands - Covenant Campaign - Oribos - Campaign Bridge to Covenant Choice","在戴納瑟斯的陰謀曝光後，你必須決定如何應對。","5284","0","85641"
 "130","暗影之境","9.0 Shadowlands - Alt Mode Flagging (Not a Real Campaign) - GJC","","0","0","5703"
-"131","Threads of Fate","9.0 Shadowlands - Alt Mode / Time Skip Mode - GJC","","0","0","87258"
+"131","命運絲線","9.0 Shadowlands - Alt Mode / Time Skip Mode - GJC","","0","0","87258"
+"132","暗影之境","9.0 Revendreth - Ember Court - Interal Testing (Not a Real Campaign)","","0","0","5703"

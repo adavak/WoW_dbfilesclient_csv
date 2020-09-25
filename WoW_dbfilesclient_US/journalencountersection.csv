@@ -16592,14 +16592,16 @@ $bullet;Prioritize Surgeon Stitchflesh while he's in the arena before he has a c
 "21544","Section 5","","2392","7","21552","0","21576","2","0","0","322681","0","0","32","255"
 "21548","Reanimated Warrior","","2391","6","21536","0","22042","1","96060","0","0","0","0","0","255"
 "21552","Stitchflesh's Creation","","2392","6","22053","21544","0","1","94046","0","0","0","1","0","255"
-"21555","Overview","Shriekwing gains blood over time and will unleash |cFF2959D3|Hspell:330711|h[Bloodcurdling Shrieks]|h|r. Upon reaching 100 blood Shriekwing becomes protected by |cFF2959D3|Hspell:328921|h[Blood Shroud]|h|r and fills the antechamber with |cFF2959D3|Hspell:329362|h[Echoing Sonar]|h|r.","2393","1","0","21556","22584","3","0","0","0","0","1","0","255"
+"21555","Overview","Shriekwing will unleash |cFF2959D3|Hspell:330711|h[Earsplitting Shrieks]|h|r as she gains blood over time. Upon reaching 100 blood Shriekwing becomes protected by |cFF2959D3|Hspell:328921|h[Blood Shroud]|h|r and fills the antechamber with |cFF2959D3|Hspell:329362|h[Echoing Sonar]|h|r.","2393","1","0","21556","22584","3","0","0","0","0","1","0","255"
 "21556","Tank","$bullet;Coordinate with another player to manage the effects of |cFF2959D3|Hspell:328857|h[Exsanguinating Bite]|h|r.
-$bullet;Avoid being detected by |cFF2959D3|Hspell:321511|h[Echoing Sonar]|h|r while Shriekwing is under the effects of |cFF2959D3|Hspell:328921|h[Blood Shroud]|h|r.","2393","2","21555","0","21557","3","0","0","0","0","0","1","255"
-"21557","Healer","$bullet;Players with high applications of |cFF2959D3|Hspell:328897|h[Exsanguinated]|h|r receive reduced healing.
+$bullet;Players within Shriekwing's line of sight will take heavy damage from |cFF2959D3|Hspell:330711|h[Earsplitting Shriek]|h|r.
+$bullet;Avoid being detected by |cFF2959D3|Hspell:329362|h[Echoing Sonar]|h|r while Shriekwing is under the effects of |cFF2959D3|Hspell:328921|h[Blood Shroud]|h|r.","2393","2","21555","0","21557","3","0","0","0","0","0","1","255"
+"21557","Healer","$bullet;Players within Shriekwing's line of sight will take heavy damage from |cFF2959D3|Hspell:330711|h[Earsplitting Shriek]|h|r.
+$bullet;Players with high applications of |cFF2959D3|Hspell:328897|h[Exsanguinated]|h|r receive reduced healing.
+$bullet;Avoid being detected by |cFF2959D3|Hspell:329362|h[Echoing Sonar]|h|r while Shriekwing is under the effects of |cFF2959D3|Hspell:328921|h[Blood Shroud]|h|r.","2393","3","21555","0","21558","3","0","0","0","0","0","4","255"
+"21558","Damage","$bullet;Players within Shriekwing's line of sight will take heavy damage from |cFF2959D3|Hspell:330711|h[Earsplitting Shriek]|h|r.
 $bullet;Position carefully while affected by |cFF2959D3|Hspell:342074|h[Echolocation]|h|r.
-$bullet;Avoid being detected by |cFF2959D3|Hspell:321511|h[Echoing Sonar]|h|r while Shriekwing is under the effects of |cFF2959D3|Hspell:328921|h[Blood Shroud]|h|r.","2393","3","21555","0","21558","3","0","0","0","0","0","4","255"
-"21558","Damage","$bullet;Position carefully while affected by |cFF2959D3|Hspell:342074|h[Echolocation]|h|r.
-$bullet;Avoid being detected by |cFF2959D3|Hspell:321511|h[Echoing Sonar]|h|r while Shriekwing is under the effects of |cFF2959D3|Hspell:328921|h[Blood Shroud]|h|r.","2393","4","21555","0","0","3","0","0","0","0","0","2","255"
+$bullet;Avoid being detected by |cFF2959D3|Hspell:329362|h[Echoing Sonar]|h|r while Shriekwing is under the effects of |cFF2959D3|Hspell:328921|h[Blood Shroud]|h|r.","2393","4","21555","0","0","3","0","0","0","0","0","2","255"
 "21559","Overview","Sludgefist gains rage as the battle ensues. At 100 rage Sludgefist starts a |cFF2959D3|Hspell:331212|h[Heedless Charge]|h|r toward the player affected by |cFF2959D3|Hspell:331209|h[Hateful Gaze]|h|r.
 
 Sludgefist triggers |cFF2959D3|Hspell:332197|h[Collapsing Foundation]|h|r if he impacts a wall while charging.","2394","1","0","21560","22230","3","0","0","0","0","1","0","255"
@@ -16710,13 +16712,10 @@ Azules only uses this ability while Enraged.$]","2399","18","21639","0","22302",
 
 When Oulfarran reaches $321006s2% health, they break free and strike back at Maloch with |cFF2959D3|Hspell:323059|h[Droman's Wrath]|h|r.","2400","1","0","21647","21650","3","0","0","0","0","0","0","255"
 "21647","Tanks","$bullet;Interrupt |cFF2959D3|Hspell:323057|h[Spirit Bolt]|h|r.
-$bullet;Avoid being hit by |cFF2959D3|Hspell:323137|h[Bewildering Pollen]|h|r.
-$bullet;|cFF2959D3|Hspell:323149|h[Embrace Darkness]|h|r damages players who attack Ingra Maloch.","2400","2","21646","0","21648","3","0","0","0","0","0","1","255"
+$bullet;Avoid being hit by |cFF2959D3|Hspell:323137|h[Bewildering Pollen]|h|r.","2400","2","21646","0","21648","3","0","0","0","0","0","1","255"
 "21648","DPS","$bullet;Interrupt |cFF2959D3|Hspell:323057|h[Spirit Bolt]|h|r.
-$bullet;Avoid being hit by |cFF2959D3|Hspell:323137|h[Bewildering Pollen]|h|r.
-$bullet;|cFF2959D3|Hspell:323149|h[Embrace Darkness]|h|r damages players who attack Ingra Maloch.","2400","3","21646","0","21649","3","0","0","0","0","0","2","255"
+$bullet;Avoid being hit by |cFF2959D3|Hspell:323137|h[Bewildering Pollen]|h|r.","2400","3","21646","0","21649","3","0","0","0","0","0","2","255"
 "21649","Healers","$bullet;Avoid being hit by |cFF2959D3|Hspell:323137|h[Bewildering Pollen]|h|r.
-$bullet;|cFF2959D3|Hspell:323149|h[Embrace Darkness]|h|r damages players who attack Ingra Maloch.
 $bullet;|cFF2959D3|Hspell:323146|h[Death Shroud]|h|r inflicts heavy damage to all players.","2400","4","21646","0","0","3","0","0","0","0","0","4","255"
 "21650","Stage 1: Foul Magic","Maloch's drust magic controls Oulfarran, making them hostile to players.","2400","5","0","21787","21651","0","0","0","0","0","1","0","255"
 "21651","Stage 2: Wrath of the Forest","At $321006s2% health, Oulfarran breaks free of Maloch's control and assists players in battle.","2400","17","0","21655","0","0","0","0","0","0","1","0","255"
@@ -16777,7 +16776,7 @@ $bullet;Step on Erupting Oozes before they |cFF2959D3|Hspell:341444 |h[Erupt]|h|
 "21727","Section 8","","2396","10","0","22067","0","2","0","0","321894","0","0","0","255"
 "21728","Section 10","","2396","13","21727","0","21729","2","0","0","321956","0","0","0","255"
 "21729","Section 11","","2396","14","21727","21731","21730","2","0","0","287294","0","0","0","255"
-"21730","Zolramus Siphoner","","2396","16","21727","21732","0","1","94091","0","0","0","0","0","255"
+"21730","Zolramus Siphoner","","2396","16","21727","21732","22841","1","94091","0","0","0","0","0","255"
 "21731","Section 12","","2396","15","21729","0","0","2","0","0","287295","0","0","128","255"
 "21732","","","2396","17","21730","0","0","2","0","0","322274","0","0","0","255"
 "21736","Section 21","","2403","24","0","0","0","2","0","0","322358","0","0","32","255"
@@ -16924,7 +16923,7 @@ $bullet;|cFF2959D3|Hspell:323437|h[Stigma of Pride]|h|r causes increased damage 
 "21856","Section 11","","2408","9","21793","0","0","2","0","0","322736","0","0","1","255"
 "21857","Son of Hakkar","Atal'ai priests sacrifice themselves to their god, transforming into a Son of Hakkar and rushing to their master's aid.","2408","10","0","21858","0","1","2702","0","0","0","0","0","255"
 "21858","Section 7","","2408","11","21857","0","21859","2","0","0","323544","0","0","0","255"
-"21859","Section 12","$[!23,8On this difficulty, Spilled Essence no longer shrinks over time while the Son of Hakkar is healing.$]","2408","12","21857","0","22169","2","0","0","323569","0","0","0","255"
+"21859","Section 12","","2408","12","21857","0","22169","2","0","0","323569","0","0","0","255"
 "21860","Section 7","","2411","7","0","21861","21864","2","0","0","323597","0","0","0","255"
 "21861","Ghastly Parishioner","","2411","8","21860","21862","0","1","90425","0","0","0","0","0","255"
 "21862","Section 9","","2411","9","21861","0","21863","2","0","0","323650","0","0","32","255"
@@ -17059,16 +17058,22 @@ When any conainter reaches full capacity, a |cFF2959D3|Hspell:325225|h[Container
 "21975","Section 3","$[!14,15,16,17,18
 
 The damage of Loose Anima increases with each open Primal Anima Container.$]","2420","6","21973","0","21974","2","0","0","325184","0","0","4","255"
-"21976","Section 4","$[!16
+"21976","Section 4","$[!14,15,16,17
+
+Lady Inerva Darkvein uses this ability when the Container of Desire surpasses 33% capacity.$]$[!16
 
 On Mythic Raid difficulty, the target is attacked by two images of their |cFF2959D3|Hspell:335322|h[Hidden Desires]|h|r.$]","2420","14","22571","22572","22576","2","0","0","341623","0","0","0","255"
 "21977","","","2420","19","22576","0","22591","2","0","0","325382","0","0","0","255"
 "21978","Section 6","","2420","22","22576","0","0","2","0","0","325384","0","0","0","255"
 "21979","Section 7","","2420","21","22576","0","21978","2","0","0","325908","0","0","4","255"
 "21981","Bottled Anima","$[!14,15,16,17
+
+Lady Inerva Darkvein uses this ability when the Container of Bottled Anima surpasses 33% capacity.$]$[!14,15,16,17
 If no players are hit by the impact, |cFF2959D3|Hspell:329618|h[Unleashed Volatility]|h|r occurs.$]","2420","26","22592","21982","22595","2","0","0","342281","0","0","0","255"
 "21982","Section 10","","2420","27","21981","0","22421","2","0","0","329618","0","0","16","255"
-"21983","Primal Anima Orbs","$[!14,15,16
+"21983","Primal Anima Orbs","$[!14,15,16,17
+
+Lady Inerva Darkvein uses this ability when the Container of Sin surpasses 33% capacity.$]$[!14,15,16
 
 If players fail to connect Sins of the Past before they expire, |cFF2959D3|Hspell:331527|h[Indemnification]|h|r occurs.$]","2420","37","22599","21984","22604","2","0","0","342288","0","0","0","255"
 "21984","Section 12","$[!17
@@ -17262,16 +17267,16 @@ $bullet;Attendees are granted limited time to locate their position for the |cFF
 $bullet;Quickly find your partner if paired off for the |cFF2959D3|Hspell:331634|h[Dark Recital]|h|r
 $bullet;Attendees are granted limited time to locate their position for the |cFF2959D3|Hspell:328497|h[Danse Macabre]|h|r","2426","4","22139","0","0","3","0","0","0","0","0","2","255"
 "22143","The Council of Blood","","2426","5","0","22656","22146","0","0","0","0","0","1","0","255"
-"22146","Intermission: The Danse Macabre","When a council member is reduced to 50% health, each living council member retreats to the balcony for the Danse Macabre.","2426","43","0","22225","0","0","0","0","0","0","1","0","255"
+"22146","Intermission: The Danse Macabre","When a council member is reduced to 50% health, each living council member retreats to the balcony for the Danse Macabre.","2426","44","0","22225","0","0","0","0","0","0","1","0","255"
 "22147","Castellan Niklaus","","2426","8","22143","22432","22148","1","96835","0","0","0","0","0","255"
 "22148","Baroness Frieda","","2426","19","22143","22153","22149","1","96836","0","0","0","0","0","255"
-"22149","Lord Stavros","","2426","31","22143","22154","0","1","96837","0","0","0","0","0","255"
+"22149","Lord Stavros","","2426","32","22143","22154","0","1","96837","0","0","0","0","0","255"
 "22150","Section 12","","2426","10","22147","0","22203","2","0","0","335778","0","0","0","255"
 "22151","Section 11","","2426","18","22431","0","0","2","0","0","328334","0","3","4096","0"
-"22152","Section 12","","2426","30","22433","0","0","2","0","0","327475","0","3","4096","0"
+"22152","Section 12","","2426","31","22433","0","0","2","0","0","327475","0","3","4096","0"
 "22153","Section 13","","2426","20","22148","0","22425","2","0","0","327773","0","0","1","255"
-"22154","Section 15","","2426","32","22149","0","22155","2","0","0","327503","0","0","1","255"
-"22155","Section 14","","2426","33","22149","0","22202","2","0","0","327619","0","0","0","255"
+"22154","Section 15","","2426","33","22149","0","22155","2","0","0","327503","0","0","1","255"
+"22155","Section 14","","2426","34","22149","0","22202","2","0","0","327619","0","0","0","255"
 "22161","Plague Bomb","Doctor Ickus plants Plague Bombs in various slime pools during the encounter.","2403","7","0","21720","21706","1","90012","0","0","0","0","16","255"
 "22162","Remornia","Remornia aids Denathrius in battle. When not using an ability, she's free to move and attack players at will.","2424","50","22059","22166","22198","1","96983","0","0","0","1","1","255"
 "22163","Section 31","","2424","53","22162","0","22164","2","0","0","329906","0","0","8192","255"
@@ -17318,18 +17323,18 @@ In Heroic and Mythic difficulties, when Expunge detonates an Obliterating Rift i
 "22198","Section 23","","2424","56","22059","0","22105","2","0","0","328936","0","0","0","255"
 "22199","Empowered with Anima","When both other council members are defeated, the remaining council member gains a final ability.","2426","13","22147","22208","22431","0","0","0","0","0","0","0","255"
 "22201","Infused with Anima","When one council member is defeated, the remaining council members each gain an ability.","2426","23","22148","22227","22205","0","0","0","0","0","0","0","255"
-"22202","Infused with Anima","When one council member is defeated, the remaining council members each gain an ability.","2426","34","22149","22435","22206","0","0","0","0","0","0","0","255"
+"22202","Infused with Anima","When one council member is defeated, the remaining council members each gain an ability.","2426","35","22149","22435","22206","0","0","0","0","0","0","0","255"
 "22203","Infused with Anima","When one council member is defeated, the remaining council members each gain an ability.","2426","11","22147","22204","22199","0","0","0","0","0","0","0","255"
 "22204","Section 24","","2426","12","22203","0","0","2","0","0","334948","0","1","0","255"
-"22205","Empowered with Anima","When both other council members are defeated, the remaining council member gains a final ability.","2426","25","22148","22213","22433","0","0","0","0","0","0","0","255"
-"22206","Empowered with Anima","When both other council members are defeated, the remaining council member gains a final ability.","2426","36","22149","22207","22436","0","0","0","0","0","0","0","255"
-"22207","Section 27","","2426","37","22206","22653","0","2","0","0","330964","0","1","0","255"
+"22205","Empowered with Anima","When both other council members are defeated, the remaining council member gains a final ability.","2426","26","22148","22213","22433","0","0","0","0","0","0","0","255"
+"22206","Empowered with Anima","When both other council members are defeated, the remaining council member gains a final ability.","2426","37","22149","22207","22436","0","0","0","0","0","0","0","255"
+"22207","Section 27","","2426","38","22206","22653","0","2","0","0","330964","0","1","0","255"
 "22208","Section 28","","2426","14","22199","22209","0","2","0","0","330965","0","1","0","255"
 "22209","Veteran Stoneguard","","2426","15","22208","22210","0","1","96708","0","0","0","1","0","255"
 "22210","Section 30","","2426","16","22209","0","0","2","0","0","330967","0","1","0","255"
-"22211","Begrudging Waiter","","2426","27","22213","22212","0","1","96005","0","0","0","1","0","255"
-"22212","Section 32","","2426","28","22211","0","0","2","0","0","330968","0","1","0","255"
-"22213","Section 33","","2426","26","22205","22211","0","2","0","0","330978","0","1","0","255"
+"22211","Begrudging Waiter","","2426","28","22213","22212","0","1","96005","0","0","0","1","0","255"
+"22212","Section 32","","2426","29","22211","0","0","2","0","0","330968","0","1","0","255"
+"22213","Section 33","","2426","27","22205","22211","0","2","0","0","330978","0","1","0","255"
 "22215","Section 12","","2405","12","0","0","21824","2","0","0","322614","0","0","0","255"
 "22216","Gormling Larva","","2405","10","21753","22217","0","1","94208","0","0","0","0","0","255"
 "22217","Section 14","","2405","11","22216","0","0","2","0","0","326308","0","0","0","255"
@@ -17339,9 +17344,9 @@ In Heroic and Mythic difficulties, when Expunge detonates an Obliterating Rift i
 "22221","Section 10","","2404","8","22220","0","0","2","0","0","322236","0","0","1","255"
 "22222","Section 11","","2407","9","21769","0","0","2","0","0","331415","0","2","12288","0"
 "22223","Section 18","","2400","16","21785","0","0","2","0","0","331440","0","2","4096","0"
-"22224","Section 35","","2426","42","22436","0","0","2","0","0","331634","0","3","4096","0"
-"22225","Section 34","","2426","44","22146","0","0","2","0","0","328497","0","0","16","255"
-"22227","Section 37","","2426","24","22201","0","0","2","0","0","331708","0","1","0","255"
+"22224","Section 35","","2426","43","22436","0","0","2","0","0","331634","0","3","4096","0"
+"22225","Section 34","","2426","45","22146","0","0","2","0","0","328497","0","0","16","255"
+"22227","Section 37","","2426","24","22201","22843","0","2","0","0","331708","0","1","0","255"
 "22228","Section 5","","2394","6","22230","22242","0","2","0","0","331212","0","0","0","255"
 "22230","Section 5","","2394","5","0","22228","22349","2","0","0","331209","0","1","32","255"
 "22231","Infusing Essences","Soul Infusers, Vile Occultists, and Pride's Prison's Soul Pedestals offer adventurers advantages in restoring Kael'thas to full health.","2422","48","0","22234","22395","0","0","0","0","0","2","0","0"
@@ -17484,7 +17489,7 @@ In Mythic difficulty, Sludgefist enters a |cFF2959D3|Hspell:341294|h[Vengeful Ra
 "22370","Section 54","","2424","70","22260","0","0","2","0","0","336008","0","2","8","0"
 "22371","Charged Anima","","2414","15","21930","0","22579","2","0","0","338729","252174","2","128","3"
 "22372","Section 5","","2393","13","22662","0","0","2","0","0","340324","0","2","0","0"
-"22374","Section 5","","2393","17","22101","0","22116","2","0","0","344111","0","0","0","255"
+"22374","Section 5","","2393","17","22101","0","22116","2","0","0","345397","0","0","0","255"
 "22376","Section 5","","2423","10","0","0","22377","2","0","0","325551","0","0","0","255"
 "22377","Section 5","","2423","11","0","22004","0","2","0","0","336190","0","2","4096","0"
 "22379","Section 44","","2422","41","22082","0","0","2","0","0","336398","0","2","8","0"
@@ -17535,10 +17540,10 @@ $bullet; Move away from the Hungering Destroyer when it casts |cFF2959D3|Hspell:
 "22430","Section 5","","2394","8","22242","0","22240","2","0","0","332443","0","0","4","255"
 "22431","Afterimage of Castellan Niklaus","","2426","17","22147","22151","0","1","98173","0","0","0","2","4096","0"
 "22432","Section 11","","2426","9","22147","0","22150","2","0","0","328334","0","0","0","255"
-"22433","Afterimage of Baroness Frieda","","2426","29","22148","22152","0","1","98071","0","0","0","2","4096","0"
+"22433","Afterimage of Baroness Frieda","","2426","30","22148","22152","0","1","98071","0","0","0","2","4096","0"
 "22434","Section 12","","2426","22","22148","0","22201","2","0","0","327475","0","0","0","255"
-"22435","Section 35","","2426","35","22202","0","0","2","0","0","331634","0","1","0","255"
-"22436","Afterimage of Lord Stavros","","2426","41","22149","22224","0","1","98193","0","0","0","2","4096","0"
+"22435","Section 35","","2426","36","22202","0","0","2","0","0","331634","0","1","0","255"
+"22436","Afterimage of Lord Stavros","","2426","42","22149","22224","0","1","98193","0","0","0","2","4096","0"
 "22437","Section 12","","2406","11","0","22438","0","2","0","0","339235","0","2","4096","0"
 "22438","Section 11","","2406","12","22437","0","0","2","0","0","339237","0","2","4224","0"
 "22439","Overview","Valinor activates once all of the nearby barrels of anima have been destroyed, under the orders of Lysonia, who floats nearby. His powerful Anima Charges deal damage in an area and should be avoided, and he can decimate groups of foes with Charged Anima Blast if they do not spread out. Periodically, Valinor will cast Unleashed Anima, blasting many areas with Anima Charges for its duration.","2430","1","0","22440","22443","3","0","0","0","0","0","0","255"
@@ -17683,16 +17688,12 @@ While focused, a Primal Anima Container cannot be opened by players.$]","2420","
 "22566","Section 31","","2420","40","21983","0","0","2","0","0","326538","0","0","0","255"
 "22567","Container of Concentrated Anima","The Container of Concentrated Anima governs the power of Lady Inerva Darkvein's Concentrated Anima ability.
 
-When the Container of Concentrated Anima surpasses 33% of capacity, Lightly Concentrated Anima becomes Concentrated Anima.
-
-When the Container of Concentrated Anima surpasses 66% of capactiy, Lightly Concentrated Anima becomes Highly Concentrated Anima.
+As the container increases in level, the power of Concentrated Anima increases.
 
 Each cast of Concentrated Anima results in one Harnessed Specter. Any additional players chosen for this ability cause a Conjured Manifestation to appear.","2420","45","0","22608","0","0","0","0","0","3684827","0","0","255"
 "22571","Container of Desire","The Container of Desire governs the power of Lady Inerva Darkvein's Expose Desires ability.
 
-When the Container of Desire surpasses 33% of capacity, Expose Desires becomes Expose Cognition.
-
-Whent he Container of Desire surpasses 66% of capactiy, Expose Desires becomes Expose Heart.
+As the container increases in level, the power of Expose Desires increases.
 
 Lady Inerva Darkvein uses these abilities when she reaches 100 energy.","2420","10","0","22573","22592","0","0","0","0","3684826","0","0","255"
 "22572","","","2420","15","21976","0","22420","2","0","0","325382","0","0","0","255"
@@ -17701,14 +17702,16 @@ Lady Inerva Darkvein uses these abilities when she reaches 100 energy.","2420","
 On Mythic Raid difficulty, the target is attacked by two images of their |cFF2959D3|Hspell:335322|h[Hidden Desires]|h|r.$]","2420","11","22571","22574","21976","2","0","0","341621","0","0","0","255"
 "22574","","","2420","12","22573","0","22590","2","0","0","325382","0","0","0","255"
 "22575","Section 7","","2420","17","21976","0","0","2","0","0","325908","0","0","4","255"
-"22576","Section 40","$[!16
+"22576","Section 40","$[!14,15,16,17
+
+Lady Inerva Darkvein uses this ability when the Container of Desire surpasses 66% capacity.$]$[!16
 
 On Mythic Raid difficulty, the target is attacked by two images of their |cFF2959D3|Hspell:335322|h[Hidden Desires]|h|r.$]","2420","18","22571","21977","0","2","0","0","341625","0","0","0","255"
 "22579","Charged Anima","","2414","16","21930","0","0","2","0","0","338731","0","2","4224","0"
 "22580","Coalesced Anima","Coalesced Anima moves back towards Oryphrion, causing Overcharged Anima if they reach Oryphrion.","2414","7","21932","21933","0","1","98729","0","0","0","0","0","255"
 "22581","Anima Surge","","2414","9","22580","0","22023","2","0","0","331997","0","2","4096","0"
 "22582","Section 5","","2393","11","22101","22662","22583","2","0","0","342074","0","0","0","255"
-"22583","Section 5","","2393","14","22101","22758","22374","2","0","0","342863","0","2","8","0"
+"22583","Section 5","$[!16On Mythic difficulty, the effects of Echoing Screech are only visible while affected by |cFF2959D3|Hspell:341489|h[Bloodlight]|h|r.$]","2393","14","22101","22758","22374","2","0","0","342863","0","2","8","0"
 "22584","Section 23","","2393","5","0","22757","22101","2","0","0","341684","0","2","4128","0"
 "22585","Section 25","","2425","110","22288","22489","22826","2","0","0","339645","0","2","33","0"
 "22589","Section 29","","2425","106","22284","0","22676","2","0","0","342256","0","2","4096","0"
@@ -17716,21 +17719,19 @@ On Mythic Raid difficulty, the target is attacked by two images of their |cFF295
 "22591","Section 24","","2420","20","22576","0","21979","2","0","0","335322","0","2","4097","0"
 "22592","Container of Bottled Anima","The Container of Bottled Anima governs the power of Lady Inerva Darkvein's Expose Desires ability.
 
-When the Container of Bottled Anima surpasses 33% of capacity, Bottled Anima becomes Lingering Anima.
-
-Whent he Container of Bottled Anima surpasses 66% of capactiy, Bottled Anima becomes Replicating Anima.","2420","23","0","22593","22599","0","0","0","0","3684825","0","0","255"
+As the container increases in level, the power of Bottled Anima increases.","2420","23","0","22593","22599","0","0","0","0","3684825","0","0","255"
 "22593","Bottled Anima","$[!14,15,16,17
 If no players are hit by the impact, |cFF2959D3|Hspell:329618|h[Unleashed Volatility]|h|r occurs.$]","2420","24","22592","22594","21981","2","0","0","325769","0","0","0","255"
 "22594","Section 10","","2420","25","22593","0","0","2","0","0","329618","0","0","16","255"
 "22595","Bottled Anima","$[!14,15,16,17
+
+Lady Inerva Darkvein uses this ability when the Container of Bottled Anima surpasses 66% capacity.$]$[!14,15,16,17
 If no players are hit by the impact, |cFF2959D3|Hspell:329618|h[Unleashed Volatility]|h|r occurs.$]","2420","29","22592","22596","0","2","0","0","342282","0","0","0","255"
 "22596","Section 10","","2420","30","22595","0","22597","2","0","0","329618","0","0","16","255"
 "22597","Section 8","","2420","31","22595","0","0","2","0","0","325718","0","0","0","255"
 "22599","Container of Sin","The Container of Sin governs the power of Lady Inerva Darkvein's Sins and Suffering ability.
 
-When the Container of Sin surpasses 33% of capacity, Lesser Sins and Suffering becomes Sins and Suffering.
-
-When the Container of Sin surpasses 66% of capactiy, Lesser Sins and Suffering becomes Greater Sins and Suffering.","2420","32","0","22628","22567","0","0","0","0","3684828","0","0","255"
+As the container increases in level, the power of Sins and Suffering increases.","2420","32","0","22628","22567","0","0","0","0","3684828","0","0","255"
 "22600","Primal Anima Orbs","$[!14,15,16
 
 If players fail to connect Sins of the Past before they expire, |cFF2959D3|Hspell:331527|h[Indemnification]|h|r occurs.$]","2420","34","22599","22601","21983","2","0","0","342287","0","0","0","255"
@@ -17738,7 +17739,9 @@ If players fail to connect Sins of the Past before they expire, |cFF2959D3|Hspel
 
 In Raid Finder difficulty, victims are Silenced until they sever the connection of Shared Suffering by linking the Sins of the Past.$]","2420","35","22600","0","22602","2","0","0","324983","0","0","0","255"
 "22602","Section 30","","2420","36","22600","0","0","2","0","0","331527","0","2","16","0"
-"22604","Primal Anima Orbs","$[!14,15,16
+"22604","Primal Anima Orbs","$[!14,15,16,17
+
+Lady Inerva Darkvein uses this ability when the Container of Sin surpasses 66% capacity.$]$[!14,15,16
 
 If players fail to connect Sins of the Past before they expire, |cFF2959D3|Hspell:331527|h[Indemnification]|h|r occurs.$]","2420","41","22599","22605","0","2","0","0","342290","0","0","0","255"
 "22605","Section 12","$[!17
@@ -17748,10 +17751,14 @@ In Raid Finder difficulty, victims are Silenced until they sever the connection 
 "22607","Section 31","","2420","44","22604","0","0","2","0","0","326538","0","0","0","255"
 "22608","Section 45","","2420","46","22567","22609","22610","2","0","0","342320","0","0","0","255"
 "22609","Unleash","","2420","47","22608","0","0","2","0","0","341590","0","0","0","255"
-"22610","Section 46","","2420","48","22567","22611","22613","2","0","0","342321","0","0","0","255"
+"22610","Section 46","$[!14,15,16,17
+
+Lady Inerva Darkvein uses this ability when the Container of Concentrated Anima surpasses 33% capacity.$]","2420","48","22567","22611","22613","2","0","0","342321","0","0","0","255"
 "22611","Unleash","","2420","49","22610","0","22612","2","0","0","341590","0","0","0","255"
 "22612","Section 51","","2420","50","22610","0","0","2","0","0","341746","0","0","0","255"
-"22613","Section 47","","2420","51","22567","22614","22618","2","0","0","342322","0","0","0","255"
+"22613","Section 47","$[!14,15,16,17
+
+Lady Inerva Darkvein uses this ability when the Container of Concentrated Anima surpasses 66% capacity.$]","2420","51","22567","22614","22618","2","0","0","342322","0","0","0","255"
 "22614","Unleash","","2420","52","22613","0","22615","2","0","0","341590","0","0","0","255"
 "22615","Section 51","","2420","53","22613","0","22616","2","0","0","341746","0","0","0","255"
 "22616","Section 53","","2420","54","22613","0","0","2","0","0","325596","0","0","0","255"
@@ -17768,7 +17775,7 @@ In Raid Finder difficulty, victims are Silenced until they sever the connection 
 "22628","Simple Geometry","$[!16In Mythic Raid difficulty, Sins and Suffering summons an additional Sins of the Past. Players must link all four orbs with the three beams of |cFF2959D3|Hspell:324983|h[Shared Suffering]|h|r.$]","2420","33","22599","0","22600","2","0","0","0","3610509","2","4096","0"
 "22629","Section 30","$[!16
 
-In Mythic difficulty, |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r stacks.$]","2425","103","22323","0","0","2","0","0","334771","0","0","0","255"
+In Mythic difficulty, each application of |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r increases its duration.$]","2425","103","22323","0","0","2","0","0","334771","0","0","0","255"
 "22630","Section 30","","2425","112","22489","0","0","2","0","0","339693","0","0","0","255"
 "22631","Section 31","","2425","116","22288","0","22300","2","0","0","342425","0","0","1","255"
 "22632","Tanks","$bullet;The |cFF2959D3|Hspell:322921|h[Archon's Spear]|h|r remains locked until all orbs of |cFF2959D3|Hspell:330683|h[Raw Anima]|h|r are returned to it.
@@ -17789,17 +17796,17 @@ $bullet;|cFF2959D3|Hspell:333292|h[Searing Death]|h|r inflicts damage to nearby 
 "22652","Damage Dealers","$bullet;When Dessia |cFF2959D3|Hspell:324085|h[Enrages]|h|r, she will fixate on targets at random.
 $bullet;|cFF2959D3|Hspell:333292|h[Searing Death]|h|r inflicts damage to nearby allies.
 $bullet;When Sathel the Accursed uses |cFF2959D3|Hspell:320293|h[One with Death]|h|r, she is immune to interrupt effects until the shield is broken.","2397","4","21577","0","21578","3","0","0","0","0","2","2","3"
-"22653","Waltzing Venthyr","","2426","38","22207","22654","0","1","94019","0","0","0","1","0","255"
-"22654","Section 42","","2426","39","22653","22655","0","2","0","0","342847","0","1","0","255"
-"22655","Section 43","","2426","40","22654","0","0","2","0","0","342852","0","1","0","255"
+"22653","Waltzing Venthyr","","2426","39","22207","22654","0","1","94019","0","0","0","1","0","255"
+"22654","Section 42","","2426","40","22653","22655","0","2","0","0","342847","0","1","0","255"
+"22655","Section 43","","2426","41","22654","0","0","2","0","0","342852","0","1","0","255"
 "22656","Section 44","","2426","6","22143","0","22381","2","0","0","342859","0","2","5120","0"
 "22659","Section 28","","2409","13","22027","0","0","2","0","0","342905","0","0","1","255"
 "22662","Section 5","","2393","12","22582","22372","0","2","0","0","342923","0","0","0","255"
 "22664","Section 5","","2393","20","22115","0","0","2","0","0","328897","0","0","1","255"
-"22667","Section 5","","2393","24","22102","22669","22499","2","0","0","329362","0","0","0","255"
+"22667","Section 5","$[!16On Mythic difficulty, the effects of Echoing Sonar are only visible while affected by |cFF2959D3|Hspell:341489|h[Bloodlight]|h|r.$]","2393","24","22102","22669","22499","2","0","0","329362","0","0","0","255"
 "22668","Section 5","","2393","27","22499","0","0","2","0","0","343021","0","0","0","255"
 "22669","Section 5","","2393","25","22667","0","0","2","0","0","343021","0","0","0","255"
-"22671","Section 5","","2393","23","22165","0","0","2","0","0","343021","0","0","0","255"
+"22671","Section 5","","2393","23","22165","0","0","2","0","0","345425","0","0","16","255"
 "22672","Section 46","","2422","58","22395","22673","0","2","0","0","338600","0","3","0","0"
 "22673","Section 47","","2422","59","22672","0","0","2","0","0","337865","0","3","16","0"
 "22676","Section 48","","2425","107","22284","0","0","2","0","0","336212","0","2","32","0"
@@ -17818,7 +17825,7 @@ Prince Renathal casts |cFF2959D3|Hspell:332683|h[Shattering Blast]|h|r upon reac
 In Mythic difficulty, the player dispelling |cFF2959D3|Hspell:334765|h[Heart Rend]|h|r is also afflicted with |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r.$]","2425","12","22682","22687","22688","2","0","0","334765","0","0","0","255"
 "22687","Section 30","$[!16
 
-In Mythic difficulty, |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r stacks.$]","2425","13","22686","0","0","2","0","0","334771","0","0","0","255"
+In Mythic difficulty, each application of |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r increases its duration.$]","2425","13","22686","0","0","2","0","0","334771","0","0","0","255"
 "22688","Section 15","","2425","14","22682","22808","22689","2","0","0","334929","0","0","1","255"
 "22689","Section 29","","2425","16","22682","0","0","2","0","0","342256","0","2","4096","0"
 "22690","General Grashaal","","2425","17","22681","22691","22760","1","97069","0","0","0","0","0","255"
@@ -17934,3 +17941,6 @@ Upon the death of one of the Generals, the other General will gain |cFF2959D3|Hs
 "22838","Section 77","","2424","36","22837","0","0","2","0","0","344776","0","3","64","0"
 "22839","Section 128","","2425","36","22764","0","22771","2","0","0","342741","0","2","4096","0"
 "22840","Section 127","","2425","83","22777","0","22784","2","0","0","342741","0","2","4096","0"
+"22841","Gilded Champion","","2396","18","21727","22842","0","1","93893","0","0","0","0","0","255"
+"22842","Section 19","","2396","19","22841","0","0","2","0","0","345323","0","0","0","255"
+"22843","Section 45","","2426","25","22227","0","0","2","0","0","345421","0","3","4096","0"
