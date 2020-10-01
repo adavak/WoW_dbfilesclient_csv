@@ -705,5 +705,6 @@ Id,Name,Flags,UsesPerWeek,MaxCharges,ChargeRecoveryTime,TypeMask
 "1910","Class - Monk - Faeline Stomp","0","0","1","30000","1"
 "1911","Class - Priest - Unholy Nova","0","0","2","90000","0"
 "1912","Item - 9.0 Raid - Trinket - Soul Igniter","0","0","0","0","0"
+"1913","9.0 Legendaries - Sephuz's Proclamation","0","0","0","0","0"
 "1558","Death Strike","0","0","2","8000","0"
 "1239","Tracking","0","0","0","0","0"

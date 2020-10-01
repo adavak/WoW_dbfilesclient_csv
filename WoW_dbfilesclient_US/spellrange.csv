@@ -159,4 +159,5 @@ Id,DisplayName,DisplayNameShort,Flags,RangeMin0,RangeMin1,RangeMax0,RangeMax1
 "465","Min Range, 20, 60","Long","0","20","20","60","60"
 "466","Charge","Charge","0","8","8","60","60"
 "467","Min Range 10, 60","Min Range, 10, 60","0","10","10","60","60"
+"468","Charge (Felguard)","Charge","0","6","6","25","25"
 "326","Min Range 5, 40","Five-to-40","0","5","5","40","40"

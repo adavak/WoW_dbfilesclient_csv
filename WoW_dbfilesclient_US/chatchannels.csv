@@ -6,5 +6,6 @@ Id,Name,Shortcut,Flags,FactionGroup,Ruleset
 "27","BigfootWorldChannel","BigfootWorldChannel","8","0","0"
 "28","MeetingStone","MeetingStone","8","0","0"
 "32","Newcomer Chat","NewcomerChat","2097160","0","1"
-"33","Shadowlands Beta Discussion","ShadowlandsBetaDiscussion","2097160","0","0"
-"34","Shadowlands PTR Discussion","ShadowlandsPTRDiscussion","2097160","0","2"
+"33","zzOLD Shadowlands Beta Discussion","ShadowlandsBetaDiscussion","2097160","0","0"
+"34","zzOLD Shadowlands PTR Discussion","ShadowlandsPTRDiscussion","2097160","0","2"
+"35","Shadowlands Test Discussion","ShadowlandsTestDiscussion","2097160","0","0"

@@ -2520,3 +2520,6 @@ Id,Name,CreatureId,PortraitFileDataId,UiTextureKitId,UiAnimScale,UiAnimHeight,Un
 "2690","Master Shadeweaver","175505","0","0","1","1","2"
 "2691","Mawsworn Conqueror","175506","0","0","1","1","0"
 "2692","Krala","175508","0","0","1","1","2"
+"2693","Swift Skymane","175626","3852616","0","1.2","0.5","0"
+"2694","Copperfur Lurker","175627","3852616","0","1.2","0.5","0"
+"2695","Ash Ghoul","175628","3522524","0","1.2","0.5","0"

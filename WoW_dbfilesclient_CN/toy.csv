@@ -691,4 +691,6 @@ Id,SourceText,ItemId,Flags,SourceTypeEnum
 "1093","|cFFFFD200商人出售：|r艺人查其|n|cFFFFD200地区：|r雷文德斯|n|cFFFFD200价格：|r1500|Hcurrency:1813|h|TInterface\ICONS\Spell_AnimaBastion_Orb.BLP:0|t|h","183716","0","2"
 "1094","|cFFFFD200宝藏：|r黑犬宝箱|n|cFFFFD200地区：|r玛卓克萨斯","184318","0","0"
 "1095","|cFFFFD200商人出售：|r艾尔雯|n|cFFFFD200地区：|r炽蓝仙野|n|cFFFFD200价格：|r1500|Hcurrency:1813|h|TInterface\ICONS\Spell_AnimaBastion_Orb.BLP:0|t|h","180290","0","2"
-"1096","|cFFFFD200Vendor: |rAdjutant Galos|n|cFFFFD200Zone: |rBastion|n|cFFFFD200Cost: |r1500|Hcurrency:1813|h|TInterface\ICONS\Spell_AnimaBastion_Orb.BLP:0|t|h","184353","0","2"
+"1096","|cFFFFD200商人出售：|r副官伽罗斯|n|cFFFFD200地区：|r晋升堡垒|n|cFFFFD200价格：|r1500|Hcurrency:1813|h|TInterface\ICONS\Spell_AnimaBastion_Orb.BLP:0|t|h","184353","0","2"
+"1097","|cFFFFD200宝藏：|r凯洛斯|n|cFFFFD200地区：|r晋升堡垒","183988","0","0"
+"1098","|cFFFFD200成就：|r亡命九条|n|cFFFFD200分类：|r暗影国度","184449","0","5"

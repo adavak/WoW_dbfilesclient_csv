@@ -2373,9 +2373,9 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "1438","全力衝鋒","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 衝向敵人，造成[StandardDamage(1,1)]點[School()]傷害。","970854","0","4","0","0"
-"1464","石像鬼之擊","[StandardAccuracy(1,1)] |cffffffff命中機率|r
+"1464","石像鬼之擊","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-以穢邪能量進行攻擊，造成[StandardDamage(1,1)]點[School()]傷害。","237477","3","0","0","0"
+Attack with stone claws, dealing [StandardDamage(1,1)] [School()] damage.","237477","3","0","0","0"
 "1465","石像鬼之擊","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
 以穢邪能量進行攻擊，造成[StandardDamage(1,1)]點[School()]傷害。","136197","3","0","0","0"
@@ -2446,7 +2446,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "1573","我是布魯特！","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 以自然之力怒吼，恢復[StandardDamage (1,1)]點生命力並使造成的傷害提高[abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 485 ))]%，持續[duration(1,2)]輪。","136097","6","3","0","2"
-"1578","打翻熱湯","[StandardAccuracy(1,1)]|cffffffff命中機率|r
+"1578","Hot Soup","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 翻倒熱湯，造成[StandardDamage(1,1)]點[School()]傷害。
 
@@ -2687,6 +2687,9 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 如果造成的傷害使敵方寵物死亡，你其他存活寵物的冷卻時間會重置。","458224","1","3","0","16"
 "1932","禁忌沙漏","重置其他寵物的冷卻時間。","458224","1","0","0","2"
 "1933","時光倒流","恢復[StandardDamage(1,1)]點生命力，再加上使用者上一次所受攻擊傷害值一半的生命力。","236353","5","3","0","2"
+"1934","Bronze Breath","[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+以龍之吐息壓制敵人，造成[StandardDamage(1, 1)]點[School()]傷害。","135807","1","0","0","0"
 "1935","ReplaceAbilityThings","","590338","0","0","0","2"
 "1936","扭曲傳送","啟動傳送系統，藉此避開對手的攻擊。使用者接著會自動和你生命力最高的寵物交換。","255348","9","8","0","2"
 "1937","魔能廢氣","[StandardAccuracy(1,1)]|cffffffff命中機率|r
@@ -3329,7 +3332,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 在2輪後，對手的戰寵會受到[StandardDamage(3,1,2359)]點[School()]傷害，並且被定身，持續[duration(3,2,2359)]輪。","537022","5","3","0","0"
 "2361","虛無甩擊","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-以虛無能量甩擊敵人，造成[StandardDamage(1,1)]點[School()]傷害，由他們均分。","237244","5","2","0","0"
+以虛無能量甩擊敵人，造成[StandardDamage(1,1)]點[School()]傷害，由他們均分。","237244","5","3","0","0"
 "2363","不穩定的電路","十億伏特動亂製造者的電路超載。
 
 每當受到傷害時，有[StandardAccuracy(2,1)]的機率額外受到[StandardDamage(1,1)]點[School()]傷害，並且攻擊時有[StandardAccuracy(2,1)]的機率對自己額外造成[StandardDamage(1,1)]點[School()]傷害。","252174","9","0","0","18"
@@ -3368,10 +3371,10 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 以聖光衝擊敵人，造成[StandardDamage(1,1)] [School()]點傷害。
 
-每次使用傷害提高[FormatDamage(5*AttackBonus())]點。最高為[FormatDamage(25 *AttackBonus())] [School()]點傷害。","461859","5","0","0","0"
-"2378","蟲群新星","[StandardAccuracy(1,1)] |cffffffff命中機率|r
+每次使用傷害提高[FormatDamage(5*AttackBonus())]點。最高為[FormatDamage(30 *AttackBonus())] [School()]點傷害。","461859","5","0","0","0"
+"2378","聖光光束","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
-對敵方的前排寵物造成[StandardDamage(1,1)]點[School()]傷害，並且對敵方的後排寵物造成[StandardDamage(1,2)]點[School()]傷害。對所有盟友回復[StandardHealing(1,1)]點生命力。","525026","5","1","0","0"
+對敵方的前排寵物造成[StandardDamage(1,1)]點[School()]傷害，並且對敵方的後排寵物造成[StandardDamage(1,2)]點[School()]傷害。對所有盟友回復[StandardHealing(1,1)]點生命力。","525026","5","4","0","0"
 "2379","知識盤旋","格擋接下來2次攻擊，但施法者會被鎖在原地做研究，持續1輪。","134917","5","0","1179","2"
 "2380","留步聽故事","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
@@ -3396,9 +3399,8 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 "2392","精神把戲","艾迪斯詛咒你的寵物隊伍。選擇你要讓隊伍受到哪一種損害！","135740","5","0","0","2"
 "2393","精神把戲","卑鄙鬼暫時將一個技能換成背水一戰。","135740","5","0","0","2"
 "2394","精神把戲","艾迪斯詛咒你的寵物隊伍。選擇你要讓隊伍受到哪一種損害！","135740","5","0","0","10"
-"1934","吐息","[StandardAccuracy(1,1)]|cffffffff命中機率|r
-
-以龍之吐息壓制敵人，造成[StandardDamage(1, 1)]點[School()]傷害。","135807","1","0","0","0"
+"2397","曠野之牆","格擋兩次攻擊。","135437","6","0","157","2"
+"2398","曠野之牆","製造一個木頭水壩格擋兩次攻擊。敵我雙方的攻擊都會被格擋。","135437","6","5","0","2"
 "928","速度降低","速度降低[abs(abilityStateMod(25,154))]%。","653221","-1","0","316","3"
 "927","昏迷","無法對此寵物下命令。","135860","-1","0","103","3"
 "1671","昏迷","無法對此寵物下命令。","135860","-1","0","103","3"
