@@ -51,7 +51,7 @@ Id,Name,Description,Cooldown,Duration,Flags,SpellSchoolMask,IconFileDataId
 "50","Halberd Strike","The Halberdier slices their weapon at the farthest enemy, dealing $s1 Physical damage.","3","0","0","1","135576"
 "51","Bonestorm","Whirls in place, dealing $s1 Shadow damage to all enemies in melee.","5","0","0","32","1535071"
 "52","Plague Song","Scream at enemies at range, inflicting $s1 Nature damage each round for 4 rounds.","5","4","0","8","136147"
-"53","Bramble Trap","Winding tendrils ensare all enemies, dealing $s1 Nature damage and reducing their damage by 20% every other round.","6","6","0","8","1535071"
+"53","Bramble Trap","Winding tendrils ensnare all enemies, dealing $s1 Nature damage and reducing their damage by 20% every other round.","6","6","0","8","1535071"
 "54","Slicing Shadows","Rahel cheerfully slices the closest enemy and hurls a dagger at the farthest enemy, dealing $s1 Shadow damage to both.","3","0","0","32","1455921"
 "55","Polite Greeting","Stonehead smiles and politely smashes all enemies in melee for $s1 Physical damage.","2","0","0","1","236550"
 "56","Mirror of Torment","Simone wields her mirror with precision, dealing $s1 Arcane damage to the farthest enemy.","1","0","0","64","458243"

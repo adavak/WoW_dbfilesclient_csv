@@ -17051,7 +17051,7 @@ Players can interact with the containers to open them, and close them by interac
 
 Open containers vent their |cFF2959D3|Hspell:325184|h[Loose Anima]|h|r into the playspace.
 
-When any conainter reaches full capacity, a |cFF2959D3|Hspell:325225|h[Container Breach]|h|r occurs.  The breach continues to damage players until the anima level is reduced below capacity.","2420","5","0","21975","22564","0","0","0","0","0","1","32","255"
+When any container reaches full capacity, a |cFF2959D3|Hspell:325225|h[Container Breach]|h|r occurs.  The breach continues to damage players until the anima level is reduced below capacity.","2420","5","0","21975","22564","0","0","0","0","0","1","32","255"
 "21974","Section 2","","2420","7","21973","0","22423","2","0","0","325225","0","0","16","255"
 "21975","Section 3","$[!14,15,16,17,18
 
@@ -17066,8 +17066,7 @@ On Mythic Raid difficulty, the target is attacked by two images of their |cFF295
 "21979","Section 7","","2420","21","22576","0","21978","2","0","0","325908","0","0","4","255"
 "21981","Bottled Anima","$[!14,15,16,17
 
-Lady Inerva Darkvein uses this ability when the Container of Bottled Anima surpasses 33% capacity.$]$[!14,15,16,17
-If no players are hit by the impact, |cFF2959D3|Hspell:329618|h[Unleashed Volatility]|h|r occurs.$]","2420","26","22592","21982","22595","2","0","0","342281","0","0","0","255"
+Lady Inerva Darkvein uses this ability when the Container of Bottled Anima surpasses 33% capacity.$]","2420","26","22592","21982","22595","2","0","0","342281","0","0","0","255"
 "21982","Section 10","","2420","27","21981","0","22421","2","0","0","329618","0","0","16","255"
 "21983","Primal Anima Orbs","$[!14,15,16,17
 
@@ -17466,14 +17465,13 @@ In Mythic difficulty, all players struck by Vicious Lunge are afflicted with Vic
 "22346","Section 24","","2429","31","22343","0","0","2","0","0","334893","0","1","0","255"
 "22347","Section 5","$[!16
 
-In Mythic difficulty, Sludgefist enters a |cFF2959D3|Hspell:341294|h[Vengeful Rage]|h|r if Chain Slam fails to hit at least four players.$]","2394","19","0","22627","22546","2","0","0","335354","0","2","8","0"
-"22348","Section 5","","2394","23","0","0","0","2","0","0","341250","0","0","0","255"
+On Mythic difficulty, Sludgefist immediately gains 100 rage if Chain Slam fails to hit at least four players.$]","2394","19","0","22627","22546","2","0","0","335354","0","2","8","0"
+"22348","Section 5","","2394","22","0","0","0","2","0","0","341250","0","0","0","255"
 "22349","Section 5","","2394","12","0","22560","22539","2","0","0","335300","0","2","0","0"
 "22350","Section 25","","2429","22","22339","0","22341","2","0","0","335303","0","0","32","255"
 "22351","Section 49","","2424","52","22162","0","22163","2","0","0","330580","0","0","0","255"
 "22353","Section 4","","2419","5","0","0","21918","2","0","0","319780","0","0","32","255"
 "22354","Section 42","","2422","34","21952","0","21961","2","0","0","335581","0","2","32","0"
-"22357","Section 5","","2394","21","22347","0","0","2","0","0","341294","0","2","4096","0"
 "22358","Section 15","","2403","13","0","0","22107","2","0","0","329217","0","2","0","3"
 "22359","Section 12","","2403","16","0","22360","22247","2","0","0","332617","0","2","0","3"
 "22360","Pestilence Slime","","2403","17","22359","22361","0","1","33010","0","0","0","0","0","255"
@@ -17486,7 +17484,7 @@ In Mythic difficulty, Sludgefist enters a |cFF2959D3|Hspell:341294|h[Vengeful Ra
 "22368","Section 20","","2412","8","0","0","21826","2","0","0","335806","0","2","4128","0"
 "22370","Section 54","","2424","70","22260","0","0","2","0","0","336008","0","2","8","0"
 "22371","Charged Anima","","2414","15","21930","0","22579","2","0","0","338729","252174","2","128","3"
-"22372","Section 5","","2393","13","22662","0","0","2","0","0","340324","0","2","0","0"
+"22372","Section 5","","2393","13","22662","0","0","2","0","0","340324","0","0","0","255"
 "22374","Section 5","","2393","17","22101","0","22116","2","0","0","345397","0","0","0","255"
 "22376","Section 5","","2423","10","0","0","22377","2","0","0","325551","0","0","0","255"
 "22377","Section 5","","2423","11","0","22004","0","2","0","0","336190","0","2","4096","0"
@@ -17665,7 +17663,7 @@ In Mythic difficulty, players are possessed until they are slain.$]","2418","14"
 "22543","Section 29","","2422","14","21966","0","22544","2","0","0","329509","0","2","0","0"
 "22544","Section 29","","2422","15","21966","0","22081","2","0","0","329518","0","2","0","0"
 "22545","Section 35","","2422","18","22090","0","22091","2","0","0","329470","0","3","0","0"
-"22546","Section 5","","2394","22","0","0","22348","2","0","0","335297","0","0","1","255"
+"22546","Section 5","","2394","21","0","0","22348","2","0","0","335297","0","0","1","255"
 "22548","Section 17","","2422","26","21954","22549","0","2","0","0","325506","0","2","0","0"
 "22549","Section 43","","2422","27","22548","0","0","2","0","0","335598","0","2","0","0"
 "22550","Infusing Essences","Soul Infusers and Pride's Prison's Soul Pedestals offer adventurers advantages in restoring Kael'thas to full health.","2422","42","0","22551","22231","0","0","0","0","0","2","0","0"
@@ -17715,16 +17713,14 @@ On Mythic Raid difficulty, the target is attacked by two images of their |cFF295
 "22589","Section 29","","2425","106","22284","0","22676","2","0","0","342256","0","2","4096","0"
 "22590","Section 24","","2420","13","22573","0","0","2","0","0","335322","0","2","4097","0"
 "22591","Section 24","","2420","20","22576","0","21979","2","0","0","335322","0","2","4097","0"
-"22592","Container of Bottled Anima","The Container of Bottled Anima governs the power of Lady Inerva Darkvein's Expose Desires ability.
+"22592","Container of Bottled Anima","The Container of Bottled Anima governs the power of Lady Inerva Darkvein's Bottled Anima ability.
 
 As the container increases in level, the power of Bottled Anima increases.","2420","23","0","22593","22599","0","0","0","0","3684825","0","0","255"
-"22593","Bottled Anima","$[!14,15,16,17
-If no players are hit by the impact, |cFF2959D3|Hspell:329618|h[Unleashed Volatility]|h|r occurs.$]","2420","24","22592","22594","21981","2","0","0","325769","0","0","0","255"
+"22593","Bottled Anima","","2420","24","22592","22594","21981","2","0","0","342280","0","0","0","255"
 "22594","Section 10","","2420","25","22593","0","0","2","0","0","329618","0","0","16","255"
 "22595","Bottled Anima","$[!14,15,16,17
 
-Lady Inerva Darkvein uses this ability when the Container of Bottled Anima surpasses 66% capacity.$]$[!14,15,16,17
-If no players are hit by the impact, |cFF2959D3|Hspell:329618|h[Unleashed Volatility]|h|r occurs.$]","2420","29","22592","22596","0","2","0","0","342282","0","0","0","255"
+Lady Inerva Darkvein uses this ability when the Container of Bottled Anima surpasses 66% capacity.$]","2420","29","22592","22596","0","2","0","0","342282","0","0","0","255"
 "22596","Section 10","","2420","30","22595","0","22597","2","0","0","329618","0","0","16","255"
 "22597","Section 8","","2420","31","22595","0","0","2","0","0","325718","0","0","0","255"
 "22599","Container of Sin","The Container of Sin governs the power of Lady Inerva Darkvein's Sins and Suffering ability.
@@ -17769,7 +17765,7 @@ Lady Inerva Darkvein uses this ability when the Container of Concentrated Anima 
 "22624","Section 5","","2394","11","22622","0","0","2","0","0","341482","0","2","4096","0"
 "22625","Section 5","","2394","16","0","22626","22262","2","0","0","332572","0","0","0","255"
 "22626","Section 5","","2394","17","22625","0","0","2","0","0","335361","0","0","0","255"
-"22627","Section 5","","2394","20","22347","0","22357","2","0","0","339189","0","2","12288","0"
+"22627","Section 5","","2394","20","22347","0","0","2","0","0","339189","0","2","12288","0"
 "22628","Simple Geometry","$[!16In Mythic Raid difficulty, Sins and Suffering summons an additional Sins of the Past. Players must link all four orbs with the three beams of |cFF2959D3|Hspell:324983|h[Shared Suffering]|h|r.$]","2420","33","22599","0","22600","2","0","0","0","3610509","2","4096","0"
 "22629","Section 30","$[!16
 
@@ -17801,8 +17797,8 @@ $bullet;When Sathel the Accursed uses |cFF2959D3|Hspell:320293|h[One with Death]
 "22659","Section 28","","2409","13","22027","0","0","2","0","0","342905","0","0","1","255"
 "22662","Section 5","","2393","12","22582","22372","0","2","0","0","342923","0","0","0","255"
 "22664","Section 5","","2393","20","22115","0","0","2","0","0","328897","0","0","8193","255"
-"22667","Section 5","$[!16On Mythic difficulty, the effects of Echoing Sonar are only visible while affected by |cFF2959D3|Hspell:341489|h[Bloodlight]|h|r.$]","2393","26","22102","22669","0","2","0","0","329362","0","0","0","255"
-"22669","Section 5","","2393","27","22667","0","0","2","0","0","343021","0","0","0","255"
+"22667","Section 5","$[!16On Mythic difficulty, the effects of Echoing Sonar are only visible while affected by |cFF2959D3|Hspell:341489|h[Bloodlight]|h|r.$]","2393","26","22102","22928","0","2","0","0","329362","0","0","0","255"
+"22669","Section 5","","2393","28","22928","0","0","2","0","0","340324","0","0","0","255"
 "22671","Section 5","","2393","25","22165","0","0","2","0","0","345425","0","0","16","255"
 "22672","Section 46","","2422","58","22395","22673","0","2","0","0","338600","0","3","0","0"
 "22673","Section 47","","2422","59","22672","0","0","2","0","0","337865","0","3","16","0"
@@ -17944,3 +17940,4 @@ Upon the death of one of the Generals, the other General will gain |cFF2959D3|Hs
 "22850","Section 31","","2429","13","22334","0","0","2","0","0","345902","0","0","2","255"
 "22851","Section 46","","2426","22","22425","0","0","2","0","0","345905","0","0","128","255"
 "22852","Section 5","","2393","22","22102","22499","22165","2","0","0","345936","0","0","32","255"
+"22928","Section 5","","2393","27","22667","22669","0","2","0","0","342923","0","0","0","255"
