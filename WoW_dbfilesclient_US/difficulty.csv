@@ -39,5 +39,4 @@ Id,Name,InstanceType,OrderIndex,OldEnumValue,FallbackDifficultyId,MinPlayers,Max
 "169","Path of Ascension: Loyalty","5","7","-1","0","1","1","0","0","0","0","0","0"
 "170","Path of Ascension: Wisdom","5","7","-1","0","1","1","0","0","0","0","0","0"
 "171","Path of Ascension: Humility","5","7","-1","0","1","1","0","0","0","0","0","0"
-"172","World Boss","0","7","-1","0","1","40","4","81","0","0","0","0"
 "32","World PvP Scenario","5","4","-1","0","0","40","16","0","0","0","0","0"

@@ -397,7 +397,7 @@ Accuracy reduced by [abs(abilityStateMod(41,257))]%.
 
 Deals [StandardDamage(1,1)] [School()] damage to all enemy pets, restores [SimpleDamage(1,4)] health to all allies and turns the weather into Moonlight for [duration(1,7)] |4round:rounds.
 
-During Moonlight, all pets receive 25% additional healing and Magic abilities deal 10% additional damage.","236168","1","4","0","0"
+During Moonlight, all pets receive 25% additional healing and Magic abilities deal 10% additional damage.","236168","1","5","0","0"
 "259","Invisibility","After two |4round:rounds, you will become invisible for one round, becoming unable to be attacked.","132220","5","4","0","0"
 "260","Fading","Turning invisible...","135994","-1","0","0","0"
 "261","Invisible","Invisible.
@@ -1600,7 +1600,7 @@ Rushes to the enemy, dealing [StandardDamage(1,1)] [School()] damage.
 This move always goes first.","252186","0","0","0","0"
 "779","Thunderbolt","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage split evenly across the enemy team.","458976","6","4","0","0"
+Deals [StandardDamage(1,1)] [School()] damage split evenly across the enemy team.","458976","6","5","0","0"
 "780","Death Grip","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage and forces the opponent's lowest health pet to swap into battle.","237532","3","4","0","0"
@@ -1905,7 +1905,7 @@ Bites the enemy with arcane power, dealing [StandardDamage(1, 1)] [School()] dam
 
 Deals [StandardDamage(1,1)] [School()] damage to all enemy pets, restores [SimpleDamage(1,4)] health to all allies and turns the weather into Moonlight for [duration(1,7)] |4round:rounds;.
 
-During Moonlight, all pets receive 25% additional healing and Magic abilities deal 10% additional damage.","236168","5","4","0","0"
+During Moonlight, all pets receive 25% additional healing and Magic abilities deal 10% additional damage.","236168","5","5","0","0"
 "980","Moon Dance","Increases your team's speed by [abs(abilityStateMod(25,981))]% for [duration(1,1)] |4round:rounds;.","132132","5","0","0","2"
 "981","Moon Dance","Team speed increased by [abs(abilityStateMod(25,981))]%.","648208","-1","0","113","0"
 "983","SMCKTHAT.EXE","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -2017,7 +2017,7 @@ Hits an additional time if the user attacks first.","132919","6","0","0","0"
 "1030","Stunned","Unable to give this pet commands.","135860","-1","0","743","3"
 "1031","Jadefire Lightning","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Brings forth jadefire lightning to deal [StandardDamage(1,1)] [School()] damage to the enemy team.","606542","5","2","0","0"
+Brings forth jadefire lightning to deal [StandardDamage(1,1)] [School()] damage to the enemy team.","606542","5","1","0","0"
 "1032","Celestial Blessing","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Sanctifies the ground for [duration(1,1)] |4round:rounds;, blessing the next friendly pet to swap into battle with [abs(abilityStateMod(24 ,1034))]% reduced damage for [duration(1,2,1033)] |4round:rounds;.","651728","5","0","0","2"
@@ -2131,7 +2131,7 @@ Deals [StandardDamage(1,1)] [School()] damage to the enemy.","133202","9","5","0
 
 Deals [StandardDamage(1,1)] [School()] damage.
 
-Interrupts the opponent's round if the user goes first.","651727","0","4","0","0"
+Interrupts the opponent's round if the user goes first.","651727","0","3","0","0"
 "1078","Bandage","Restores [StandardDamage(1,1)] health plus half of the last hit taken by the user.","133687","0","3","0","2"
 "1079","Club","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
@@ -2182,7 +2182,7 @@ Lashes the enemy with a flail, dealing [StandardDamage(1, 1)] [School()] damage.
 "1100","Blessed Hammer","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Sends out deadly spinning hammers, dealing [FormatDamage(SimpleDamage(1,1)*3)] [School()] damage.","133039","5","0","0","0"
-"1101","Shieldstorm","A magic shield surrounds each friendly pet, blocking the next attack they would take. Lasts [duration(1,1)] |4round:rounds;.","135874","0","6","0","2"
+"1101","Shieldstorm","A magic shield surrounds each friendly pet, blocking the next attack they would take. Lasts [duration(1,1)] |4round:rounds;.","135874","0","8","0","2"
 "1103","Righteous Inspiration","The user inspires a friendly pet to charge into battle. This ability always goes first.
 
 The swapped-in pet has double speed and damage for [duration(1,2)] |4round:rounds;. If all their friends are dead, the user can still inspire themself.
@@ -2261,7 +2261,7 @@ Deals [StandardDamage(1,1)] [School()] damage.","136023","6","5","0","0"
 
 Increases your chance to dodge an attack by [abs(abilityStateMod( 73, 1346))]%.
 
-Lasts [duration(1,1)] |4round:rounds;.","134506","4","3","0","2"
+Lasts [duration(1,1)] |4round:rounds;.","134506","4","0","0","2"
 "1348","Asleep","Unable to give this pet commands. 
 Breaks on damage.","132156","-1","0","857","3"
 "1353","Arcane Slash","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -2280,9 +2280,6 @@ Barks with incredible power, dealing [StandardDamage(1,1)] [School()] damage.
 
 This attack cannot reduce the opponent's health below 1.","1027879","7","4","0","0"
 "1358","Unattackable","Cannot be targeted.","135994","-1","0","865","2"
-"1359","Blazing Yip","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Deals [StandardDamage(1,1)] [School()] damage and reduces the target's next attack by [abs(abilityStateMod( 23, 1120 ))]%. Lasts [duration(1, 2)] |4round:rounds;.","1044792","7","0","0","0"
 "1360","Slow and Steady","[StandardAccuracy(2,1)] |cffffffffHit Chance|r
 
 Builds up power during the first round.
@@ -2374,7 +2371,7 @@ This attack goes first if the weather is Moonlight.","1029585","5","0","0","0"
 Charges at the enemy, dealing [StandardDamage(1,1)] [School()] damage.","970854","0","4","0","0"
 "1464","Gargoyle Strike","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Attack with stone claws, dealing [StandardDamage(1,1)] [School()] damage.","237477","3","0","0","0"
+Attack with unholy energy, dealing [StandardDamage(1,1)] [School()] damage.","237477","3","0","0","0"
 "1465","Gargoyle Strike","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Attack with unholy energy, dealing [StandardDamage(1,1)] [School()] damage.","136197","3","0","0","0"
@@ -2445,7 +2442,7 @@ Slows the enemy's active pet by [abs(abilityStateMod(25,911))]% for [duration(1,
 "1573","I Am Broot!","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Roars with nature's fury, restoring [StandardDamage (1,1)] health and increasing damage dealt by [abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 485 ))]% for [duration(1,2)] |4round:rounds.","136097","6","3","0","2"
-"1578","Hot Soup","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+"1578","Spill Hot Soup","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Hot soup spills over, dealing [StandardDamage(1,1)] [School()] damage. 
 
@@ -2544,7 +2541,7 @@ Critical strike chance increased by [abs(abilityStateMod(40,251))]%.","236350","
 Bashes the enemy, dealing [StandardDamage(1,1)] [School()] damage.","1387365","8","0","0","0"
 "1738","Chaos Nova","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","135799","6","3","0","0"
+Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","135799","6","2","0","0"
 "1739","Crumbling","Crumbling...","962046","6","0","0","0"
 "1740","For The Alliance!","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
@@ -2567,12 +2564,6 @@ Lasts [duration(1,1)] |4round:rounds;.","1378702","5","4","0","2"
 "1760","Creeping Insanity","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(4,1,1759)] [School()] damage after [numTurns(1759)-1] |4round:rounds;.","458230","5","5","0","0"
-"1761","BONESTORM!","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Deals [StandardDamage(1,1)] [School()] damage to the enemy team but costs [points(1,4)]% of your total health.","342917","3","3","0","0"
-"1762","BONESTORM!!","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Deals [StandardDamage(1,1)] [School()] damage to the enemy team but costs [points(1,4)]% of your total health.","342917","3","3","0","0"
 "1763","Slime","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Oozes onto the enemy, dealing [StandardDamage(1,1)] [School()] damage.","132104","3","1","0","0"
@@ -2692,9 +2683,6 @@ Strike at the target, dealing [StandardDamage(1, 1)] [petTypeName(abilityPetType
 If this damage kills the enemy pet, the cooldowns of your other alive pets will be reset.","458224","1","3","0","16"
 "1932","Forbidden Hourglass","Clearing the cooldowns of your other pets.","458224","1","0","0","2"
 "1933","Rewind Time","Restores [StandardDamage(1,1)] health plus half of the last hit taken by the user.","236353","5","3","0","2"
-"1934","Bronze Breath","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Overwhelms the enemy with draconic breath, dealing [StandardDamage(1, 1)] [School()] damage.","135807","1","0","0","0"
 "1935","ReplaceAbilityThings","","590338","0","0","0","2"
 "1936","Warp","Activate warp drives, avoiding the opponent's attack. The user then swaps automatically with your highest health pet.","255348","9","8","0","2"
 "1937","Fel Exhaust","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -2823,7 +2811,7 @@ In two |4round:rounds, the opponent's pet will take [StandardDamage(3,1,2063)] [
 "2063","Sewage Eruption","[StandardAccuracy(3,1)] |cffffffffHit Chance|r
 
 When this effect expires, your current pet will take [StandardDamage(3,1)] [School()] damage and be unable to flee for [duration(3,2)] rounds.","236271","5","0","1118","0"
-"2064","Tea Party","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+"2064","""Tea Party""","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Attacks the enemy in the blink of an eye, dealing [StandardDamage(1,7)] [School()] damage to all enemy pets.","132802","3","0","0","0"
 "2065","Nap Time","Fall asleep, restoring [StandardHealing(1,1,2066)] health on the first round, [StandardHealing(2,1,2066)] health on the second, then [StandardHealing(3,1,2066)] health on the third.
@@ -3298,8 +3286,8 @@ Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [Sta
 
 Deals [StandardDamage(1,1)] [School()] damage and turns the weather into toxic gas for [duration(1,2)] rounds.
 
-During toxic gas, the duration of all hostile damage over time effects is increased by 1 round, and all pets are considered |cFF1EFF00Poisoned.|r","132104","1","3","0","0"
-"2350","Toxic Gas","Hostile damage over time effects last one additional round.
+During toxic gas, the duration of all hostile damage over time effects is increased by 1 round, and all pets are considered |cFF1EFF00Poisoned.|r","132104","1","5","0","0"
+"2350","Toxic Fumes","Hostile damage over time effects last one additional round.
 
 All pets count as though they are |cFF1EFF00Poisoned.|r","132104","4","0","1153","2"
 "2351","Whirling Gears","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
@@ -3317,7 +3305,7 @@ Deals [StandardDamage(1,1)] [School()] damage plus [StandardDamage(1,1)*2/3] add
 "2355","boss test aura","","2065559","9","0","0","2"
 "2356","Void Nova","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","1386548","5","3","0","0"
+Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","1386548","5","2","0","0"
 "2357","Void Crash","Detonates after [numTurns()-1] |4round:rounds, dealing [StandardDamage(1,1,2373)] [School()] damage to the current enemy pet and stunning the target for [duration(3,2)] |4round:rounds;.
 
 [StandardAccuracy(3,1)] |cffffffffHit Chance|r","1386551","5","0","0","0"
@@ -3336,13 +3324,13 @@ Causes a void tremor to form under the enemy pet.
 In two |4round:rounds, the opponent's pet will take [StandardDamage(3,1,2359)] [School()] damage and be rooted for [duration(3,2,2359)] rounds.","537022","5","3","0","0"
 "2361","Void Slap","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Slap your enemies with void energy, dealing [StandardDamage(1,1)] [School()] damage, split evenly amongst them.","237244","5","3","0","0"
+Slap your enemies with void energy, dealing [StandardDamage(1,1)] [School()] damage, split evenly amongst them.","237244","5","2","0","0"
 "2363","Unstable Circuits","The Gigacharged Mayhem Maker has had its circuits overloaded with electricity.
 
 Any time it takes damage, it has a [StandardAccuracy(2,1)] chance to suffer an additional [StandardDamage(1,1)] [School()] damage, and when attacking, there is a [StandardAccuracy(2,1)] chance to deal an additional [StandardDamage(1,1)] [School()] damage to itself.","252174","9","0","0","18"
 "2364","Chain Lightning","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Discharge a massive amount of electricity at the enemy team, dealing dealing [StandardDamage(1,1)] [School()] damage to the active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","136050","9","3","0","0"
+Discharge a massive amount of electricity at the enemy team, dealing dealing [StandardDamage(1,1)] [School()] damage to the active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","136050","9","2","0","0"
 "2365","Mega Discharge","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Discharge a massive amount of electricity at the enemy team, dealing dealing [StandardDamage(1,1)] [School()] damage to the active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.
@@ -3375,27 +3363,25 @@ During a sunny day, the maximum health of all pets is increased by [abs(abilityS
 
 Blasts the enemy with holy light, dealing [StandardDamage(1,1)] [School()] damage. 
 
-Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(30 *AttackBonus())] [School()] damage.","461859","6","0","0","0"
-"2378","Rays of Light","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(25 *AttackBonus())] [School()] damage.","461859","5","0","0","0"
+"2378","Nova Swarm","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets. Restores[StandardHealing(1,1)] health to all allies.","525026","5","4","0","0"
+Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets. Restores[StandardHealing(1,1)] health to all allies.","525026","5","1","0","0"
 "2379","Swirling Knowledge","Blocks the next 2 attacks but the caster is locked in place researching for 1 turn.","134917","5","0","1179","2"
 "2380","Stay a While and Listen","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Puts the target to sleep for [duration(1,1)] |4round:rounds;.","458721","5","5","0","2"
 "2381","Dark Bolt","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Blasts the enemy with a surge of shadow, dealing [StandardDamage(1,1)] [School()] damage.","3565726","5","1","0","0"
-"2382","Deep Research","Books swirl around you, blocking the next two attacks. The user must spend 1 round researching afterwards.
-
-While researching, you cannot perform any other actions.","134917","5","5","0","2"
+Blasts the enemy with a surge of shadow, dealing [StandardDamage(1,1)] [School()] damage.","3565726","5","0","0","0"
+"2382","Deep in Research","Books swirl around you, blocking the next two attacks, but locking you in place for a turn.","134917","5","4","0","2"
 "2383","Crusher Jaws","At the end of the round,Jawbone will cause a devastating bite at the enemy pet, dealing  [abs(abilityStateMod(, 542 ))]%","1339043","8","0","0","0"
 "2384","Hammer","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage and forces an opponent's pet to swap into battle.","1405803","9","4","0","0"
 "2385","Holy Nova","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","135922","6","3","0","0"
+Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets.","135922","5","2","0","0"
 "2386","Shadowy Lurker","Nightfang automatically gains Prowl at the end of each turn.","514640","-1","0","0","2"
 "2387","Mind Games","Addius has cursed your pet team. Choose which detriment you want to your team to suffer!","135740","5","4","0","2"
 "2388","Mind Games: Health","Damage all of your team for [points(1,1)]% of their current health.","135740","5","0","0","2"
@@ -3405,59 +3391,9 @@ Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [Sta
 "2392","Mind Games","Addius has cursed your pet team. Choose which detriment you want to your team to suffer!","135740","5","0","0","2"
 "2393","Mind Games","Wretch has temporarily replaced an ability with Grave Destruction.","135740","5","0","0","2"
 "2394","Mind Games","Addius has cursed your pet team. Choose which detriment you want to your team to suffer!","135740","5","0","0","10"
-"2397","Weald Wall","Blocks two attacks.","613602","6","0","1189","2"
-"2398","Weald Wall","Creates a wooden dam that blocks two attacks. Both enemy and allied attacks will be blocked.","613602","6","5","0","2"
-"2399","Wind Burst","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+"1934","Breath","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Unleash a burst of wind, dealing [StandardDamage(1, 1)] [School()] damage.","1029595","2","0","0","0"
-"2400","Furious Flapping","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Flap your wings furiously, dealing [StandardDamage(1,1)] [School()] damage. 
-
-Damage increases by [FormatDamage(10*AttackBonus())] each time it is used. Max [FormatDamage(30*AttackBonus())] [School()] damage.","2103903","2","1","0","0"
-"2401","Face Punch","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Punch the enemy directly in the face, dealing [StandardDamage(1,1)] [School()] damage. 
-
-Damage increases by [FormatDamage(10*AttackBonus())] each time it is used. Max [FormatDamage(30*AttackBonus())] [School()] damage.","135906","0","1","0","0"
-"2402","Steady Snap","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Slowly snaps at the enemy 1-2 times, dealing [StandardDamage(1,1)] [School()] damage per hit.
-
-Hits an additional time if the user attacks last.","1339043","8","0","0","0"
-"2403","Unleash Life","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Deals [StandardDamage(1,1)] [School()] damage.
-
-The user is healed for [points(1,3)]% of the damage dealt.","237575","6","4","0","0"
-"2404","Nibble","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Scurry up and nibble at the enemy, dealing [StandardDamage(1,1)] [School()] damage and stunning the opponent if the user goes first.","647701","4","2","0","0"
-"2405","Return to Rest","The caster returns to death, avoiding the opponent's attack. The user then swaps automatically with your lowest health pet.","236399","3","7","0","2"
-"2406","Mud Rake","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Kick up a mudslide, dealing [StandardDamage(1,1)] [School()] damage and causing muddy weather for [duration(1,2)] rounds. 
-
-Muddy weather prevents any pet that enters the battlefield from swapping out for 3 rounds, and increases all critical damage dealt by [abs(abilityStateMod(314,718))]%.","2101174","7","3","0","0"
-"2407","Glop","[StandardAccuracy(2,1)] |cffffffffHit Chance|r
-
-Submerges into a puddle of ooze, becoming unattackable for one round. 
-
-On the next round, you attack, dealing [StandardDamage(2, 1)] [School()] damage.","1500943","5","5","0","0"
-"2408","Goo Puddle","Puddle of goo. 
-Unattackable.","1500943","-1","0","1197","0"
-"2409","Return to Rest","Increases your chance to dodge attacks by 100%.","236399","-1","0","1198","2"
-"2410","Sunshell","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Reflect the light of Bastion at all enemies, dealing [StandardDamage(1,1)] [School()] damage and transforming the weather into a sunny day for [duration(1,4)] rounds.
-
-During a sunny day, the maximum health of all pets is increased by [abs(abilityStateMod(99,403))]%. and healing done is increased by [abs(abilityStateMod(65,403))]%.","1498832","6","3","0","0"
-"2411","Deep Snap","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Bites deeply into the enemy, dealing [StandardDamage(1,1)] [School()] damage. 
-
-Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(30*AttackBonus())] [School()] damage.","133935","8","1","0","0"
-"2412","Healing Crash","Restores [percentage(1,1)]% of the caster's health.","135845","8","3","0","2"
+Overwhelms the enemy with draconic breath, dealing [StandardDamage(1, 1)] [School()] damage.","135807","1","0","0","0"
 "928","Speed Reduction","Speed reduced by [abs(abilityStateMod(25,154))]%.","653221","-1","0","316","3"
 "927","Stunned","Unable to give this pet commands.","135860","-1","0","103","3"
 "1671","Stunned","Unable to give this pet commands.","135860","-1","0","103","3"
@@ -3478,6 +3414,12 @@ Fire continues to |cFFFF2020Burn|r the enemy, dealing [StandardDamage(1,1, 502)]
 "848","Frost Nova","This pet cannot be swapped.
 
 |cFF0070DDChilled|r.","135848","-1","0","95","0"
+"1761","BONESTORM","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [School()] damage to the enemy team but costs [points(1,4)]% of your total health.","342917","3","3","0","0"
+"1762","BONESTORM","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [School()] damage to the enemy team but costs [points(1,4)]% of your total health.","342917","3","3","0","0"
 "661","Spreading Infection","Deals [StandardDamage(1,1)] damage each round.
 
 When the effect expires, it jumps to an ally.","0","-1","0","0","0"
@@ -3490,6 +3432,9 @@ Pummels the enemy 1-2 times, dealing [StandardDamage(1,1)] [School()] damage per
 
 Hits an additional time if the user attacks first.","458970","0","0","0","0"
 "1075","Spiny Carapace","Deals [FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)] [School()] damage each time you take direct damage.","134964","8","0","0","0"
+"1359","Bark","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [School()] damage and reduces the target's next attack by [abs(abilityStateMod( 23, 1120 ))]%. Lasts [duration(1, 2)] |4round:rounds;.","461121","7","0","0","0"
 "1443","Call the Pack","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Calls for canine backup, dealing [FormatDamage(SimpleDamage(1,2)*3)] [School()] damage and increasing damage taken by [abs(abilityStateMod( 24, 542 ))]% for [duration(1, 4)] |4round:rounds;.","132266","7","3","0","0"

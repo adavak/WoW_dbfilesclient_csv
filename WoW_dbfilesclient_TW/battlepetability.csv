@@ -397,7 +397,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 
 對所有敵方寵物造成[StandardDamage(1,1)]點[School()]傷害，為所有盟友恢復[SimpleDamage(1,4)]點生命力，並將天氣轉變為月光，持續[duration(1,7)]|4輪:輪;。
 
-在月光持續時間內，所有寵物受到25%額外治療效果，且魔法技能造成10%額外傷害。","236168","1","4","0","0"
+在月光持續時間內，所有寵物受到25%額外治療效果，且魔法技能造成10%額外傷害。","236168","1","5","0","0"
 "259","隱形術","在兩輪後，你將隱形一輪，無法被攻擊。","132220","5","4","0","0"
 "260","隱遁","隱形...","135994","-1","0","0","0"
 "261","隱形","隱形。
@@ -1600,7 +1600,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 此技能總是優先發動。","252186","0","0","0","0"
 "779","雷霆箭","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-對敵方造成[StandardDamage(1,1)]點[School()]傷害，此傷害由所有敵方寵物平均分攤。","458976","6","4","0","0"
+對敵方造成[StandardDamage(1,1)]點[School()]傷害，此傷害由所有敵方寵物平均分攤。","458976","6","5","0","0"
 "780","死亡之握","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 造成[StandardDamage(1,1)]點[School()]傷害，並強迫對手生命力最低的寵物被交換進入戰鬥。","237532","3","4","0","0"
@@ -1909,7 +1909,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 
 對所有敵方寵物造成[StandardDamage(1,1)]點[School()]傷害，為所有盟友恢復[SimpleDamage(1,4)]點生命力，並將天氣轉變為月光，持續[duration(1,7)]輪。
 
-在月光持續時間內，所有寵物受到25%額外治療效果，且魔法技能造成10%額外傷害。","236168","5","4","0","0"
+在月光持續時間內，所有寵物受到25%額外治療效果，且魔法技能造成10%額外傷害。","236168","5","5","0","0"
 "980","月狼之舞","使我方隊伍的速度提高[abs(abilityStateMod(25,981))]%，持續[duration(1,1)]輪。","132132","5","0","0","2"
 "981","月狼之舞","隊伍速度提高[abs(abilityStateMod(25,981))]%。","648208","-1","0","113","0"
 "983","痛扁機制","[StandardAccuracy(1,1)]|cffffffff命中機率|r
@@ -2021,7 +2021,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "1030","昏迷","無法對此寵物下命令。","135860","-1","0","743","3"
 "1031","碧火閃電","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-釋放出碧火閃電，對敵方隊伍造成[StandardDamage(1,1)]點[School()]傷害。","606542","5","2","0","0"
+釋放出碧火閃電，對敵方隊伍造成[StandardDamage(1,1)]點[School()]傷害。","606542","5","1","0","0"
 "1032","天尊祝福","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 讓地面沐浴在神聖的力量中，持續[duration(1,1)]輪。下一個被交換進入戰鬥的友方寵物所受到的傷害降低[abs(abilityStateMod(24 ,1034))]%，持續[duration(1,2,1033)]輪。","651728","5","0","0","2"
@@ -2135,7 +2135,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 
 造成[StandardDamage(1,1)]點[School()]傷害。
 
-優先發動此技能會中斷敵方的攻擊。","651727","0","4","0","0"
+優先發動此技能會中斷敵方的攻擊。","651727","0","3","0","0"
 "1078","繃帶","恢復[StandardDamage(1,1)]點生命力，再加上使用者上一次所受攻擊傷害值一半的生命力。","133687","0","3","0","2"
 "1079","棒打","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
@@ -2186,7 +2186,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "1100","祝福之錘","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 召喚出索命鏈錘，造成[FormatDamage(SimpleDamage(1,1)*3)]點[School()]傷害。","133039","5","0","0","0"
-"1101","盾牌風暴","以魔法盾牌保護每個友方寵物，格擋他們所受到的下一次攻擊。持續[duration(1,1)]輪。","135874","0","6","0","2"
+"1101","盾牌風暴","以魔法盾牌保護每個友方寵物，格擋他們所受到的下一次攻擊。持續[duration(1,1)]輪。","135874","0","8","0","2"
 "1103","正義鼓動","使用者鼓舞一隻友方寵物衝入戰局。此技能總是優先發動。
 
 交換入場的寵物，速度和傷害為原本的兩倍，持續[duration(1,2)]輪。如果其他友方皆已陣亡，則使用者將會鼓舞自己。
@@ -2265,7 +2265,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 
 使你閃躲攻擊的機率提高[abs(abilityStateMod( 73, 1346))]%。
 
-持續[duration(1,1)]|輪。","134506","4","3","0","2"
+持續[duration(1,1)]|輪。","134506","4","0","0","2"
 "1348","沉睡","無法對這隻寵物下命令。
 受到傷害時效果會中斷。","132156","-1","0","857","3"
 "1353","秘法斬擊","[StandardAccuracy(1,1)]|cffffffff命中機率|r
@@ -2284,9 +2284,6 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 
 此攻擊無法將對手的生命力降低到1點以下。","1027879","7","4","0","0"
 "1358","無法被攻擊","無法選定為目標。","135994","-1","0","865","2"
-"1359","熾熱吠叫","[StandardAccuracy(1,1)]|cffffffff命中機率|r
-
-造成[StandardDamage(1,1)]點[School()]傷害，並使目標下一次攻擊傷害降低 [abs(abilityStateMod( 23, 1120 ))]%，持續[duration(1, 2)]輪。","1044792","7","0","0","0"
 "1360","穩紮穩打","[StandardAccuracy(2,1)]|cffffffff命中機率|r
 
 第一輪先聚集能量。
@@ -2378,7 +2375,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 衝向敵人，造成[StandardDamage(1,1)]點[School()]傷害。","970854","0","4","0","0"
 "1464","石像鬼之擊","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
-以石爪進行攻擊，造成[StandardDamage(1,1)]點[School()]傷害。","237477","3","0","0","0"
+以穢邪能量進行攻擊，造成[StandardDamage(1,1)]點[School()]傷害。","237477","3","0","0","0"
 "1465","石像鬼之擊","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
 以穢邪能量進行攻擊，造成[StandardDamage(1,1)]點[School()]傷害。","136197","3","0","0","0"
@@ -2449,7 +2446,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "1573","我是布魯特！","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 以自然之力怒吼，恢復[StandardDamage (1,1)]點生命力並使造成的傷害提高[abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 485 ))]%，持續[duration(1,2)]輪。","136097","6","3","0","2"
-"1578","熱湯","[StandardAccuracy(1,1)]|cffffffff命中機率|r
+"1578","打翻熱湯","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 翻倒熱湯，造成[StandardDamage(1,1)]點[School()]傷害。
 
@@ -2548,7 +2545,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 重擊敵人，造成[StandardDamage(1,1)]點[School()]傷害。","1387365","8","0","0","0"
 "1738","混沌新星","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-對敵方啟用的寵物造成[StandardDamage(1,1)]點[School()]傷害，並對敵人後排的寵物造成[StandardDamage(1,2)]點[School()]傷害。","135799","6","3","0","0"
+對敵方啟用的寵物造成[StandardDamage(1,1)]點[School()]傷害，並對敵人後排的寵物造成[StandardDamage(1,2)]點[School()]傷害。","135799","6","2","0","0"
 "1739","粉碎","崩碎…","962046","6","0","0","0"
 "1740","為了聯盟！","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
@@ -2571,9 +2568,6 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "1760","瘋狂蔓延","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 在[numTurns(1759)-1]輪之後造成[StandardDamage(4,1,1759)]點[School()]傷害。","458230","5","5","0","0"
-"1761","骸骨風暴！","[StandardAccuracy(1,1)]|cffffffff命中機率|r
-
-對敵方隊伍造成[StandardDamage(1,1)]點[School()]傷害，但消耗你總生命力的[points(1,4)]%。","342917","3","3","0","0"
 "1763","泥漿","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 將軟泥沾到敵人身上，造成[StandardDamage(1,1)]點[School()]傷害。","132104","3","1","0","0"
@@ -2693,9 +2687,6 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 如果造成的傷害使敵方寵物死亡，你其他存活寵物的冷卻時間會重置。","458224","1","3","0","16"
 "1932","禁忌沙漏","重置其他寵物的冷卻時間。","458224","1","0","0","2"
 "1933","時光倒流","恢復[StandardDamage(1,1)]點生命力，再加上使用者上一次所受攻擊傷害值一半的生命力。","236353","5","3","0","2"
-"1934","青銅吐息","[StandardAccuracy(1,1)]|cffffffff命中機率|r
-
-以龍之吐息壓制敵人，造成[StandardDamage(1, 1)]點[School()]傷害。","135807","1","0","0","0"
 "1935","ReplaceAbilityThings","","590338","0","0","0","2"
 "1936","扭曲傳送","啟動傳送系統，藉此避開對手的攻擊。使用者接著會自動和你生命力最高的寵物交換。","255348","9","8","0","2"
 "1937","魔能廢氣","[StandardAccuracy(1,1)]|cffffffff命中機率|r
@@ -2825,7 +2816,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "2063","污水爆發","[StandardAccuracy(3,1)]|cffffffff命中機率|r
 
 當此效果結束時，你當前的寵物受到[StandardDamage(3,1)]點[School()]傷害，且無法逃離戰場，持續[duration(3,2)]輪。","236271","5","0","1118","0"
-"2064","茶會","[StandardAccuracy(1,1)]|cffffffff命中機率|r
+"2064","「茶會」","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 在眨眼間攻擊敵人，對所有敵方寵物造成[StandardDamage(1,7)]點[School()]傷害。","132802","3","0","0","0"
 "2065","小睡時間","陷入沉睡，第一輪恢復[StandardHealing(1,1,2066)]點生命力，第二輪恢復[StandardHealing(2,1,2066)]點生命力，然後第三輪恢復[StandardHealing(3,1, 2066)]點生命力。
@@ -3300,8 +3291,8 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 造成[StandardDamage(1,1)]點[School()]傷害，並將天候轉變成毒氣，持續[duration(1,2)]輪。
 
-在毒氣中，所有敵方持續性傷害的有效期間延長1輪，且所有寵物視為|cFF1EFF00中毒|r。","132104","1","3","0","0"
-"2350","毒氣","敵方的持續性傷害效果有效期間延長一輪。
+在毒氣中，所有敵方持續性傷害的有效期間延長1輪，且所有寵物視為|cFF1EFF00中毒|r。","132104","1","5","0","0"
+"2350","毒煙","敵方的持續性傷害效果有效期間延長一輪。
 
 所有寵物將視為|cFF1EFF00中毒|r狀態。","132104","4","0","1153","2"
 "2351","迴旋齒輪","[StandardAccuracy(1,1)]|cffffffff命中機率|r
@@ -3319,7 +3310,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 "2355","boss test aura","","2065559","9","0","0","2"
 "2356","虛無新星","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-對敵方啟用的寵物造成[StandardDamage(1,1)]點[School()]傷害，並對敵人後排的寵物造成[StandardDamage(1,2)]點[School()]傷害。","1386548","5","3","0","0"
+對敵方啟用的寵物造成[StandardDamage(1,1)]點[School()]傷害，並對敵人後排的寵物造成[StandardDamage(1,2)]點[School()]傷害。","1386548","5","2","0","0"
 "2357","虛無轟擊","在[numTurns()-1]|4輪:輪;後引爆，對目前敵人的寵物造成[StandardDamage(1,1,2373)]點[School()]傷害，並使目標昏迷[duration(3,2)]|4輪:輪;。
 
 [StandardAccuracy(3,1)]|cffffffff命中機率|r","1386551","5","0","0","0"
@@ -3338,13 +3329,13 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 在2輪後，對手的戰寵會受到[StandardDamage(3,1,2359)]點[School()]傷害，並且被定身，持續[duration(3,2,2359)]輪。","537022","5","3","0","0"
 "2361","虛無甩擊","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-以虛無能量甩擊敵人，造成[StandardDamage(1,1)]點[School()]傷害，由他們均分。","237244","5","3","0","0"
+以虛無能量甩擊敵人，造成[StandardDamage(1,1)]點[School()]傷害，由他們均分。","237244","5","2","0","0"
 "2363","不穩定的電路","十億伏特動亂製造者的電路超載。
 
 每當受到傷害時，有[StandardAccuracy(2,1)]的機率額外受到[StandardDamage(1,1)]點[School()]傷害，並且攻擊時有[StandardAccuracy(2,1)]的機率對自己額外造成[StandardDamage(1,1)]點[School()]傷害。","252174","9","0","0","18"
 "2364","閃電鏈","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
-對敵方隊伍釋放大量電力，對敵方啟用的寵物造成[StandardDamage(1,1)]點[School()]傷害，並且對敵方的後排寵物造成[StandardDamage(1,2)]點[School()]傷害。","136050","9","3","0","0"
+對敵方隊伍釋放大量電力，對敵方啟用的寵物造成[StandardDamage(1,1)]點[School()]傷害，並且對敵方的後排寵物造成[StandardDamage(1,2)]點[School()]傷害。","136050","9","2","0","0"
 "2365","超強放電","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
 對敵方隊伍釋放大量電力，對前排的寵物造成[StandardDamage(1,1)]點[School()]傷害，並且對敵方後排的寵物造成[StandardDamage(1,2)]點[School()]傷害。
@@ -3377,27 +3368,25 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 以聖光衝擊敵人，造成[StandardDamage(1,1)] [School()]點傷害。
 
-每次使用傷害提高[FormatDamage(5*AttackBonus())]點。最高為[FormatDamage(30 *AttackBonus())] [School()]點傷害。","461859","6","0","0","0"
-"2378","聖光光束","[StandardAccuracy(1,1)] |cffffffff命中機率|r
+每次使用傷害提高[FormatDamage(5*AttackBonus())]點。最高為[FormatDamage(25 *AttackBonus())] [School()]點傷害。","461859","5","0","0","0"
+"2378","蟲群新星","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
-對敵方的前排寵物造成[StandardDamage(1,1)]點[School()]傷害，並且對敵方的後排寵物造成[StandardDamage(1,2)]點[School()]傷害。對所有盟友回復[StandardHealing(1,1)]點生命力。","525026","5","4","0","0"
+對敵方的前排寵物造成[StandardDamage(1,1)]點[School()]傷害，並且對敵方的後排寵物造成[StandardDamage(1,2)]點[School()]傷害。對所有盟友回復[StandardHealing(1,1)]點生命力。","525026","5","1","0","0"
 "2379","知識盤旋","格擋接下來2次攻擊，但施法者會被鎖在原地做研究，持續1輪。","134917","5","0","1179","2"
 "2380","留步聽故事","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
 使目標沉睡[duration(1,1)]|4輪:輪;。","458721","5","5","0","2"
 "2381","黑闇箭","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
-以一道澎湃暗影轟炸敵人，造成[StandardDamage(1,1)]點[School()]傷害。","3565726","5","1","0","0"
-"2382","潛心研究","讓書籍在你身邊盤旋，格擋接下來兩次攻擊，使用者之後必須花費一輪研讀。
-
-研讀時無法進行其他動作。","134917","5","5","0","2"
+以一道澎湃暗影轟炸敵人，造成[StandardDamage(1,1)]點[School()]傷害。","3565726","5","0","0","0"
+"2382","潛心研究","讓書籍在你身邊盤旋，格擋接下來兩次攻擊，但會把你定身在原地一輪。","134917","5","4","0","2"
 "2383","碾碎之顎","回合結束時，顎霸龜會對敵方寵物造成威力驚人的撕咬傷，造成[abs(abilityStateMod(, 542 ))]%傷害","1339043","8","0","0","0"
 "2384","重錘","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 造成[StandardDamage(1,1)]點[School()]傷害，並強迫對手一隻寵物被交換進入戰鬥。","1405803","9","4","0","0"
 "2385","神聖新星","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-對敵方啟用的寵物造成[StandardDamage(1,1)]點[School()]傷害，並對敵人後排的寵物造成[StandardDamage(1,2)]點[School()]傷害。","135922","6","3","0","0"
+對敵方啟用的寵物造成[StandardDamage(1,1)]點[School()]傷害，並對敵人後排的寵物造成[StandardDamage(1,2)]點[School()]傷害。","135922","5","2","0","0"
 "2386","暗影潛伏者","夜牙會自動在每回合的最後獲得潛行。","514640","-1","0","0","2"
 "2387","精神把戲","艾迪斯詛咒你的寵物隊伍。選擇你要讓隊伍受到哪一種損害！","135740","5","4","0","2"
 "2388","精神把戲：生命","對隊伍的所有成員造成相當於目前生命力[points(1,1)]%的傷害。","135740","5","0","0","2"
@@ -3407,59 +3396,9 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 "2392","精神把戲","艾迪斯詛咒你的寵物隊伍。選擇你要讓隊伍受到哪一種損害！","135740","5","0","0","2"
 "2393","精神把戲","卑鄙鬼暫時將一個技能換成背水一戰。","135740","5","0","0","2"
 "2394","精神把戲","艾迪斯詛咒你的寵物隊伍。選擇你要讓隊伍受到哪一種損害！","135740","5","0","0","10"
-"2397","曠野之牆","格擋兩次攻擊。","613602","6","0","1189","2"
-"2398","曠野之牆","製造一個木頭水壩格擋兩次攻擊。敵我雙方的攻擊都會被格擋。","613602","6","5","0","2"
-"2399","Wind Burst","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+"1934","吐息","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-Unleash a burst of wind, dealing [StandardDamage(1, 1)] [School()] damage.","1029595","2","0","0","0"
-"2400","Furious Flapping","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Flap your wings furiously, dealing [StandardDamage(1,1)] [School()] damage. 
-
-Damage increases by [FormatDamage(10*AttackBonus())] each time it is used. Max [FormatDamage(30*AttackBonus())] [School()] damage.","2103903","2","1","0","0"
-"2401","Face Punch","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Punch the enemy directly in the face, dealing [StandardDamage(1,1)] [School()] damage. 
-
-Damage increases by [FormatDamage(10*AttackBonus())] each time it is used. Max [FormatDamage(30*AttackBonus())] [School()] damage.","135906","0","1","0","0"
-"2402","Steady Snap","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Slowly snaps at the enemy 1-2 times, dealing [StandardDamage(1,1)] [School()] damage per hit.
-
-Hits an additional time if the user attacks last.","1339043","8","0","0","0"
-"2403","Unleash Life","[StandardAccuracy(1,1)]|cffffffff命中機率|r
-
-造成[StandardDamage(1,1)]點[School()]傷害。
-
-使用者會恢復相當於造成傷害[points(1,3)]%的生命力。","237575","6","4","0","0"
-"2404","Nibble","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Scurry up and nibble at the enemy, dealing [StandardDamage(1,1)] [School()] damage and stunning the opponent if the user goes first.","647701","4","2","0","0"
-"2405","Return to Rest","The caster returns to death, avoiding the opponent's attack. The user then swaps automatically with your lowest health pet.","236399","3","7","0","2"
-"2406","Mud Rake","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Kick up a mudslide, dealing [StandardDamage(1,1)] [School()] damage and causing muddy weather for [duration(1,2)] rounds. 
-
-Muddy weather prevents any pet that enters the battlefield from swapping out for 3 rounds, and increases all critical damage dealt by [abs(abilityStateMod(314,718))]%.","2101174","7","3","0","0"
-"2407","Glop","[StandardAccuracy(2,1)] |cffffffffHit Chance|r
-
-Submerges into a puddle of ooze, becoming unattackable for one round. 
-
-On the next round, you attack, dealing [StandardDamage(2, 1)] [School()] damage.","1500943","5","5","0","0"
-"2408","Goo Puddle","Puddle of goo. 
-Unattackable.","1500943","-1","0","1197","0"
-"2409","Return to Rest","使你閃躲攻擊的機率提高100%。","236399","-1","0","1198","2"
-"2410","Sunshell","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
-
-Reflect the light of Bastion at all enemies, dealing [StandardDamage(1,1)] [School()] damage and transforming the weather into a sunny day for [duration(1,4)] rounds.
-
-During a sunny day, the maximum health of all pets is increased by [abs(abilityStateMod(99,403))]%. and healing done is increased by [abs(abilityStateMod(65,403))]%.","1498832","6","3","0","0"
-"2411","Deep Snap","[StandardAccuracy(1,1)]|cffffffff命中機率|r
-
-撕咬敵人，造成[StandardDamage(1,1)]點[School()]傷害。
-
-每次使用可使傷害提高[FormatDamage(5*AttackBonus())]點。最多[FormatDamage(30 *AttackBonus())]點[School()]傷害。","133935","8","1","0","0"
-"2412","Healing Crash","Restores [percentage(1,1)]% of the caster's health.","135845","8","3","0","2"
+以龍之吐息壓制敵人，造成[StandardDamage(1, 1)]點[School()]傷害。","135807","1","0","0","0"
 "928","速度降低","速度降低[abs(abilityStateMod(25,154))]%。","653221","-1","0","316","3"
 "927","昏迷","無法對此寵物下命令。","135860","-1","0","103","3"
 "1671","昏迷","無法對此寵物下命令。","135860","-1","0","103","3"
@@ -3475,6 +3414,12 @@ During a sunny day, the maximum health of all pets is increased by [abs(abilityS
 "848","冰霜新星","這隻寵物無法被交換。
 
 |cFF0070DD冰凍|r。","135848","-1","0","95","0"
+"1761","骸骨風暴","[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+對敵方隊伍造成[StandardDamage(1,1)]點[School()]傷害，但消耗你總生命力的[points(1,4)]%。","342917","3","3","0","0"
+"1762","骸骨風暴","[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+對敵方隊伍造成[StandardDamage(1,1)]點[School()]傷害，但消耗你總生命力的[points(1,4)]%。","342917","3","3","0","0"
 "661","散佈傳染","每輪造成[StandardDamage(1,1)]點傷害。
 
 當效果持續時間結束時，它將彈跳到一名盟友身上。","0","-1","0","0","0"
@@ -3487,12 +3432,12 @@ During a sunny day, the maximum health of all pets is increased by [abs(abilityS
 
 如果使用者先攻擊，則可額外攻擊一次。","458970","0","0","0","0"
 "1075","尖刺甲殼","每次你受到直接傷害時，會對敵人造成[FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)]點[School()]傷害","134964","8","0","0","0"
+"1359","狂哮","[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+造成[StandardDamage(1,1)]點[School()]傷害，並使目標下一次攻擊傷害降低 [abs(abilityStateMod( 23, 1120 ))]%，持續[duration(1, 2)]輪。","461121","7","0","0","0"
 "1443","呼叫犬群","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 呼喚數頭支援犬，造成[FormatDamage(SimpleDamage(1,2)*3)]點[School()]傷害，並使受到的傷害提高[abs(abilityStateMod( 24, 542 ))]%，持續[duration(1, 4)]輪。","132266","7","3","0","0"
-"1762","骸骨風暴！","[StandardAccuracy(1,1)]|cffffffff命中機率|r
-
-對敵方隊伍造成[StandardDamage(1,1)]點[School()]傷害，但消耗你總生命力的[points(1,4)]%。","342917","3","3","0","0"
 "2231","音波炸彈","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 朝目標投擲音波炸彈，對敵人造成[StandardDamage(1,1)]點[School()]傷害，並且在引爆時對其他敵人造成[StandardDamage(1,2)]點[School()]傷害。","1345087","9","3","0","0"
