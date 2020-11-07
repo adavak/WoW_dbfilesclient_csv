@@ -400,7 +400,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 
 对所有敌方宠物造成[StandardDamage(1,1)]点[School()]伤害，为所有同伴回复[SimpleDamage(1,4)]点生命值，并将天气转为月光，持续[duration(1,7)]轮。
 
-在月光期间，所有宠物可获得额外25%的治疗效果，魔法技能可造成额外10%的伤害。","236168","1","5","0","0"
+在月光期间，所有宠物可获得额外25%的治疗效果，魔法技能可造成额外10%的伤害。","236168","1","4","0","0"
 "259","隐形","在2轮之后，你将隐形1轮，无法被攻击。","132220","5","4","0","0"
 "260","遁形","变为隐形……","135994","-1","0","0","0"
 "261","隐形","隐形。
@@ -1601,7 +1601,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 这个招式总能取得先手。","252186","0","0","0","0"
 "779","雷霆之箭","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-造成[StandardDamage(1,1)]点[School()]伤害，由敌人的队伍成员均摊。","458976","6","5","0","0"
+造成[StandardDamage(1,1)]点[School()]伤害，由敌人的队伍成员均摊。","458976","6","4","0","0"
 "780","死亡之握","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 造成[StandardDamage(1,1)]点[School()]伤害，并迫使敌人生命值最低的宠物出战。","237532","3","4","0","0"
@@ -1905,7 +1905,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 
 对敌人的所有宠物造成[StandardDamage(1,1)]点[School()]伤害，为所有同伴恢复[SimpleDamage(1,4)]点生命值，并将天气转为月光，持续[duration(1,7)]轮。
 
-在月光期间，所有宠物可额外获得25%的治疗效果，魔法技能可额外造成10%的伤害。","236168","5","5","0","0"
+在月光期间，所有宠物可额外获得25%的治疗效果，魔法技能可额外造成10%的伤害。","236168","5","4","0","0"
 "980","月之舞","使你队伍的速度提高[abs(abilityStateMod(25,981))]%，持续[duration(1,1)]轮。","132132","5","0","0","2"
 "981","月之舞","队伍速度提高[abs(abilityStateMod(25,981))]%。","648208","-1","0","113","0"
 "983","打脸.EXE","[StandardAccuracy(1,1)] |cffffffff命中几率|r
@@ -2017,7 +2017,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 "1030","昏迷","无法对这只宠物下达命令。","135860","-1","0","743","3"
 "1031","碧火闪电","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-招引碧火闪电，对敌方队伍造成[StandardDamage(1,1)]点[School()]伤害。","606542","5","1","0","0"
+招引碧火闪电，对敌方队伍造成[StandardDamage(1,1)]点[School()]伤害。","606542","5","2","0","0"
 "1032","天神的祝福","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 净化大地，持续[duration(1,1)]轮，使下一个切入战斗的友方宠物获得祝福，受到的伤害降低[abs(abilityStateMod(24 ,1034))]%，持续[duration(1,2,1033)]轮。","651728","5","0","0","2"
@@ -2131,7 +2131,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 
 造成[StandardDamage(1,1)]点[School()]伤害。
 
-如果使用者率先发起攻击，则可使对手的攻击轮中断。","651727","0","3","0","0"
+如果使用者率先发起攻击，则可使对手的攻击轮中断。","651727","0","4","0","0"
 "1078","包扎","回复[StandardDamage(1,1)]点生命值，外加相当于使用者从上次攻击中受到一半伤害的生命值。","133687","0","3","0","2"
 "1079","棍击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
@@ -2182,7 +2182,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 "1100","祝福之锤","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 投出致命的飞旋之锤，造成[FormatDamage(SimpleDamage(1,1)*3)]点[School()]伤害。","133039","5","0","0","0"
-"1101","风暴之盾","施放魔法护盾环绕每一个友方宠物，为其格挡所受到的下一次攻击。持续[duration(1,1)]轮。","135874","0","8","0","2"
+"1101","风暴之盾","施放魔法护盾环绕每一个友方宠物，为其格挡所受到的下一次攻击。持续[duration(1,1)]轮。","135874","0","6","0","2"
 "1103","正义鼓舞","使用者鼓动一只友方宠物投入战斗。该技能总能取得先手。
 
 被置换入场的宠物速度与伤害翻倍，持续[duration(1,2)]轮。如果它的同伴全部死亡，使用者仍可鼓动自身。
@@ -2261,7 +2261,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 
 使你的躲闪几率提高[abs(abilityStateMod( 73, 1346))]%。
 
-持续[duration(1,1)]轮。","134506","4","0","0","2"
+持续[duration(1,1)]轮。","134506","4","3","0","2"
 "1348","沉睡","无法对这只宠物下达命令。
 伤害可中断此效果。","132156","-1","0","857","3"
 "1353","奥术斩","[StandardAccuracy(1,1)] |cffffffff命中几率|r
@@ -2280,6 +2280,9 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 
 该攻击无法使对手的生命值降到1点以下。","1027879","7","4","0","0"
 "1358","无法攻击","无法被选作目标。","135994","-1","0","865","2"
+"1359","炽热狂吠","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+造成[StandardDamage(1,1)]点[School()]伤害，并使目标下一次攻击造成的伤害降低[abs(abilityStateMod( 23, 1120 ))]%。持续[duration(1, 2)]轮。","1044792","7","0","0","0"
 "1360","厚积薄发","[StandardAccuracy(2,1)] |cffffffff命中几率|r
 
 在首轮积聚力量。
@@ -2373,7 +2376,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 召唤群犬援军，造成[FormatDamage(SimpleDamage(1,2)*3)]点[School()]伤害，并使其受到的伤害提高[abs(abilityStateMod( 24, 542 ))]%，持续[duration(1, 4)]轮。","132266","7","3","0","0"
 "1464","石像鬼打击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-使用邪恶能量攻击，造成[StandardDamage(1,1)]点[School()]伤害。","237477","3","0","0","0"
+使用岩石利爪攻击，造成[StandardDamage(1,1)]点[School()]伤害。","237477","3","0","0","0"
 "1465","石像鬼打击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 使用邪恶能量攻击，造成[StandardDamage(1,1)]点[School()]伤害。","136197","3","0","0","0"
@@ -2444,7 +2447,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 "1573","我是布鲁特！","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 发出带有自然之怒的咆哮，恢复[StandardDamage (1,1)]点生命值，并使造成的伤害提高[abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 485 ))]%，持续[duration(1,2)]轮。","136097","6","3","0","2"
-"1578","热汤喷溢","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+"1578","热汤","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 热汤喷溢，造成[StandardDamage(1,1)]点[School()]伤害。 
 
@@ -2543,7 +2546,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 猛击敌人，造成[StandardDamage(1,1)]点[School()]伤害。","1387365","8","0","0","0"
 "1738","混乱新星","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-对敌人的激活宠物造成[StandardDamage(1,1)]点[School()]伤害，并对敌人的后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","135799","6","2","0","0"
+对敌人的激活宠物造成[StandardDamage(1,1)]点[School()]伤害，并对敌人的后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","135799","6","3","0","0"
 "1739","破碎","正在破碎……","962046","6","0","0","0"
 "1740","为了联盟！","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
@@ -2566,6 +2569,12 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 "1760","蠕行狂乱","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 [numTurns(1759)-1]轮后造成[StandardDamage(4,1,1759)]点[School()]伤害。 ","458230","5","5","0","0"
+"1761","骨头风暴！","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+对敌方队伍造成[StandardDamage(1,1)]点[School()]伤害，但会消耗你[points(1,4)]%的最大生命值。","342917","3","3","0","0"
+"1762","骨头风暴！！","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+对敌方队伍造成[StandardDamage(1,1)]点[School()]伤害，但会消耗你[points(1,4)]%的最大生命值。","342917","3","3","0","0"
 "1763","软泥","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 使敌人沾上软泥，造成[StandardDamage(1,1)]点[School()]伤害。","132104","3","1","0","0"
@@ -2685,7 +2694,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 如果此技能击杀了敌方宠物，你其他活着的宠物的冷却时间将被重置。","458224","1","3","0","16"
 "1932","禁忌沙漏","清除你其他宠物的冷却时间。","458224","1","0","0","2"
 "1933","时光倒转","回复[StandardDamage(1,1)]点生命值，外加相当于使用者从上次攻击中受到一半伤害的生命值。","236353","5","3","0","2"
-"1934","呼吸","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+"1934","青铜之息","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 用龙之吐息席卷敌人，造成[StandardDamage(1, 1)]点[School()]伤害。","135807","1","0","0","0"
 "1935","ReplaceAbilityThings","","590338","0","0","0","2"
@@ -2782,15 +2791,15 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 被邮件击中的对手在[duration(1,4)] |4轮:轮;内受到的伤害提高[abs(abilityStateMod( 24, 542 ))]%。
 
 垃圾邮件会持续[numTurns()] |4轮:轮;。","133462","0","0","0","0"
-"2024","核心投掷","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+"2024","细嚼慢咽","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-掷出一块石头，造成[StandardDamage(1,1)]点[School()]伤害。","237477","6","0","0","0"
+吞噬目标，造成[StandardDamage(1,1)]点[School()]伤害。如果施法者比目标慢，则造成150%的额外伤害。","3860419","6","3","0","0"
 "2025","狂野投掷","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 掷出一块石头，造成[StandardDamage(1,1)]点[School()]伤害。","237477","6","0","0","0"
-"2026","砰砰！","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+"2026","囫囵吞枣","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-掷出一块石头，造成[StandardDamage(1,1)]点[School()]伤害。","237477","6","0","0","0"
+吞噬目标，造成[StandardDamage(1,1)]点[School()]伤害。如果施法者比目标快，则造成150%的额外伤害。","3732243","6","3","0","0"
 "2027","闪避追猎","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 掷出一块石头，造成[StandardDamage(1,1)]点[School()]伤害。","237477","6","0","0","0"
@@ -2816,7 +2825,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 "2063","污水爆发","[StandardAccuracy(3,1)] |cffffffff命中几率|r
 
 当这个效果结束时，你的当前宠物会受到[StandardDamage(3,1)]点[School()]伤害，并在[duration(3,2)]轮内无法逃跑。","236271","5","0","1118","0"
-"2064","“茶话会”","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+"2064","茶话会","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 瞬间攻击敌人，对敌人的所有宠物造成[StandardDamage(1,7)]点[School()]伤害。","132802","3","0","0","0"
 "2065","小憩","进入睡眠状态，首轮回复[StandardHealing(1,1,2066)]点生命值，第二轮回复[StandardHealing(2,1,2066)]点生命值，第三轮回复[StandardHealing(3,1,2066)]点生命值。
@@ -3285,8 +3294,8 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 造成[StandardDamage(1,1)]点[School()]伤害并将天气转变为毒气，持续[duration(1,2)]轮。
 
-在毒气期间，所有敌对的持续伤害效果延长1轮，而且所有宠物都被视作|cFF1EFF00中毒|r。","132104","1","5","0","0"
-"2350","剧毒烟雾","敌对的持续伤害效果都会延长1轮。
+在毒气期间，所有敌对的持续伤害效果延长1轮，而且所有宠物都被视作|cFF1EFF00中毒|r。","132104","1","3","0","0"
+"2350","剧毒气体","敌对的持续伤害效果都会延长1轮。
 
 所有宠物都被视作|cFF1EFF00中毒|r。","132104","4","0","1153","2"
 "2351","回旋齿轮","[StandardAccuracy(1,1)] |cffffffff命中几率|r
@@ -3304,7 +3313,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 "2355","boss test aura","","2065559","9","0","0","2"
 "2356","虚空新星","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-对敌人的激活宠物造成[StandardDamage(1,1)]点[School()]伤害，并对敌人的后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","1386548","5","2","0","0"
+对敌人的激活宠物造成[StandardDamage(1,1)]点[School()]伤害，并对敌人的后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","1386548","5","3","0","0"
 "2357","虚空撞击","在[numTurns()-1]轮后爆炸，对当前敌方宠物造成[StandardDamage(1,1,2373)]点[School()]伤害并使目标昏迷[duration(3,2)]轮。
 
 [StandardAccuracy(3,1)] |cffffffff命中几率|r","1386551","5","0","0","0"
@@ -3323,13 +3332,13 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 在2轮后，对手的宠物会受到[StandardDamage(3,1,2359)]点[School()]伤害，并被定身[duration(3,2,2359)]轮。","537022","5","3","0","0"
 "2361","虚空拍击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-用虚空能量拍击你的敌人，造成[StandardDamage(1,1)]点[School()]伤害，由所有敌人均摊。","237244","5","2","0","0"
+用虚空能量拍击你的敌人，造成[StandardDamage(1,1)]点[School()]伤害，由所有敌人均摊。","237244","5","3","0","0"
 "2363","不稳定的电路","千兆充能混乱制造者的电路过载了。
 
 它每次受到伤害，都有[StandardAccuracy(2,1)]的几率受到额外的[StandardDamage(1,1)]点[School()]伤害。它每次攻击时，有[StandardAccuracy(2,1)]的几率对其自身造成[StandardDamage(1,1)]点[School()]伤害。","252174","9","0","0","18"
 "2364","闪电链","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-向敌方队伍释放大量的电能，对激活的宠物造成[StandardDamage(1,1)]点[School()]伤害，并且对敌方后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","136050","9","2","0","0"
+向敌方队伍释放大量的电能，对激活的宠物造成[StandardDamage(1,1)]点[School()]伤害，并且对敌方后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","136050","9","3","0","0"
 "2365","百万释放","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 向敌方队伍释放大量的电能，对激活的宠物造成[StandardDamage(1,1)]点[School()]伤害，并且对敌方后排宠物造成[StandardDamage(1,2)]点[School()]伤害。
@@ -3362,25 +3371,27 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 用圣光冲击敌人，造成[StandardDamage(1,1)]点[School()]伤害。
 
-每次使用会使伤害提高[FormatDamage(5*AttackBonus())]点。最多可造成[FormatDamage(25 *AttackBonus())]点[School()]伤害。","461859","5","0","0","0"
-"2378","新星浸没","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+每次使用会使伤害提高[FormatDamage(5*AttackBonus())]点。最多可造成[FormatDamage(30 *AttackBonus())]点[School()]伤害。","461859","6","0","0","0"
+"2378","圣光射线","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-对敌方激活的宠物造成[StandardDamage(1,1)]点[School()]伤害，并对后排宠物造成[StandardDamage(1,2)]点[School()]伤害。使所有盟友回复[StandardHealing(1,1)]点生命值。","525026","5","1","0","0"
+对敌方激活的宠物造成[StandardDamage(1,1)]点[School()]伤害，并对后排宠物造成[StandardDamage(1,2)]点[School()]伤害。使所有盟友回复[StandardHealing(1,1)]点生命值。","525026","5","4","0","0"
 "2379","飞旋学识","格挡接下来的2次攻击，但施法者会被锁定在原地进行研究，持续1轮。","134917","5","0","1179","2"
 "2380","驻足聆听","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 使目标昏睡[duration(1,1)]轮。","458721","5","5","0","2"
 "2381","黑暗之箭","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-用一道暗影的涌流冲击敌人，造成 [StandardDamage(1,1)]点[School()]伤害。","3565726","5","0","0","0"
-"2382","醉心研究","书籍在你身边飞旋，格挡接下来的2次攻击，但把你锁定在原地，持续一轮。","134917","5","4","0","2"
+用一道暗影的涌流冲击敌人，造成 [StandardDamage(1,1)]点[School()]伤害。","3565726","5","1","0","0"
+"2382","醉心研究","书籍在你身边飞旋，格挡接下来的2次攻击。接下来使用者必须花费1轮进行研究。
+
+研究时，你不能施展任意其他行动。","134917","5","5","0","2"
 "2383","碎击者之腭","在本轮结束时，腭骨会对敌方宠物进行毁天灭地的撕咬，造成[abs(abilityStateMod(, 542 ))]%。","1339043","8","0","0","0"
 "2384","锤击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 造成[StandardDamage(1,1)]点[School()]伤害，并迫使对手的另一只宠物出战。","1405803","9","4","0","0"
 "2385","神圣新星","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-对敌人的激活宠物造成[StandardDamage(1,1)]点[School()]伤害，并对敌人的后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","135922","5","2","0","0"
+对敌人的激活宠物造成[StandardDamage(1,1)]点[School()]伤害，并对敌人的后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","135922","6","3","0","0"
 "2386","暗影潜伏者","夜牙在每轮结束时自动获得潜行。","514640","-1","0","0","2"
 "2387","心灵游戏","阿迪乌斯诅咒了你的宠物队伍。选择你希望你的队伍受到哪种伤害！","135740","5","4","0","2"
 "2388","心灵游戏：生命值","对你的队伍的所有成员造成相当于其当前生命值的[points(1,1)]%的伤害。","135740","5","0","0","2"
@@ -3390,6 +3401,104 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 "2392","心灵游戏","阿迪乌斯诅咒了你的宠物队伍。选择你希望你的队伍受到哪种伤害！","135740","5","0","0","2"
 "2393","心灵游戏","可怜虫已经暂时将一个技能替换为严重破坏。","135740","5","0","0","2"
 "2394","心灵游戏","阿迪乌斯诅咒了你的宠物队伍。选择你希望你的队伍受到哪种伤害！","135740","5","0","0","10"
+"2397","荒野之墙","格挡2次攻击。","613602","6","0","1189","2"
+"2398","荒野之墙","筑起一道木质壁垒，格挡2次攻击。敌人和盟友的攻击都将被格挡。","613602","6","5","0","2"
+"2399","阵风冲击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+爆发出一阵狂风，造成[StandardDamage(1, 1)]点[School()]伤害。","1029595","2","0","0","0"
+"2400","狂怒挥翅","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+挥动你的双翅，造成[StandardDamage(1,1)]点[School()]伤害。 
+
+每次使用会使伤害提高[FormatDamage(10*AttackBonus())]点。最高[FormatDamage(30*AttackBonus())]点[School()]伤害。","2103903","2","1","0","0"
+"2401","打脸","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+直击敌人的脸，造成[StandardDamage(1,1)]点[School()]伤害。
+
+每次使用会使伤害提高[FormatDamage(10*AttackBonus())]点。最高[FormatDamage(30*AttackBonus())]点[School()]伤害。","135906","0","1","0","0"
+"2402","稳固攻击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+慢慢地攻击对手1到2次，每次造成[StandardDamage(1,1)]点[School()]伤害。
+
+如果使用者先攻击，则额外攻击一次。","1339043","8","0","0","0"
+"2403","生命释放","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+造成[StandardDamage(1,1)]点[School()]伤害。
+
+为使用者恢复相当于造成伤害[points(1,3)]%的生命值。","237575","6","4","0","0"
+"2404","轻咬","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+窜动并轻咬敌人，造成[StandardDamage(1,1)]点[School()]伤害，如果是使用者的先手，还会令对手昏迷。","647701","4","2","0","0"
+"2405","重归安宁","施法者回归死亡，躲避对手的攻击。然后使用者会自动切换至生命最低的宠物。","236399","3","7","0","2"
+"2406","泥浆斜掠","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+踢起一股泥石流，造成[StandardDamage(1,1)]点[School()]伤害，并引发污浊天气，持续[duration(1,2)]轮。
+
+污浊天气会阻止战场上的任何宠物被切换出阵，持续3轮，而且使造成的所有爆击伤害提高[abs(abilityStateMod(314,718))]%。","2101174","7","3","0","0"
+"2407","稠泥","[StandardAccuracy(2,1)] |cffffffff命中几率|r
+
+潜入污泥之下，在一轮内无法被攻击。
+
+在下一轮，你进行攻击，造成[StandardDamage(2, 1)]点[School()]伤害。","1500943","5","5","0","0"
+"2408","黏胶潭","一潭黏胶。
+无法被攻击。","1500943","-1","0","1197","0"
+"2409","重归安宁","使你躲闪攻击的几率提高100%。","236399","-1","0","1198","2"
+"2410","日光炮击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+把晋升堡垒的光芒反射给所有敌人，造成[StandardDamage(1,1)]点[School()]伤害，并将天气变为晴天，持续[duration(1,4)]轮。
+
+在晴天，所有宠物的最大生命值都会提高[abs(abilityStateMod(99,403))]%，且造成的治疗效果提高[abs(abilityStateMod(65,403))]%。","1498832","6","3","0","0"
+"2411","深痕之咬","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+狠咬敌人，造成[StandardDamage(1,1)]点[School()]伤害。
+
+每次使用会使伤害提高[FormatDamage(5*AttackBonus())]点。最多可造成[FormatDamage(30*AttackBonus())]点[School()]伤害。","133935","8","1","0","0"
+"2412","治疗冲击","为施法者恢复[percentage(1,1)]%的生命值。","135845","8","3","0","2"
+"2413","急速炮塔","建造一个炮塔，攻击敌人队伍的前排宠物，每轮造成[FormatDamage(SimpleDamage(1,1,711)*3)]点[School()]伤害。
+
+每个炮塔可存在[duration(1,1)]轮。","133013","9","0","0","0"
+"2414","仇恨打击","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+打击敌人，造成[StandardDamage(1,1)]点[petTypeName(abilityPetType())]伤害。","3549051","3","2","0","0"
+"2415","金属之盾","格挡攻击。","3155390","9","0","0","2"
+"2416","金属之盾","沉重的金属之盾，可以格挡接下来的3次攻击。","3155390","9","2","0","2"
+"2417","粘液时间","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+对敌人的激活宠物造成[StandardDamage(1,1)]点[School()]伤害，并对敌人的后排宠物造成[StandardDamage(1,2)]点[School()]伤害。","348565","5","3","0","0"
+"2418","戈姆几丁质","使目标每次被击中时受到的伤害最多降低[abs(abilityStateMod(71,2418))*AttackBonus()]点。","3084143","-1","0","660","2"
+"2419","戈姆几丁质","使你每次被击中时受到的伤害最多降低[abs(abilityStateMod(71,2418))*AttackBonus()]点，持续[duration(1,1)]轮。","3084143","4","3","0","0"
+"2420","超级酸蚀粘液","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+向敌方队伍喷吐|cFF1EFF00毒性|r粘液，每轮造成[StandardDamage(1,1,368)]点[School()]伤害，并使其受到的伤害提高[abs(abilityStateMod(24,368))]%，持续[duration(1,1)]轮。","134437","4","0","0","0"
+"2421","林地潜行","使你的速度降低30%，并使你在[duration(1,1)]轮内发起的下一次攻击的伤害提高150%。","514640","7","2","0","2"
+"2422","迅捷躲闪","使你躲闪攻击的几率提高[abs(abilityStateMod( 73, 311 ))]%。
+
+持续[duration(1,1)]轮。","136056","0","2","0","2"
+"2423","饥饿啃咬","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+造成[StandardDamage(1,1)]点[School()]伤害。
+
+为使用者恢复相当于造成伤害[points(1,3)]%的生命值。","3072466","7","2","0","0"
+"2424","外露利爪","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+造成[StandardDamage(1,1)]点[School()]伤害两次。
+
+如果目标|cFF1EFF00中毒|r，则第一次攻击造成额外的伤害。
+
+如果目标|cFFFF2020燃烧|r，则第二次攻击造成额外的伤害。","1508501","1","0","0","0"
+"2425","沼泽湿泥","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+投掷沼泽湿泥，造成[StandardDamage(1,1)]点[School()]伤害，并引发污浊天气，持续[duration(1,2)]轮。
+
+污浊天气会阻止战场上的任何宠物被切换出阵，持续3轮，而且使造成的所有爆击伤害提高[abs(abilityStateMod(314,718))]%。","236845","6","1","0","0"
+"2426","血腥复仇","[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+造成[StandardDamage(1,1)]点[School()]伤害。
+
+如果使用者用毁灭杀死敌人，则可回复[StandardHealing(1,2)]点生命值。
+
+毁灭可持续[numTurns()]轮。","1394887","7","2","0","0"
+"2427","急速炮塔","每轮对敌人的前排宠物造成[FormatDamage(SimpleDamage(1,1)*4)]点[School()]伤害。","133013","9","0","153","0"
 "928","减速","速度降低[abs(abilityStateMod(25,154))]%。","653221","-1","0","316","3"
 "927","昏迷","无法对这只宠物下达命令。","135860","-1","0","103","3"
 "1671","昏迷","无法对这只宠物下达命令。","135860","-1","0","103","3"
@@ -3410,12 +3519,6 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 "848","冰霜新星","该宠物无法被切换。
 
 |cFF0070DD被冰冻|r。","135848","-1","0","95","0"
-"1761","骨头风暴","[StandardAccuracy(1,1)] |cffffffff命中几率|r
-
-对敌方队伍造成[StandardDamage(1,1)]点[School()]伤害，但会消耗你[points(1,4)]%的最大生命值。","342917","3","3","0","0"
-"1762","骨头风暴","[StandardAccuracy(1,1)] |cffffffff命中几率|r
-
-对敌方队伍造成[StandardDamage(1,1)]点[School()]伤害，但会消耗你[points(1,4)]%的最大生命值。","342917","3","3","0","0"
 "661","散播感染","每轮造成[StandardDamage(1,1)]点伤害。
 
 当效果结束时，会跳跃到同伴身上。","0","-1","0","0","0"
@@ -3429,9 +3532,6 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 如果使用者率先攻击，则可额外攻击1次。","458970","0","0","0","0"
 "971","野性暴怒","使你造成的伤害提高[abilityStateMod(23, 970)]%，受到的伤害提高[abilityStateMod(24, 970)]%。","132091","7","0","0","18"
 "1075","多刺甲壳","每当你受到直接伤害时，即可造成[FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)]点[School()]伤害。","134964","8","0","0","0"
-"1359","狂吠","[StandardAccuracy(1,1)] |cffffffff命中几率|r
-
-造成[StandardDamage(1,1)]点[School()]伤害，并使目标下一次攻击造成的伤害降低[abs(abilityStateMod( 23, 1120 ))]%。持续[duration(1, 2)]轮。","461121","7","0","0","0"
 "1392","激怒","使你造成的伤害提高[abilityStateMod(23, 1391)]%，受到的伤害提高[abilityStateMod(24, 1391)]%。","132126","7","0","0","18"
 "2231","音波引爆器","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 

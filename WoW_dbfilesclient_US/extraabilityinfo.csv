@@ -38,3 +38,4 @@ Id,TutorialText,SpellId,ActionBarOverrideSpellId,SpellLabel,UiTextureKitId,UiPri
 "38","Venthyr signature ability unlocked!|n|nYou can drag this to your action bar.","326526","341092","0","5303","200"
 "39","Ardenweald ability unlocked!|n|nYou can drag this to your action bar.","313347","341086","0","5310","100"
 "40","Ardenweald signature ability unlocked!|n|nYou can drag this to your action bar.","326526","341089","0","5310","200"
+"41","Construct Ability available|n|nYou can drag this to your action bar.","347013","0","1156","5311","100"
