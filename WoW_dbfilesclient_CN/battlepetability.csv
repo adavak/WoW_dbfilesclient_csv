@@ -3502,6 +3502,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 "928","减速","速度降低[abs(abilityStateMod(25,154))]%。","653221","-1","0","316","3"
 "927","昏迷","无法对这只宠物下达命令。","135860","-1","0","103","3"
 "1671","昏迷","无法对这只宠物下达命令。","135860","-1","0","103","3"
+"2428","尖刺体肤","使你从每次攻击中受到的伤害最多降低[abs(abilityStateMod(71,316))*AttackBonus()]点，并使你每次受到直接伤害时，造成[FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)]点[School()]伤害。","237488","1","0","0","0"
 "2205","嚎叫","[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 一声遥远的嚎叫使目标受到惊吓，受到下次攻击的伤害提高100%，持续[duration(1,1)]轮。","538568","7","3","0","2"

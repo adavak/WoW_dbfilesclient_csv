@@ -3505,6 +3505,7 @@ Ravage continues for [numTurns()] |4round:rounds;.","1394887","7","2","0","0"
 "928","Speed Reduction","Speed reduced by [abs(abilityStateMod(25,154))]%.","653221","-1","0","316","3"
 "927","Stunned","Unable to give this pet commands.","135860","-1","0","103","3"
 "1671","Stunned","Unable to give this pet commands.","135860","-1","0","103","3"
+"2428","Spiked Skin","Reduces up to [abs(abilityStateMod(71,316))*AttackBonus()] damage from each attack and deals [FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)] [School()] damage each time you take direct damage.","237488","1","0","0","0"
 "2205","Howl","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 A distant howl frightens the target, increasing the damage they take on the next attack by 100%, lasts [duration(1,1)] rounds.","538568","7","3","0","2"
