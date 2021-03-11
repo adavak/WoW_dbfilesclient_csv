@@ -7,7 +7,7 @@ Id,Name,Description,Filedataid
 "6","Raging","Non-boss enemies enrage at 30% health remaining, dealing 100% increased damage until defeated.","132345"
 "7","Bolstering","When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.","132333"
 "8","Sanguine","When slain, non-boss enemies leave behind a lingering pool of ichor that heals their allies and damages players.","136124"
-"9","Tyrannical","Bosses have 40% more health. Bosses and their minions inflict up to 15% increased damage.","236401"
+"9","Tyrannical","Bosses have 30% more health. Bosses and their minions inflict up to 15% increased damage.","236401"
 "10","Fortified","Non-boss enemies have 20% more health and inflict up to 30% increased damage.","463829"
 "11","Bursting","When slain, non-boss enemies explode, causing all players to suffer damage over 4 sec. This effect stacks.","1035055"
 "12","Grievous","Injured players suffer increasing damage over time until healed.","132090"

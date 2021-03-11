@@ -1,4 +1,4 @@
-Id,Name,Description,Map0,Map1,JournalInstanceId,Unknown4,OrderIndex,FirstSectionId,UiMapId,MapDisplayConditionId,Flags,DifficultyMask
+Id,Name,Description,Map0,Map1,JournalInstanceId,DungeonEncounterId,OrderIndex,FirstSectionId,UiMapId,MapDisplayConditionId,Flags,DifficultyMask
 "89","格拉布托克","只是一阵心血来潮，格拉布托克就释放出强大的魔法力量，把他的食人魔山给夷为了平地。听到这个消息，迪菲亚立刻雇佣了这只硕大的食人魔法师作为死亡矿井的工头，借助他毁灭性的天赋来监督那些劳工。","0.3652697","0.6122755","63","1064","1","2010","291","0","0","255"
 "90","赫利克斯·破甲","赫利克斯从前是锈水财阀的工匠，可之后他收到了迪菲亚兄弟会的一笔款项，足以让他那样的无名部落工程师所做的一切都一文不值。就像所有精明的地精会做的那样，他迅速接下了这份工作，声称不再对前任雇主效忠。","0.501996","0.8682636","63","1065","2","2020","291","0","0","255"
 "91","死神5000","迪菲亚的工程师们在死神4000的基础上，日以继夜地想要完善出一种新型号的收割机。兄弟会相信，只要完工，这台恐怖的机械就能像割麦子一样从暴风城的武装士兵中杀出一条路来。","0.1247507","0.7589821","63","1063","3","3448","292","0","0","255"

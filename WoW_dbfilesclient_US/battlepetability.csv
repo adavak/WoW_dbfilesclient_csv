@@ -3456,7 +3456,7 @@ During a sunny day, the maximum health of all pets is increased by [abs(abilityS
 
 Bites deeply into the enemy, dealing [StandardDamage(1,1)] [School()] damage. 
 
-Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(30*AttackBonus())] [School()] damage.","133935","8","1","0","0"
+Damage increases by [FormatDamage(10*AttackBonus())] each time it is used. Max [FormatDamage(200*AttackBonus())] [School()] damage.","133935","8","1","0","0"
 "2412","Healing Crash","Restores [percentage(1,1)]% of the caster's health.","135845","8","3","0","2"
 "2413","Rapid Turret","Builds a turret that assaults the enemy team's front pet, dealing [FormatDamage(SimpleDamage(1,1,711)*3)] [School()] damage each round. 
 

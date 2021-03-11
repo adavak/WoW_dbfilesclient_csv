@@ -477,7 +477,7 @@ Establishes a portal to Oribos within Elysian Hold.","308","2","0","3675497","0"
 "1064","Flowing Power","Allows you to channel anima to the Eonian Archives and the Citadel of Loyalty, granting access to Kyrian enhancements and an elite foe.","312","2","0","3675491","0","0","0","0","1063","0","0","0"
 "1065","Flowing Tendrils","Allows you to channel anima to the House of the Chosen and the House of Constructs, granting access to a special treasure and an enemy champion.","313","0","0","3854015","84025","0","0","0","0","0","0","0"
 "1066","Streaming Threads","Allows you to channel anima to the House of Plagues and the House of Eyes, granting access to a new World Quest and new Daily Quests.","313","1","0","3854015","0","0","0","0","1065","0","0","0"
-"1067","Flowing Power","Allows you to channel anima to the House of Rituals and the Theatre of Pain, granting access to Necrolord enhancements and an elite foe.","313","2","0","3854015","0","0","0","0","1066","0","0","0"
+"1067","Flowing Power","Allows you to channel anima to the House of Rituals and the Theater of Pain, granting access to Necrolord enhancements and an elite foe.","313","2","0","3854015","0","0","0","0","1066","0","0","0"
 "1068","Flowing Tendrils","Allows you to channel anima to the Crypt of the Forgotten and Wanecrypt Hill, granting access to a special treasure and an enemy champion.","314","0","0","3854016","84025","0","0","0","0","0","0","0"
 "1069","Streaming Threads","Allows you to channel anima to the Court of Harvesters and Pridefall Hamlet, granting access to a new World Quest and new Daily Quests.","314","1","0","3854016","0","0","0","0","1068","0","0","0"
 "1070","Flowing Power","Allows you to channel anima to the Shrouded Asylum and Dominance Keep, granting access to Venthyr enhancements and an elite foe.","314","2","0","3854016","0","0","0","0","1069","0","0","0"
@@ -530,7 +530,7 @@ Unlocks access to a second weekly quest.","320","3","0","3675496","0","0","0","0
 "1095","Trials of Humility","Unlocks the final trial for all of your captured memories, the Trial of Humility. 
 
 The Brazier of Inward Reflection has been activated, increasing your soulbinds' health and damage in Ascension Coliseum.","320","4","0","3675496","0","0","0","0","1094","0","0","0"
-"1096","Build a Buddy","Restoring anima to this area grants you the first rank of Abominable Stitching.Allowing you to build your own constructs!
+"1096","Build a Buddy","Restoring anima to this area grants you the first rank of Abominable Stitching. Allowing you to build your own constructs!
 
 Welcome Chordy and a variety of other useful constructs to aid you in gathering resources to build out the rest your construct forces.","321","0","0","3675492","84025","0","0","0","0","0","0","0"
 "1097","Crafting Limbs","Grants you the second rank of prowess in Abominable Stitching. 
@@ -557,7 +557,7 @@ You will now be able to create a dredger butler to assist you in hosting the Emb
 "1114","Court Influencer","Increase the capacity for guests within the Ember Court.
 
 Now you can expand the guest list, allowing you to invite a third guest to each Ember Court. Increasing your options for earning unique rewards from your guests.","324","2","0","3675493","0","0","0","0","1111","0","0","0"
-"1115","The Professionals","The Ember Court reaches it full potential, and it's weekly parties are now the talk of all the realms.
+"1115","The Professionals","The Ember Court reaches its full potential, and the weekly parties are now the talk of all the realms.
 
 You are now able to hire five specialist staff who will help you foster the perfect atmosphere in each and every Ember Court event. This gives you the best opportunity yet to earn the best rewards your guests have to offer!","324","4","0","3675493","0","0","0","0","1111","0","0","0"
 "1121","Finesse Conduit","","325","6","2","463890","89038","0","0","0","0","0","0","1"
@@ -634,7 +634,7 @@ Each second spent channeling Warlord's Blade reduces Kevin's Keyring's cooldown 
 "1250","House of Constructs","Channel Anima to the House of Constructs, allowing you to fight an enemy champion.","347","0","1","135807","79235","0","0","0","0","0","86400","0"
 "1251","House of Plagues","Channel Anima to the House of Plagues, unlocking a new World Quest.","347","0","2","840200","79234","0","0","0","0","0","86400","0"
 "1252","House of Eyes","Channel Anima to the House of Eyes, unlocking new Daily Quests.","347","0","3","1357810","79234","0","0","0","0","0","86400","0"
-"1253","Theatre of Pain","Channel Anima to the Theatre of Pain, allowing you and your allies to challenge an elite foe.","347","0","4","2032581","79233","0","0","0","0","0","86400","0"
+"1253","Theater of Pain","Channel Anima to the Theater of Pain, allowing you and your allies to challenge an elite foe.","347","0","4","2032581","79233","0","0","0","0","0","86400","0"
 "1254","House of Rituals","Channel Anima to the House of Rituals, allowing access to mighty Necrolord enhancements.","347","0","5","1660545","79233","0","0","0","0","0","86400","0"
 "1255","Crypt of the Forgotten","Channel Anima to the Crypt of the Forgotten, allowing access to a special treasure.","348","0","0","0","79236","0","0","0","0","0","86400","0"
 "1256","Wanecrypt Hill","Channel Anima to Wanecrypt Hill, allowing you to fight an enemy champion.","348","0","1","0","79236","0","0","0","0","0","86400","0"

@@ -3452,7 +3452,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 狠咬敌人，造成[StandardDamage(1,1)]点[School()]伤害。
 
-每次使用会使伤害提高[FormatDamage(5*AttackBonus())]点。最多可造成[FormatDamage(30*AttackBonus())]点[School()]伤害。","133935","8","1","0","0"
+每次使用会使伤害提高[FormatDamage(10*AttackBonus())]点。最多可造成[FormatDamage(200*AttackBonus())]点[School()]伤害。","133935","8","1","0","0"
 "2412","治疗冲击","为施法者恢复[percentage(1,1)]%的生命值。","135845","8","3","0","2"
 "2413","急速炮塔","建造一个炮塔，攻击敌人队伍的前排宠物，每轮造成[FormatDamage(SimpleDamage(1,1,711)*3)]点[School()]伤害。
 

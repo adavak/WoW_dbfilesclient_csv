@@ -323,7 +323,7 @@ Id,EffectDescription,AuraDescription,SpellEffectType,AuraEffectType,PointsSign,T
 "477","Causes an enemy to inflict $s@effectindex% decreased Physical damage.","Physical damage done decreased by $s@effectindex%.","6","79","2","3","1","20","20"
 "478","Causes the caster to inflict $s@effectindex% increased Physical damage.","Physical damage done increased by $s@effectindex%.","6","79","1","1","1","30","30"
 "479","Stuns the caster, rendering it unable to move or attack for $d.","Stunned.","6","12","0","1","0","0","0"
-"480","Reduces the healing recieved of all enemies in a cone in front of the caster by $s@effectindex% for $d.","Healing received reduced by $s@effectindex%.","6","118","2","9","32","0","0"
+"480","Reduces the healing received of all enemies in a cone in front of the caster by $s@effectindex% for $d.","Healing received reduced by $s@effectindex%.","6","118","2","9","32","0","0"
 "481","Reduces the movement speed of the target by $s@effectindex% for $d.","Movement speed reduced by $s@effectindex%.","6","33","2","1","16","0","0"
 "482","Chance to dodge attacks increased by $s@effectindex% for $d.","Dodge chance increased by $s@effectindex%.","6","49","1","1","0","0","0"
 "483","Chance to resist harmful spells increased by $s@effectindex% for $d.","Chance to resist harmful spells increased by $s@effectindex%.","6","287","1","1","0","0","0"

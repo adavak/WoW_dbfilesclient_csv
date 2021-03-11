@@ -3953,7 +3953,7 @@ In Heroic Difficulty, Megaera's Venomous Heads spit three globules of acid at a 
 "7012","Rot Armor","Megaera's Venomous Heads breathe corrosive gas on all players in front of her, inflicting $139839s1 Nature damage every second for $139838d. Players hit by Rot Armor take $139840s1% increased damage from all sources for $139840d. This effect stacks.","821","16","7004","0","0","2","0","0","0","236271","0","0","255"
 "7015","Diffusion","Megaera's Arcane Heads breathe arcane energy on all players in front of her, inflicting $139992s1 Arcane damage every second for $139991d. Players hit by Diffusion redirect $139993s1% of all healing received to allies within $139994A1 yards that are not afflicted with Diffusion. This effect stacks.","821","22","7005","0","0","2","0","0","0","135739","2","8","12"
 "7024","Battle Stance","","597","3","0","7025","7029","0","0","0","0","0","1","0","255"
-"7025","Mortal Strike","General Bjarngrim inflicts Physical damage to a player, leaving them wounded, reducing the effectiveness of any healing recieved by $16856s2% for $16856d.","597","4","7024","0","7026","2","0","0","0","132355","0","0","255"
+"7025","Mortal Strike","General Bjarngrim inflicts Physical damage to a player, leaving them wounded, reducing the effectiveness of any healing received by $16856s2% for $16856d.","597","4","7024","0","7026","2","0","0","0","132355","0","0","255"
 "7026","Slam","General Bjarngrim slams a player, causing Physical damage.","597","5","7024","0","7027","2","0","0","0","132340","0","0","255"
 "7027","Pummel","General Bjarngrim pummels a player, inflicting Physical damage and interrupting their spell casting for $12555d.","597","6","7024","0","7028","2","0","0","0","132938","0","0","255"
 "7028","Battle Aura","General Bjarngrim increases his attack speed and the attack speed of all allies within $41106A1 yards by $41106s1%.","597","7","7024","0","0","2","0","0","0","135873","0","0","255"
@@ -4387,7 +4387,7 @@ $[!3,4,5,6 In the Normal and Heroic versions of the Ji-Kun encounter, using Flig
 "7437","Thundering Stomp","Drakos the Interrogator stomps the ground, inflicting Physical damage to all players, knocking them into the air.","622","1","0","0","7438","2","0","0","0","132368","0","0","255"
 "7438","Summon Unstable Sphere","Drakos the Interrogator periodically summons Unstable Spheres which explode after 20 seconds, inflicting Arcane damage to all players within $50759A1 yards.","622","2","0","0","7439","2","0","0","0","135864","0","0","255"
 "7439","Magic Pull","Drakos the Interrogator teleports all players to him.","622","3","0","0","0","2","0","0","0","135741","0","0","255"
-"7440","Amplify Magic","Varos Cloudstrider marks a player, increasing their damage and healing recieved from spells for $51054d","623","1","0","0","7441","2","0","0","0","135907","0","0","255"
+"7440","Amplify Magic","Varos Cloudstrider marks a player, increasing their damage and healing received from spells for $51054d","623","1","0","0","7441","2","0","0","0","135907","0","0","255"
 "7441","Energize Cores","Varos Cloudstrider engerizes a portion of the platform, inflicting Arcane damage to all players within that section of the platform.","623","2","0","0","7442","2","0","0","0","135753","0","0","255"
 "7442","Call Azure Ring Captain","Calls down an Azure Ring Captain to lay waste to players.","623","3","0","7443","0","2","0","0","0","134155","0","0","255"
 "7443","Azure Ring Captain","","623","4","7442","7444","0","1","28046","0","0","0","1","0","255"
@@ -16541,7 +16541,7 @@ $bullet;Kryxis the Voracious consumes|cFF2959D3|Hspell:319684|h[Living Essences]
 $bullet;Interrupt |cFF2959D3|Hspell:319654|h[Hungering Drain]|h|r.
 $bullet;Absorb any loose |cFF2959D3|Hspell:319684|h[Living Essences]|h|r before they reach Kryxis the Voracious.","2388","3","21511","0","21514","3","0","0","0","0","0","2","255"
 "21514","Healer","$bullet;|cFF2959D3|Hspell:319650|h[Vicious Headbutt]|h|r inflicts heavy damage to the boss's primary target.
-$bullet;|cFF2959D3|Hspell:319685|h[Severing Smash]|h|r and |cFF2959D3|Hspell:319654|h[Juggernaut Rush]|h|r inflict heavy party wide damage.","2388","4","21511","0","0","3","0","0","0","0","0","4","255"
+$bullet;|cFF2959D3|Hspell:319685|h[Severing Smash]|h|r and |cFF2959D3|Hspell:319713|h[Juggernaut Rush]|h|r inflict heavy party wide damage.","2388","4","21511","0","0","3","0","0","0","0","0","4","255"
 "21515","Overview","Kul'tharok will try to separate your body from your soul.  Reunite them as quickly as possible to survive.","2389","1","0","21516","21519","3","0","0","0","0","0","0","255"
 "21516","Tank","$bullet;|cFF2959D3|Hspell:319521|h[Draw Soul]|h|r will always make your drawn soul move towards Kul'tharok.
 $bullet;Kul'tharok only uses her |cFF2959D3|Hspell:319669|h[Spectral Reach]|h|r when her primary target isn't in melee range.","2389","2","21515","0","21518","3","0","0","0","0","0","1","255"
@@ -16649,7 +16649,7 @@ While Enraged, Dessia the Decapitator chases down players at random.$]","2397","
 
 On Mythic Dungeon difficulties, the spores slow players by $320180s3%.$]","2397","14","21581","0","21589","2","0","0","320180","0","0","0","255"
 "21589","Section 12","","2397","15","21581","0","0","2","0","0","320248","0","0","1028","255"
-"21591","Sathel the Accursed","Attacks players at random with |cFF2959D3|Hspell:320300|h[Necromantic Bolt]|h|r and becomes |cFF2959D3|Hspell:320293|h[One With Death]|h|r at low health. Marks allies with |cFF2959D3|Hspell:320272|h[Spectral Transference]|h|r for healing.","2397","16","0","21890","22272","1","93934","0","0","0","1","0","255"
+"21591","Sathel the Accursed","Attacks players at random with |cFF2959D3|Hspell:320300|h[Necromantic Bolt]|h|r and becomes |cFF2959D3|Hspell:320293|h[One With Death]|h|r at low health. Marks allies with |cFF2959D3|Hspell:320272|h[Spectral Transference]|h|r for healing.","2397","16","0","21890","0","1","93934","0","0","0","1","0","255"
 "21594","Section 17","","2397","19","21591","0","21596","2","0","0","320272","0","0","128","255"
 "21596","Section 19","","2397","20","21591","0","0","2","0","0","320293","0","0","0","255"
 "21600","Section 4","","2390","5","0","22252","21615","2","0","0","320102","0","0","34","255"
@@ -16971,18 +16971,18 @@ $bullet; Do not allow yourself to be dragged into a |cFF2959D3|Hspell:323685|h[G
 In Mythic difficulty, each player summons a Deathwalker at their location when Manifest Death expires.$]","2417","11","0","21910","21901","2","0","0","324449","0","0","0","255"
 "21910","Deathwalker","","2417","12","21909","21911","0","1","96337","0","0","0","2","4096","0"
 "21911","Section 11","","2417","13","21910","0","0","2","0","0","324589","0","3","64","0"
-"21912","Overview","Xy'mox creates womrholes players can travel between and removes Sire Denathrius' Relics from their display cases, unleashing their powers on players. 
+"21912","Overview","Xy'mox creates wormholes players can travel between and removes Sire Denathrius' Relics from their display cases, unleashing their powers on players. 
 
 At $340558s2% and $340558s3% remaining health, Xy'mox will return active Relics to their display case and bring out another.
 $[!16
 In Mythic difficulty, Denathrius' Relics remain available for the remainder of the encounter once they are removed from their display.$]","2418","1","0","21913","22122","3","0","0","0","0","1","0","255"
-"21913","Tank","$bullet; Utilize womrholes created by |cFF2959D3|Hspell:328437|h[Dimensional Tear]|h|r to quickly reposition.
+"21913","Tank","$bullet; Utilize wormholes created by |cFF2959D3|Hspell:328437|h[Dimensional Tear]|h|r to quickly reposition.
 $bullet;|cFF2959D3|Hspell:325361|h[Glyph of Destruction]|h|r inflicts substantial Arcane damage to nearby players.","2418","2","21912","0","21914","3","0","0","0","0","0","1","255"
 "21914","Healer","$bullet; Coordinate with allies to place wormholes created by |cFF2959D3|Hspell:328437|h[Dimensional Tear]|h|r.
-$bullet; Utilize womrholes created by |cFF2959D3|Hspell:328437|h[Dimensional Tear]|h|r to quickly reposition.
+$bullet; Utilize wormholes created by |cFF2959D3|Hspell:328437|h[Dimensional Tear]|h|r to quickly reposition.
 $bullet;|cFF2959D3|Hspell:325399|h[Hyperlight Spark]|h|r and |cFF2959D3|Hspell:325361|h[Glyph of Destruction]|h|r inflict damage to all players.","2418","3","21912","0","21915","3","0","0","0","0","0","4","255"
 "21915","Damage","$bullet; Coordinate with allies to place wormholes created by |cFF2959D3|Hspell:328437|h[Dimensional Tear]|h|r.
-$bullet; Utilize womrholes created by |cFF2959D3|Hspell:328437|h[Dimensional Tear]|h|r to quickly reposition.
+$bullet; Utilize wormholes created by |cFF2959D3|Hspell:328437|h[Dimensional Tear]|h|r to quickly reposition.
 $bullet; Seeds of Extinction created by |cFF2959D3|Hspell:329770|h[Root of Extinction]|h|r can be picked up and moved.","2418","4","21912","0","0","3","0","0","0","0","0","2","255"
 "21916","Section 9","","2415","10","21883","0","0","2","0","0","323548","0","0","0","255"
 "21918","Section 2","$[!23
@@ -17170,7 +17170,7 @@ Players can enter these mirrors to travel great distances, but there is no escap
 "22079","Section 10","","2421","9","21964","0","21965","2","0","0","328593","0","0","0","255"
 "22080","Section 28","$[
 
-|cFF2959D3|Hspell:325873|h[Ember Blast]|h|r, |cFF2959D3|Hspell:328573|h[Blazing Surge]|h|r and the Reborn Phoenixes's |cFF2959D3|Hspell:328659|h[Smoldering Plumage]|h|r leave this pool.","2422","9","21966","0","21985","2","0","0","328579","0","2","32","0"
+|cFF2959D3|Hspell:325877|h[Ember Blast]|h|r, |cFF2959D3|Hspell:328573|h[Blazing Surge]|h|r and the Reborn Phoenixes's |cFF2959D3|Hspell:328659|h[Smoldering Plumage]|h|r leave this pool.","2422","9","21966","0","21985","2","0","0","328579","0","2","32","0"
 "22081","Section 29","$[!15,16
 
 On Heroic difficulty and higher, |cFF2959D3|Hspell:328573|h[Blazing Surge]|h|r targets a random player's position rather than the primary target's position.$]","2422","16","21966","0","22090","2","0","0","329518","0","2","0","0"
@@ -17366,8 +17366,6 @@ $bullet;Move away from allies when targeted for |cFF2959D3|Hspell:341473|h[Crims
 "22269","Section 48","","2424","76","22266","22365","0","2","0","0","333111","0","0","0","255"
 "22271","Section 5","$[!8,23 
 In Mythic Difficulty, passing through Necrotic Breath applies Necrotic Ichor.$]","2391","16","0","21537","21535","2","0","0","333493","0","0","0","255"
-"22272","Xira the Underhanded","Periodically attacks players from stealth and retreats once she has either completed her |cFF2959D3|Hspell:333540|h[Opportunity Strikes]|h|r ability or it has been interrupted.","2397","21","0","22273","0","1","96440","0","0","0","3","4096","0"
-"22273","Section 18","","2397","22","22272","0","0","2","0","0","333540","0","3","16","0"
 "22274","Brood Assassins","Brood Assassins join the encounter concealed within |cFF2959D3|Hspell:332397|h[Shroudweb]|h|r until revealed by players.","2423","5","0","22002","21999","1","96434","0","0","0","0","32","255"
 "22275","Section 12","","2391","8","22042","22276","22277","2","0","0","333602","0","0","64","255"
 "22276","Section 12","","2391","9","22275","0","0","2","0","0","328664","0","0","128","255"
@@ -17393,14 +17391,14 @@ In Mythic Difficulty, Amarth gains applications of Tortured Echoes for each skel
 Azules only uses this ability while Enraged.$]","2399","19","21639","0","0","2","0","0","323636","0","2","0","0"
 "22303","331251","","2399","7","21637","0","21644","2","0","0","331251","0","2","4096","0"
 "22305","Overview","Alitmor commands the hunting gargon of Castle Nathira. Each hound possesses unique abilities and shares health with Altimor. When a gargon is defeated Altimor will release another.","2429","1","0","22306","22309","3","0","0","0","0","0","0","255"
-"22306","Tanks","$bullet; Margore's |cFF2959D3|Hspell:334971|h[Jagged Claws]|h|r inflicts significant Phsyical damage and applies a potent stacking bleed effect.
-$bullet; Minimize damage taken by |cFF2959D3|Hspell:334797|h[Rip Soul|h|r and position Bargast to avoid granting Altimor |cFF2959D3|Hspell:334884|h[Devour Soul]|h|r.
+"22306","Tanks","$bullet; Margore's |cFF2959D3|Hspell:334971|h[Jagged Claws]|h|r inflicts significant Physical damage and applies a potent stacking bleed effect.
+$bullet; Minimize damage taken by |cFF2959D3|Hspell:334797|h[Rip Soul]|h|r and position Bargast to avoid granting Altimor |cFF2959D3|Hspell:334884|h[Devour Soul]|h|r.
 $bullet; Coordinate with your healers to manage Hecutis' |cFF2959D3|Hspell:334860|h[Crushing Stone]|h|r.","2429","2","22305","0","22307","3","0","0","0","0","0","1","255"
 "22307","Healers","$bullet; |cFF2959D3|Hspell:334404|h[Spreadshot]|h|r inflicts consistent raid damage.
-$bullet; Bargast's |cFF2959D3|Hspell:334797|h[Rip Soul|h|r creates souls that can be healed before they reach Altimor.
+$bullet; Bargast's |cFF2959D3|Hspell:334797|h[Rip Soul]|h|r creates souls that can be healed before they reach Altimor.
 $bullet; |cFF2959D3|Hspell:334860|h[Crushing Stone]|h|r inflicts substantial raid damage when Hecutis' moves.","2429","3","22305","0","22308","3","0","0","0","0","0","4","255"
 "22308","Damage Dealers","$bullet; Position yourself when marked for |cFF2959D3|Hspell:335114|h[Sinseeker]|h|r. 
-$bullet; Utilizie crowd control on |cFF2959D3|Hspell:334757|h[Shades of Bargast]|h|r to apply stacks of |cFF2959D3|Hspell:334695|h[Destablize]|h|r.
+$bullet; Utilize crowd control on |cFF2959D3|Hspell:334757|h[Shades of Bargast]|h|r to apply stacks of |cFF2959D3|Hspell:334695|h[Destabilize]|h|r.
 $bullet; Position yourself when affected by Hecutis' |cFF2959D3|Hspell:334852|h[Petrifying Howl]|h|r.","2429","4","22305","0","0","3","0","0","0","0","0","2","255"
 "22309","Huntsman Altimor","","2429","5","0","22335","22336","0","95643","0","0","0","1","0","255"
 "22310","Hecutis","","2429","27","22336","22342","0","2","95540","0","0","0","0","0","255"
@@ -17416,9 +17414,7 @@ On Mythic difficulties, the detonation hits all players in the encounter.$]","24
 "22320","Section 23","","2410","13","22062","0","22321","2","0","0","334961","0","0","0","255"
 "22321","Section 24","","2410","14","22062","0","0","2","0","0","335000","0","0","0","255"
 "22322","Section 14","","2428","12","22180","0","0","2","0","0","332375","0","2","8","0"
-"22323","Section 14","$[!16
-
-In Mythic difficulty, the player dispelling |cFF2959D3|Hspell:334765|h[Heart Rend]|h|r is also afflicted with |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r.$]","2425","108","22284","22629","22324","2","0","0","334765","0","0","0","255"
+"22323","Section 14","","2425","108","22284","22629","22324","2","0","0","334765","0","0","0","255"
 "22324","Section 15","","2425","110","22284","23012","22589","2","0","0","334929","0","0","1","255"
 "22325","Section 17","","2425","130","22288","0","22677","2","0","0","334500","0","0","0","255"
 "22329","Section 27","","2409","11","22029","0","0","2","0","0","335072","0","1","0","255"
@@ -17791,9 +17787,7 @@ Prince Renathal casts |cFF2959D3|Hspell:332683|h[Shattering Blast]|h|r upon reac
 "22682","General Kaal","","2425","6","22681","22683","22690","1","95721","0","0","0","0","0","255"
 "22683","Section 10","","2425","7","22682","0","22813","2","0","0","329636","0","0","0","255"
 "22685","Section 9","","2425","69","22729","23009","22815","2","0","0","333387","0","2","0","0"
-"22686","Section 14","$[!16
-
-In Mythic difficulty, the player dispelling |cFF2959D3|Hspell:334765|h[Heart Rend]|h|r is also afflicted with |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r.$]","2425","13","22682","22687","22688","2","0","0","334765","0","0","0","255"
+"22686","Section 14","","2425","13","22682","22687","22688","2","0","0","334765","0","0","0","255"
 "22687","Section 30","$[!16
 
 In Mythic difficulty, each application of |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r increases its duration.$]","2425","14","22686","0","0","2","0","0","334771","0","0","0","255"
@@ -17948,7 +17942,7 @@ $bullet;Reduce allies to <30% health when they are afflicted with |cFF2959D3|Hsp
 "22988","Section 12","","2392","19","22987","0","0","2","0","0","320366","0","0","0","255"
 "22989","Section 5","","2392","14","22991","0","0","2","0","0","320200","0","0","8192","255"
 "22990","Stage Two","Once pulled into the arena, Surgeon Stitchflesh joins the fray with his murderous cleaver.","2392","15","0","22807","0","0","0","0","0","0","1","0","255"
-"22991","Stage One","Surgeon Stitchfles assaults enemies from the safety of his worktable.","2392","5","0","21992","22990","0","0","0","0","0","1","0","255"
+"22991","Stage One","Surgeon Stitchflesh assaults enemies from the safety of his worktable.","2392","5","0","21992","22990","0","0","0","0","0","1","0","255"
 "22992","Section 41","","2426","10","22147","22993","22203","2","0","0","346692","0","0","0","255"
 "22993","Dutiful Attendant","","2426","11","22992","22994","0","1","94015","0","0","0","0","0","255"
 "22994","Section 12","","2426","12","22993","0","0","2","0","0","346694","0","0","0","255"

@@ -641,7 +641,7 @@ Id,SourceText,ItemId,Flags,SourceTypeEnum
 "985","|cFFFFD200Allied Races: |rVulpera|n|cFFFFD200Quest: |rSip and Savor|n|cFFFFD200Zone: |rSuramar","173727","2","-1"
 "986","|cFFFFD200World Quest: |rServant of N'Zoth","173951","0","-1"
 "992","|cFFFFD200Treasure: |rScroll of Aeons|n|cFFFFD200Zone: |rBastion","173984","0","0"
-"993","|cFFFFD200Drop: |rThe Shadowlands","174445","0","0"
+"993","|cFFFFD200Drop: |rThe Shadowlands","174445","2","0"
 "994","|cFFFFD200Achievement: |rPet Battle Challenge: Blackrock Depths|n|cFFFFD200Category: |rPet Battles","174830","0","5"
 "995","|cFFFFD200Achievement: |rThe Shadows Revealed|n|cFFFFD200Category: |rPet Battles","174871","0","5"
 "996","|cFFFFD200Drop: |rTashara|n|cFFFFD200Zone: |rVale of Eternal Blossoms","174873","0","0"

@@ -1017,7 +1017,7 @@ Id,Name,HordeName,ParentTradeSkillCategoryId,SkillLineId,OrderIndex,Flags
 "1372","Ring Enchantments","","1364","333","80","0"
 "1373","Shatters","","1364","333","90","0"
 "1374","Wands","","1364","333","100","0"
-"1375","Weapon Echantments","","1364","333","110","0"
+"1375","Weapon Enchantments","","1364","333","110","0"
 "1380","Shadowlands Engineering - Header","","0","202","920","0"
 "1381","Shadowlands Engineering","","1380","2755","920","1"
 "1382","Belt Attachments","","1381","202","10","0"
@@ -1135,3 +1135,4 @@ Id,Name,HordeName,ParentTradeSkillCategoryId,SkillLineId,OrderIndex,Flags
 "1534","Fashion Accessories: Shoulders","","1478","2787","7","0"
 "1535","Fashion Accessories: Back","","1478","2787","8","0"
 "1538","Bags","","1395","197","20","0"
+"1539","Reagent","","0","2811","0","0"
