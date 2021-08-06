@@ -371,15 +371,15 @@ The target cannot swap for [duration(1,2)] |4round:rounds;.","135834","8","0","0
 
 Swarms the enemy with spiderlings, dealing [FormatDamage(SimpleDamage(1,1)*2)] [School()] damage. 
 
-Deals double damage if the target is |cffffffffWebbed|r.","136045","7","4","0","0"
+Deals double damage if the target is |cffffffffWebbed|r.","136045","7","3","0","0"
 "251","Uncanny Luck","Hit chance increased by [abs(abilityStateMod(41,251))]%.
 Critical strike chance increased by [abs(abilityStateMod(40,251))]%.","135725","-1","0","320","2"
 "252","Uncanny Luck","Increases your team's hit chance by [abs(abilityStateMod(41,251))]% and critical strike chance by [abs(abilityStateMod(40,251))]% for [duration(1,1)] |4round:rounds;.","135725","4","0","0","2"
 "253","Comeback","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,2)] [School()] damage. 
+Deals [StandardDamage(1,1)] [School()] damage. 
 
-Deals [StandardDamage(1,1)] additional damage if the user has lower health than the target.","132214","4","0","0","0"
+Deals [StandardDamage(1,2)] additional damage if the user has lower health than the target.","132214","4","0","0","0"
 "254","Tranquility","Fills the area with peace, causing your active pet to restore [StandardHealing(1,1,255)] health every round.
 
 Lasts [duration(1,1)] |4round:rounds;. Persists through pet swaps.","136107","4","0","0","2"
@@ -1279,7 +1279,7 @@ On the next round, you attack, dealing [StandardDamage(2, 1)] [School()] damage.
 "614","Competitive Spirit","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage and increases your damage dealt by [abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 613 ))]% for [duration(1,2)] |4round:rounds;.","236686","5","0","0","0"
-"615","Wrath of Tarecgosa","Your team's attacks are doubled for [duration(1,2)] |4round:rounds.","523897","1","20","0","0"
+"615","DATA ERROR","An unknown ability only found on the rarest pet of all, one that was never intended. None know what it may do.","134400","5","0","0","0"
 "616","Blinkstrike","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Blink to the enemy, dealing [StandardDamage(1,1)] [School()] damage. 
@@ -1336,10 +1336,10 @@ Lays down a field of mines behind the opponent. The next pet to swap into the ba
 
 Throws a sticky grenade at the target. 
 
-After 3 rounds, the grenade detonates, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED , 637),1,637)] [School()] damage. This damage cannot be dodged, blocked, or avoided.
+After 3 rounds, the grenade detonates, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED , 637),1,637)] [School()] damage. 
 
 An enemy pet can only be affected by one sticky grenade at a time.","463550","9","0","0","0"
-"637","Sticky Grenade","Throws a sticky grenade at the target. After 3 rounds, the grenade detonates, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)] [School()] damage. This damage cannot be dodged, blocked, or avoided.
+"637","Sticky Grenade","Throws a sticky grenade at the target. After 3 rounds, the grenade detonates, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)] [School()] damage. 
 
 [StandardAccuracy(2,1)] |cffffffffHit Chance|r","463550","9","0","0","1"
 "639","Toxic Smoke","Deals [StandardDamage(1,1)] [School()] damage every round.","136182","9","0","0","0"
@@ -1752,7 +1752,7 @@ Deals [StandardDamage(1,1)] [School()] damage instantly. The enemy |cFFFF2020Bur
 "904","Cute Face","Increases your chance to dodge attacks by [abs(abilityStateMod( 73, 904 ))]%.","132311","-1","0","468","2"
 "905","Cute Face","Increases your chance to dodge an attack by [abs(abilityStateMod( 73, 904 ))]%.
 
-Lasts [duration(1,1)] |4round:rounds;.","132311","0","0","0","2"
+Lasts [duration(1,1)] |4round:rounds;.","132311","7","0","0","2"
 "906","Lightning Shield","Deals [StandardDamage(1,1,907)] [School()] damage each time you take direct damage.
 
 Lasts [duration(1,1)] |4round:rounds;.","136051","6","4","0","0"
@@ -2064,7 +2064,7 @@ While affected, the target is considered both |cff9933FFBlinded|r and |cFF1EFF00
 
 Bites deeply into the enemy, dealing [StandardDamage(1,1)] [School()] damage. 
 
-Deals double damage if the target is |cFF1EFF00Poisoned.|r","132105","7","4","0","0"
+Deals double damage if the target is |cFF1EFF00Poisoned.|r","132105","7","3","0","0"
 "1051","Acid Rain","Poisons the clouds with acid, dealing [StandardDamage(1,1)] [School()] damage to all enemies. The acid quickly disperses and calls down a cleansing rain for [duration(1,4)] rounds.
 
 During a cleansing rain, the duration of hostile damage over time effects is reduced by 1 round and Aquatic abilities deal 25% more damage.","136007","8","3","0","0"
@@ -2110,14 +2110,14 @@ Lasts [duration(1,1)] |4round:rounds.","841379","5","0","0","2"
 "1070","Skunky Brew","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Throws some nasty brew at the target, dealing [StandardDamage(1,1)] [School()] damage and making it impossible to flee for [duration(1,2)] |4round:rounds.","645193","7","3","0","0"
-"1071","Explosive Brew","After 3 rounds, the brew will explode violently, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)] [School()] damage. This damage cannot be dodged, blocked, or avoided.
+"1071","Explosive Brew","After 3 rounds, the brew will explode violently, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)] [School()] damage. 
 
 [StandardAccuracy(2,1)] |cffffffffHit Chance|r","132621","6","0","0","1"
 "1072","Explosive Brew","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Soaks the target with explosive brew. 
 
-After 3 rounds, the brew will violently detonate, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED , 1071),1,1071)] [School()] damage. This damage cannot be dodged, blocked, or avoided.
+After 3 rounds, the brew will violently detonate, dealing [StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED , 1071),1,1071)] [School()] damage.
 
 An enemy pet can only be affected by one dose of explosive brew at a time.","132621","6","0","0","0"
 "1073","Spiny Carapace","Deals [StandardDamage(getProcIndex(PROC_ON_DAMAGE_TAKEN,1074),1,1074)] [School()] damage each time you take direct damage. Effectiveness is tripled for [duration(1,1)] |4round:rounds; if this ability is used while already active.
@@ -3304,12 +3304,12 @@ During toxic gas, the duration of all hostile damage over time effects is increa
 All pets count as though they are |cFF1EFF00Poisoned.|r","132104","4","0","1153","2"
 "2351","Whirling Gears","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage to the enemy team and swaps the current enemy pet with the lowest health enemy pet.","134063","8","5","0","0"
+Deals [StandardDamage(1,1)] [School()] damage to the enemy team and swaps the current enemy pet with the lowest health enemy pet.","134063","9","5","0","0"
 "2352","Sludge Claw","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage.
 
-Deals double damage if the target is |cFF1EFF00Poisoned|r.","132107","1","2","0","0"
+Deals double damage if the target is |cFF1EFF00Poisoned|r.","132107","1","3","0","0"
 "2353","Contagion Strike","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage plus [StandardDamage(1,1)*2/3] additional damage if the target is |cFF1EFF00Poisoned.|r","236270","0","0","0","0"
@@ -3502,6 +3502,27 @@ If the user kills an enemy with Ravage, they restore [StandardHealing(1,2)] heal
 
 Ravage continues for [numTurns()] |4round:rounds;.","1394887","7","2","0","0"
 "2427","Rapid Turret","Deals [FormatDamage(SimpleDamage(1,1)*4)] [School()] damage to the enemy's front pet each round.","133013","9","0","153","0"
+"2429","Massive Explosion","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Instantly kills the caster, dealing damage equal to [FormatDamage(points(1,1))]% of the user's total health to the enemy team.
+
+Using explode will prevent the caster from activating Failsafe mechanisms.","132263","9","0","0","2"
+"2430","Scrabble","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Scratch wildly, dealing [StandardDamage(1,2)] [School()] damage, or [StandardDamage(1,1)] [School()] damage if the user strikes first.","1029744","4","0","0","0"
+"2431","Feast","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [School()] damage.
+
+Always hits if the target is |cFF970000Bleeding|r.","132139","7","3","0","0"
+"2432","Dark Fate","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+A vengeful attack that deals [petTypeName(abilityPetType())] damage equal to the last hit taken by the user.","3605497","0","3","0","0"
+"2433","Arcane Barrage","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Barrage the enemy 1-2 times, dealing [StandardDamage(1,1)] [School()] damage per hit.
+
+Hits an additional time if the user attacks first.","236221","5","0","0","0"
 "928","Speed Reduction","Speed reduced by [abs(abilityStateMod(25,154))]%.","653221","-1","0","316","3"
 "927","Stunned","Unable to give this pet commands.","135860","-1","0","103","3"
 "1671","Stunned","Unable to give this pet commands.","135860","-1","0","103","3"

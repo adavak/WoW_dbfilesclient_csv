@@ -56,3 +56,5 @@ Id,ContainerName,ContainerDescription,MinAmount,MaxAmount,ContainerIconId,Contai
 "182","Bonus Experience","Provides a significant increase to player experience.","1","9999999","1001982","3","0","1877"
 "183","Stitchmasters' Commendation","Awards %d reputation with the Stitchmasters.","1","1000000","3622121","3","0","1878"
 "184","Sinstone Research","Increases your reputation with the Avowed by %d.","1","1000000","1506458","3","0","1884"
+"185","Maw Survivalist's Token","Increases your reputation with Ve'nari by %d.","1","1000000","1362656","3","0","1880"
+"186","Death's Advance Commendation","Awards %d reputation with the Death's Advance.","1","1000000","4064729","3","0","1907"

@@ -1,4 +1,4 @@
-Id,Name,CovenantI,GarrTalentTreeId,CreatureId,GarrFollowerId,UnlockCondition
+Id,Name,CovenantId,GarrTalentTreeId,CreatureId,GarrFollowerId,UnlockConditionId
 "1","尼娅","3","276","164729","1265","84491"
 "2","织梦者","3","275","164387","1264","84497"
 "3","德莱文将军","2","304","165028","1209","84407"

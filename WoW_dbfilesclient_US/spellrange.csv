@@ -160,4 +160,7 @@ Id,DisplayName,DisplayNameShort,Flags,RangeMin0,RangeMin1,RangeMax0,RangeMax1
 "466","Charge","Charge","0","8","8","60","60"
 "467","Min Range 10, 60","Min Range, 10, 60","0","10","10","60","60"
 "468","Charge (Felguard)","Charge","0","6","6","25","25"
+"469","Ninety-to-110","90-110","0","90","90","110","110"
+"470","0.1 yards","0.1 yards","0","0","0","0.1","0.1"
+"473","Min Range 70, 160","70-160","0","70","70","160","160"
 "326","Min Range 5, 40","Five-to-40","0","5","5","40","40"

@@ -371,15 +371,15 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 
 小蜘蛛成群攻擊敵人，造成[FormatDamage(SimpleDamage(1,1)*2)]點[School()]傷害。
 
-如果目標|cffffffff被網住|r則造成兩倍傷害。","136045","7","4","0","0"
+如果目標|cffffffff被網住|r則造成兩倍傷害。","136045","7","3","0","0"
 "251","怪異運氣","命中機率提高[abs(abilityStateMod(41,251))]%。
 造成致命一擊的機率提高[abs(abilityStateMod(40,251))]%。","135725","-1","0","320","2"
 "252","怪異運氣","使我方隊伍的命中機率提高[abs(abilityStateMod(41,251))]%，造成致命一擊的機率提高[abs(abilityStateMod(40,251))]%，持續[duration(1,1)]|4輪:輪;。","135725","4","0","0","2"
 "253","重整旗鼓","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-造成[StandardDamage(1,2)]點[School()]傷害。
+造成[StandardDamage(1,1)]點[School()]傷害。
 
-如果使用者的生命力低於目標，則造成[StandardDamage(1,1)]點額外傷害。","132214","4","0","0","0"
+如果使用者的生命力低於目標，則造成[StandardDamage(1,2)]點額外傷害。","132214","4","0","0","0"
 "254","寧靜","讓區域充滿平靜，使你啟用的寵物每輪恢復[StandardHealing(1,1,255)]點生命力。
 
 持續[duration(1,1)]|4輪:輪;。交換寵物後效果仍然有效。","136107","4","0","0","2"
@@ -1278,7 +1278,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "614","競爭之魂","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 造成[StandardDamage(1,1)]點[School()]傷害，並使你造成的傷害提高[abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 613 ))]%，持續[duration(1,2)]|4輪:輪;。","236686","5","0","0","0"
-"615","塔瑞克苟莎之怒","我方隊伍攻擊的次數加倍，持續[duration(1,2)]輪。","523897","1","20","0","0"
+"615","資料錯誤","只有在最罕見的寵物身上才會發現的未知技能，這個技能的誕生純屬意外。沒有人知道這個技能的功用可能會是什麼。","134400","5","0","0","0"
 "616","閃現打擊","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 閃現到敵人旁邊，造成[StandardDamage(1,1)]點[School()]傷害。
@@ -1336,10 +1336,10 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 
 對目標丟出一枚黏著手榴彈。
 
-在3輪後手榴彈引爆，造成[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED , 637),1,637)]點[School()]傷害。該傷害無法被閃躲、格擋或避開。
+在3輪後手榴彈引爆，造成[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED , 637),1,637)]點[School()]傷害。
 
 在同一時間黏著手榴彈只能作用於一隻敵方寵物。","463550","9","0","0","0"
-"637","黏著手榴彈","對目標丟出一枚黏著手榴彈。在3輪後手榴彈引爆，造成[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)]點[School()]傷害。該傷害無法被閃躲、格擋或避開。
+"637","黏著手榴彈","對目標丟出一枚黏著手榴彈。在3輪後手榴彈引爆，造成[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)]點[School()]傷害。
 
 [StandardAccuracy(2,1)]|cffffffff命中機率|r","463550","9","0","0","1"
 "639","毒煙","每輪造成[StandardDamage(1,1)]點[School()]傷害 。","136182","9","0","0","0"
@@ -1756,7 +1756,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "904","可愛表情","使你閃躲攻擊的機率提高[abs(abilityStateMod( 73, 904 ))]%。","132311","-1","0","468","2"
 "905","可愛表情","使你閃躲一次攻擊的機率提高[abs(abilityStateMod( 73, 904 ))]%。
 
-持續[duration(1,1)]|4輪:輪;。","132311","0","0","0","2"
+持續[duration(1,1)]|4輪:輪;。","132311","7","0","0","2"
 "906","閃電之盾","每次你受到直接傷害時，會對敵人造成[StandardDamage(1,1,907)]點[School()]傷害。
 
 持續[duration(1,1)]|4輪:輪;。","136051","6","4","0","0"
@@ -2068,7 +2068,7 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 
 深深地咬傷敵人，造成[StandardDamage(1,1)]點[School()]傷害。
 
-如果目標處於|cFF1EFF00中毒|r狀態則造成兩倍傷害。","132105","7","4","0","0"
+如果目標處於|cFF1EFF00中毒|r狀態則造成兩倍傷害。","132105","7","3","0","0"
 "1051","酸雨","以酸性物質毒化雲朵，對所有敵人造成[StandardDamage(1,1)]點[School()]傷害。這陣酸雨很快消散，並喚來一場淨化之雨，持續[duration(1,4)]輪。
 
 在淨化之雨持續時間內，敵方持續性傷害效果的持續時間縮短一輪，且水棲技能造成的傷害提高25%。","136007","8","3","0","0"
@@ -2114,14 +2114,14 @@ Id,Name,Description,IconFileDataId,PetTypeEnum,Cooldown,BattlePetVisualId,Flags
 "1070","惡臭酒","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 將噁心的惡臭酒丟向目標，造成[StandardDamage(1,1)]點[School()]傷害，並且使其無法逃離戰場，持續[duration(1,2)]輪。","645193","7","3","0","0"
-"1071","爆炸酒","在3輪後爆炸酒會引發劇烈爆炸，造成[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)]點[School()]傷害。該傷害無法被閃躲、格擋或避開。
+"1071","爆炸酒","在3輪後爆炸酒會引發劇烈爆炸，造成[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED),1)]點[School()]傷害。
 
 [StandardAccuracy(2,1)]|cffffffff命中機率|r","132621","6","0","0","1"
 "1072","爆炸酒","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 以爆炸酒浸濕目標。
 
-在3輪後爆炸酒會引發劇烈爆炸，造成[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED , 1071),1,1071)]點[School()]傷害。該傷害無法被閃躲、格擋或避開。
+在3輪後爆炸酒會引發劇烈爆炸，造成[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED , 1071),1,1071)]點[School()]傷害。
 
 在同一時間爆炸酒只能作用於一隻敵方寵物。","132621","6","0","0","0"
 "1073","尖刺甲殼","每次你受到直接傷害時，會對敵人造成[StandardDamage(getProcIndex(PROC_ON_DAMAGE_TAKEN,1074),1,1074)]點[School()]傷害。如果在作用期間再次使用此技能，效果變為三倍，持續[duration(1,1)]輪。
@@ -3306,12 +3306,12 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 所有寵物將視為|cFF1EFF00中毒|r狀態。","132104","4","0","1153","2"
 "2351","迴旋齒輪","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-對敵方隊伍造成[StandardDamage(1,1)]點[School()]傷害，並用敵方生命力最低的寵物來交換敵方當前寵物。","134063","8","5","0","0"
+對敵方隊伍造成[StandardDamage(1,1)]點[School()]傷害，並用敵方生命力最低的寵物來交換敵方當前寵物。","134063","9","5","0","0"
 "2352","淤泥之爪","[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
 造成[StandardDamage(1,1)]點[School()]傷害。
 
-如果目標|cFF1EFF00中毒|r，造成雙倍傷害。","132107","1","2","0","0"
+如果目標|cFF1EFF00中毒|r，造成雙倍傷害。","132107","1","3","0","0"
 "2353","動盪打擊","[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 造成[StandardDamage(1,1)]點[School()]傷害，如果目標|cFF1EFF00中毒|r再額外造成[StandardDamage(1,1)*2/3]點傷害。","236270","0","0","0","0"
@@ -3504,6 +3504,27 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 劫掠持續[numTurns()]|4回合:回合;。","1394887","7","2","0","0"
 "2427","快速砲塔","對敵人前排寵物每輪造成[FormatDamage(SimpleDamage(1,1)*4)]點[School()]傷害。","133013","9","0","153","0"
+"2429","巨大的爆炸","[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+立即殺死施法者，對敵方隊伍造成等同使用者總生命力[FormatDamage(points(1,1))]%的傷害。
+
+使用爆炸會使施法者無法啟動安全防護機制。","132263","9","0","0","2"
+"2430","瘋狂抓抓","[StandardAccuracy(1,1)] |cffffffff命中機率|r
+
+狂野爪擊並造成[StandardDamage(1,2)]點[School()]傷害。若使用者先發動攻擊則造成[StandardDamage(1,1)]點[School()]傷害。","1029744","4","0","0","0"
+"2431","噬食","[StandardAccuracy(1,1)] |cffffffff命中機率|r
+
+造成[StandardDamage(1,1)]點[School()]傷害。
+
+如果目標處於|cFF970000流血|r狀態則必定命中。","132139","7","3","0","0"
+"2432","黑暗天命","[StandardAccuracy(1,1)] |cffffffff命中機率|r
+
+復仇的一擊，造成和使用者上一次所受攻擊傷害值相同的[petTypeName(abilityPetType())]傷害。","3605497","0","3","0","0"
+"2433","秘法彈幕","[StandardAccuracy(1,1)] |cffffffff命中機率|r
+
+對敵人發射彈幕1-2次，每次擊中造成[StandardDamage(1,1)]點[School()]傷害。
+
+若使用者先發動攻擊，再額外打擊一次。","236221","5","0","0","0"
 "928","速度降低","速度降低[abs(abilityStateMod(25,154))]%。","653221","-1","0","316","3"
 "927","昏迷","無法對此寵物下命令。","135860","-1","0","103","3"
 "1671","昏迷","無法對此寵物下命令。","135860","-1","0","103","3"

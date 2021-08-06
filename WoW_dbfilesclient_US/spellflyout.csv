@@ -14,3 +14,4 @@ Id,RaceMask,Name,Description,Flags,ClassMask,SpellIconFileId
 "103","18446744073709551615","Pet Utility","A variety of tools to help you manage your pet.","0","4","132179"
 "106","18446744073709551615","Hex Variants","Alternate cosmetic variants of Hex, which transform your target into a variety of creatures.","0","64","538518"
 "217","18446744073709551615","Kyrian Instruments","Play an instrument of the Kyrian.","0","0","454048"
+"220","18446744073709551615","Hero's Path: Shadowlands","Teleport to the entrance of a Shadowlands Dungeon for which you have earned the Keystone Hero achievement. The cooldown of these spells will reset when you complete a Mythic Keystone Dungeon.","0","-1","519384"

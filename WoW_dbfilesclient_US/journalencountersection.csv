@@ -3292,11 +3292,11 @@ In addition, whenever a member of Gekkan's entourage dies, Gekkan will cast Reck
 "6059","Gift of the Herald","Jedoge Shadowseeker is blessed with the Gift of the Herald, increasing her damage done by $56219s2% for $56219d.","582","5","6058","0","0","2","0","0","0","136214","0","0","255"
 "6060","Mini","Amanitar shrinks all players, reducing their damage done by $57055s1% until canceled by the Potent Fungus effect.","583","1","0","0","6061","2","0","0","0","136121","0","0","255"
 "6061","Bash","Amanitar bashes a player, inflicting Physical damage.","583","2","0","0","6062","2","0","0","0","132939","0","0","255"
-"6062","Entangling Roots","Amanitar entangles a player in roots, immobilizing them and inflicting Nature damage every $57095t2 sec. for $57095d.","583","3","0","0","6063","2","0","0","0","136100","0","128","255"
-"6063","Healthy Mushroom","Healthy Mushrooms release Potent Fungus when killed.","583","4","0","6064","6065","2","0","0","0","134523","1","0","255"
-"6064","Potent Fungus","Potent Fungus increases the damage of all players within $56648A1 yards by $56648s2% and cancels the effects of Mini.","583","5","6063","0","0","2","0","0","0","236310","0","0","255"
-"6065","Poisonous Mushroom","Poisonous Mushrooms release Poison Clouds when killed.","583","6","0","6066","6663","2","0","0","0","132371","1","0","255"
-"6066","Poison Cloud","Poison Clouds inflict Nature damage every $57061t1 sec. for $57061d.","583","7","6065","0","0","2","0","0","0","136077","0","512","255"
+"6062","Entangling Roots","Amanitar entangles a player in roots, immobilizing them and inflicting Nature damage every $57095t2 sec. for $57095d.","583","3","0","0","23459","2","0","0","0","136100","0","128","255"
+"6063","Healthy Mushroom","Healthy Mushrooms release Potent Fungus when killed.","583","5","0","6064","6065","2","0","0","0","134523","1","0","255"
+"6064","Potent Fungus","Potent Fungus increases the damage of all players within $56648A1 yards by $56648s2% and cancels the effects of Mini.","583","6","6063","0","0","2","0","0","0","236310","0","0","255"
+"6065","Poisonous Mushroom","Poisonous Mushrooms release Poison Clouds when killed.","583","7","0","6066","6663","2","0","0","0","132371","1","0","255"
+"6066","Poison Cloud","Poison Clouds inflict Nature damage every $57061t1 sec. for $57061d.","583","8","6065","0","0","2","0","0","0","136077","0","512","255"
 "6067","Mind Flay","Herald Volazj flays a player's mind, inflicting Shadow damage every second and reduces their movement speed for $57941d.","584","1","0","0","6068","2","0","0","0","136208","0","0","255"
 "6068","Shadow Bolt Volley","Herald Volazj hurls missiles of dark magic, inflicting Shadow damage to all players.","584","2","0","0","6069","2","0","0","0","136197","0","0","255"
 "6069","Shiver","Herald Volazj curses a player, inflicting Shadow damage when they are damaged. This effect cannot occur more often than once every 3 seconds.","584","3","0","0","6070","2","0","0","0","136131","0","256","255"
@@ -3754,7 +3754,7 @@ Echoes of Power inherit one of Imperial Vizier Zor'lok's abilities and will cont
 "6660","Heroic Difficulty Only","Yor is only available in Heroic Difficulty.","536","3","0","0","0","0","0","0","0","0","3","0","1"
 "6661","Heroic Difficulty Only","Anzu is only available in Heroic Difficulty.","542","9","0","0","0","0","0","0","0","0","3","0","1"
 "6662","Heroic Difficulty Only","Blood Guard Porung is only available in Heroic Difficulty.","728","2","0","0","0","0","0","0","0","0","3","0","1"
-"6663","Heroic Difficulty Only","Amanitar is only available in Heroic Difficulty.","583","8","0","0","0","0","0","0","0","0","3","0","1"
+"6663","Heroic Difficulty Only","Amanitar is only available in Heroic Difficulty.","583","9","0","0","0","0","0","0","0","0","3","0","1"
 "6664","Heroic Difficulty Only","Eck the Ferocious is only available in Heroic Difficulty.","595","1","0","0","6994","0","0","0","0","0","3","0","1"
 "6665","Heroic Difficulty Only","The Frozen Commander is only available in Heroic Difficulty.","617","1","0","0","7433","0","0","0","0","0","3","0","1"
 "6666","Corrupted Dissonance Field","The Sha of Fear corrupts a dissonance field, causing it to inflict $130756s1 Shadow damage to random players until the dissonance field discharges.","743","4","6325","0","0","2","0","0","0","651094","2","8","12"
@@ -16649,7 +16649,7 @@ While Enraged, Dessia the Decapitator chases down players at random.$]","2397","
 
 On Mythic Dungeon difficulties, the spores slow players by $320180s3%.$]","2397","14","21581","0","21589","2","0","0","320180","0","0","0","255"
 "21589","Section 12","","2397","15","21581","0","0","2","0","0","320248","0","0","1028","255"
-"21591","Sathel the Accursed","Attacks players at random with |cFF2959D3|Hspell:320300|h[Necromantic Bolt]|h|r and becomes |cFF2959D3|Hspell:320293|h[One With Death]|h|r at low health. Marks allies with |cFF2959D3|Hspell:320272|h[Spectral Transference]|h|r for healing.","2397","16","0","21890","0","1","93934","0","0","0","1","0","255"
+"21591","Sathel the Accursed","Attacks players at random with |cFF2959D3|Hspell:320300|h[Necromantic Bolt]|h|r and becomes |cFF2959D3|Hspell:320293|h[One With Death]|h|r at low health. Marks allies with |cFF2959D3|Hspell:320272|h[Spectral Transference]|h|r for healing.","2397","16","0","21890","23841","1","93934","0","0","0","1","0","255"
 "21594","Section 17","","2397","19","21591","0","21596","2","0","0","320272","0","0","128","255"
 "21596","Section 19","","2397","20","21591","0","0","2","0","0","320293","0","0","0","255"
 "21600","Section 4","","2390","5","0","22252","21615","2","0","0","320102","0","0","34","255"
@@ -16769,7 +16769,7 @@ $bullet;Step on Erupting Oozes before they |cFF2959D3|Hspell:341444 |h[Erupt]|h|
 "21730","Zolramus Siphoner","","2396","16","21727","21732","22841","1","94091","0","0","0","0","0","255"
 "21731","Section 12","","2396","15","21729","0","0","2","0","0","287295","0","0","128","255"
 "21732","","","2396","17","21730","0","0","2","0","0","322274","0","0","0","255"
-"21736","Section 21","","2403","24","0","0","0","2","0","0","322358","0","0","32","255"
+"21736","Section 21","","2403","28","0","0","0","2","0","0","322358","0","0","32","255"
 "21737","Overview","Stradama sinks beneath the ooze at health thresholds of 66% and 33%, unleashing tentacles that assault the party with |cFF2959D3|Hspell:322473 |h[Plague Crash]|h|r.","2404","1","0","21739","21744","3","0","0","0","0","0","0","255"
 "21738","Damage Dealers","$bullet;Defeat Malignant Spawn before they overwhelm the party with |cFF2959D3|Hspell:322236 |h[Touch of Slime]|h|r .
 $bullet;Avoid the tentacles during |cFF2959D3|Hspell:322473 |h[Plague Crash]|h|r.","2404","3","21737","0","21740","3","0","0","0","0","0","2","255"
@@ -16908,7 +16908,7 @@ $bullet;|cFF2959D3|Hspell:323437|h[Stigma of Pride]|h|r causes increased damage 
 "21851","Section 5","","2411","5","0","0","21852","2","0","0","323538","0","0","65","255"
 "21852","Section 6","","2411","6","0","0","21860","2","0","0","323552","0","0","64","255"
 "21853","Section 7","","2408","6","21793","21854","21855","2","0","0","322773","0","1","0","255"
-"21854","Section 9","","2408","7","21853","0","0","2","0","0","323064","0","0","64","255"
+"21854","Section 9","","2408","7","21853","0","0","2","0","0","323064","0","0","0","255"
 "21855","Section 10","","2408","8","21793","0","21856","2","0","0","322746","0","0","32","255"
 "21856","Section 11","","2408","9","21793","0","0","2","0","0","322736","0","0","1","255"
 "21857","Son of Hakkar","Atal'ai priests sacrifice themselves to their god, transforming into a Son of Hakkar and rushing to their master's aid.","2408","10","0","21858","0","1","2702","0","0","0","0","0","255"
@@ -17194,7 +17194,7 @@ On Heroic difficulty and higher, |cFF2959D3|Hspell:328573|h[Blazing Surge]|h|r t
 "22102","Stage Two - Terror of Castle Nathria","Shrouded in darkness, Shriekwing stalks her prey throughout The Grand Walk.","2393","21","0","22852","0","0","0","0","0","0","0","0","255"
 "22105","Section 27","","2424","57","22059","0","22261","2","0","0","329181","0","0","1","255"
 "22106","Section 26","","2424","71","22195","0","22427","2","0","0","330627","0","2","36","0"
-"22107","Section 15","","2403","14","0","22280","22359","2","0","0","329217","0","3","0","0"
+"22107","Section 15","","2403","14","0","22280","23082","2","0","0","329217","0","3","0","0"
 "22108","Section 13","","2411","13","0","0","0","2","0","0","329340","0","0","0","255"
 "22109","Section 10","","2413","6","22542","0","21846","2","0","0","329113","0","0","0","255"
 "22110","Section 11","","2413","9","22542","0","0","2","0","0","328791","0","2","4112","0"
@@ -17350,7 +17350,7 @@ $bullet;Move away from allies when targeted for |cFF2959D3|Hspell:341473|h[Crims
 "22242","Section 5","","2394","7","22228","22430","0","2","0","0","332969","0","0","0","255"
 "22244","Section 39","","2422","53","22232","0","0","2","0","0","329561","0","2","0","0"
 "22246","Section 40","","2424","67","22197","0","0","2","0","0","332585","0","0","0","255"
-"22247","Section 12","","2403","20","0","22281","21736","2","0","0","332617","0","3","0","0"
+"22247","Section 12","","2403","24","0","22281","21736","2","0","0","348160","0","3","0","0"
 "22251","Section 41","","2424","68","22195","0","22260","2","0","0","332619","0","0","1","255"
 "22252","Section 15","","2390","6","21600","0","21602","2","0","0","332670","0","0","0","255"
 "22254","Section 42","","2424","63","22195","0","22426","2","0","0","332734","0","0","0","255"
@@ -17374,9 +17374,9 @@ In Mythic Difficulty, passing through Necrotic Breath applies Necrotic Ichor.$]"
 In Mythic Difficulty, Amarth gains applications of Tortured Echoes for each skeleton or player killed.$]","2391","14","0","21534","22271","2","0","0","321247","0","0","32","255"
 "22279","Section 19","","2397","18","21591","0","21594","2","0","0","333292","0","0","0","255"
 "22280","Section 22","","2403","15","22107","0","0","2","0","0","333808","0","0","4096","255"
-"22281","Congealed Slime","","2403","21","22247","22282","0","1","95787","0","0","0","2","4096","0"
-"22282","Section 21","","2403","22","22281","0","22283","2","0","0","333737","0","2","0","0"
-"22283","Section 21","","2403","23","22281","0","0","2","0","0","321935","0","2","0","0"
+"22281","Congealed Slime","","2403","25","22247","22282","0","1","95787","0","0","0","2","4096","0"
+"22282","Section 21","","2403","26","22281","0","22283","2","0","0","333737","0","2","0","0"
+"22283","Section 21","","2403","27","22281","0","0","2","0","0","321935","0","2","0","0"
 "22284","General Kaal","","2425","101","22756","22287","22288","1","95721","0","0","0","1","0","255"
 "22286","Section 9","","2425","103","22284","23010","22812","2","0","0","333387","0","2","0","0"
 "22287","Section 10","","2425","102","22284","0","22286","2","0","0","329636","0","0","0","255"
@@ -17450,10 +17450,10 @@ On Mythic difficulty, Sludgefist immediately gains 100 rage if Chain Slam fails 
 "22353","Section 4","","2419","5","0","0","21918","2","0","0","319780","0","0","32","255"
 "22354","Section 42","","2422","34","21952","0","21961","2","0","0","335581","0","2","32","0"
 "22358","Section 15","","2403","13","0","0","22107","2","0","0","329217","0","2","0","3"
-"22359","Section 12","","2403","16","0","22360","22247","2","0","0","332617","0","2","0","3"
-"22360","Pestilence Slime","","2403","17","22359","22361","0","1","33010","0","0","0","0","0","255"
-"22361","Section 15","","2403","18","22360","0","22362","2","0","0","331967","0","0","0","255"
-"22362","Section 14","","2403","19","22360","0","0","2","0","0","321999","0","0","0","255"
+"22359","Section 12","","2403","20","0","22360","22247","2","0","0","332617","0","2","0","2"
+"22360","Pestilence Slime","","2403","21","22359","22361","0","1","33010","0","0","0","0","0","255"
+"22361","Section 15","","2403","22","22360","0","22362","2","0","0","331967","0","0","0","255"
+"22362","Section 14","","2403","23","22360","0","0","2","0","0","321999","0","0","0","255"
 "22363","Section 50","","2424","61","22168","0","0","2","0","0","335873","0","2","8","0"
 "22364","Section 50","","2424","55","22164","0","0","2","0","0","335873","0","2","8","0"
 "22365","Section 52","","2424","77","22269","0","0","2","0","0","335873","0","2","8","0"
@@ -17633,7 +17633,7 @@ In Mythic difficulty, players are possessed until they are slain.$]","2418","14"
 "22537","Section 25","","2418","19","22528","0","0","2","0","0","340870","0","0","4","255"
 "22538","Section 23","","2418","24","22123","0","0","2","0","0","340842","0","0","4","255"
 "22539","Section 5","","2394","14","0","0","22429","2","0","0","332318","0","0","16","255"
-"22541","Section 10","Increases Arcane damage taken by 5%.","2398","9","22532","0","0","2","0","0","323692","0","2","4096","0"
+"22541","Section 10","","2398","9","22532","0","0","2","0","0","323692","0","2","4096","0"
 "22542","Section 12","","2413","5","0","22109","21847","2","0","0","341245","0","0","0","255"
 "22543","Section 29","","2422","14","21966","0","22544","2","0","0","329509","0","2","0","0"
 "22544","Section 29","","2422","15","21966","0","22081","2","0","0","329518","0","2","0","0"
@@ -17908,9 +17908,195 @@ In Mythic difficulty, this effect cannot be removed by player immunities.$]","24
 "22840","Section 127","","2425","87","22777","0","22784","2","0","0","342741","0","0","4096","255"
 "22841","Gilded Champion","","2396","18","21727","22842","0","1","93893","0","0","0","0","0","255"
 "22842","Section 19","","2396","19","22841","0","0","2","0","0","345323","0","0","0","255"
+"22844","Overview","Infused Goliaths defend the outer perimeter before The Tarragrue, offering potent Anima Powers when defeated.
+
+In battle, The Tarragrue attempts to pick off defenseless targets with |cFF2959D3|Hspell:347269|h[Chains of Eternity]|h|r while gathering power. Upon reaching 100 energy, The Tarragrue dissolves into Torghast's |cFF2959D3|Hspell:347679|h[Hungering Mist]|h|r and stalks its prey with a series of crushing assaults.
+
+At 10% health remaining, the Jailer removes Anima Powers from all players and sends The Tarragrue into a wild frenzy.","2435","1","0","22845","23609","3","0","0","0","0","0","0","255"
+"22845","Tanks","$bullet;|cFF2959D3|Hspell:346986|h[Crushed Armor]|h|r stuns the current target and applies a large Physical damage vulnerability.
+$bullet;There is a gap in |cFF2959D3|Hspell:347671|h[Hungering Mist]|h|r that can be used to avoid damage.","2435","2","22844","0","22846","3","0","0","0","0","0","1","255"
+"22846","Damage Dealers","$bullet;|cFF2959D3|Hspell:347269|h[Chains of Eternity]|h|r stuns and then destroys the first player caught in a line.
+$bullet;There is a gap in |cFF2959D3|Hspell:347671|h[Hungering Mist]|h|r that can be used to avoid damage.","2435","3","22844","0","22847","3","0","0","0","0","0","2","255"
+"22847","Healers","$bullet;Dispel players afflicted with |cFF2959D3|Hspell:347283|h[Predator's Howl]|h|r.
+$bullet;|cFF2959D3|Hspell:347269|h[Chains of Eternity]|h|r stuns and then destroys the first player caught in a line.
+$bullet;There is a gap in |cFF2959D3|Hspell:347671|h[Hungering Mist]|h|r that can be used to avoid damage.","2435","4","22844","0","0","3","0","0","0","0","0","4","255"
+"22849","The Jailer's Gaze","","2435","24","23623","0","23849","2","0","0","347369","0","3","32","0"
 "22850","Section 31","","2429","13","22334","0","0","2","0","0","345902","0","0","2","255"
 "22852","Section 5","","2393","22","22102","22499","22165","2","0","0","345936","0","0","32","255"
+"22853","Overview","Zo'phex has authorized the use of deadly force, deploying his own limbs as |cFF2959D3|Hspell:348366|h[Armed Security]|h|r while confiscating suspicious weapons with |cFF2959D3|Hspell:346006|h[Impound Contraband]|h|r.
+
+Upon reaching 100 energy, Zo'phex singles out a random player for |cFF2959D3|Hspell:345598|h[Interrogation]|h|r.","2437","1","0","22854","22857","3","0","0","0","0","0","0","255"
+"22854","Damage Dealers","$bullet;Destroying a |cFF2959D3|Hspell:348006|h[Containment Cell]|h|r interrupts |cFF2959D3|Hspell:345598|h[Interrogation]|h|r.
+
+$bullet;While disarmed from |cFF2959D3|Hspell:346006|h[Impound Contraband]|h|r players are silenced and pacified until retrieving their weapon from the battlefield.
+
+$bullet;|cFF2959D3|Hspell:347964|h[Rotary Body Armor]|h|r absorbs all damage taken if between players and Zo'phex.","2437","2","22853","0","22855","3","0","0","0","0","0","2","255"
+"22855","Healer","$bullet;|cFF2959D3|Hspell:348366|h[Armed Security]|h|r move dangerously around the battlefield.
+
+$bullet;While disarmed from |cFF2959D3|Hspell:346006|h[Impound Contraband]|h|r players are silenced and pacified until retrieving their weapon from the battlefield.
+
+$bullet;|cFF2959D3|Hspell:353424|h[Security Measure]|h|r inflicts heavy damage to the party when a |cFF2959D3|Hspell:348006|h[Containment Cell]|h|r is destroyed.","2437","3","22853","0","22856","3","0","0","0","0","0","4","255"
+"22856","Tank","$bullet;Zo'phex can be positioned during the cast of |cFF2959D3|Hspell:345598|h[Interrogation]|h|r before players are trapped at their current location within a |cFF2959D3|Hspell:348006|h[Containment Cell]|h|r.
+
+$bullet;|cFF2959D3|Hspell:348128|h[Fully Armed]|h|r increases Physical damage done.
+
+$bullet;|cFF2959D3|Hspell:348366|h[Armed Security]|h|r move dangerously around the battlefield.","2437","4","22853","0","0","3","0","0","0","0","0","1","255"
+"22857","Section 5","","2437","5","0","23048","22858","2","0","0","345598","0","0","48","255"
+"22858","Section 6","","2437","8","0","0","23149","2","0","0","346204","0","0","0","255"
+"22866","Overview","[PLACEHOLDER] Overview of the encounter.","2438","1","0","22867","22870","3","0","0","0","0","0","0","255"
+"22867","Tanks","$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:1234|h[Joe's God Mode]|h|r.
+$[15,16$bullet;<PLACEHOLDER> Example to make things only show up on single or multiple difficulties. Separate multiple difficulties with commas e.g. 14,15,16,17$]","2438","2","22866","0","22868","3","0","0","0","0","0","1","255"
+"22868","Damage Dealers","$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:1234|h[Joe's God Mode]|h|r.
+$[15,16$bullet;<PLACEHOLDER> Example to make things only show up on single or multiple difficulties. Separate multiple difficulties with commas e.g. 14,15,16,17$]","2438","3","22866","0","22869","3","0","0","0","0","0","2","255"
+"22869","Healers","$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:1234|h[Joe's God Mode]|h|r.
+$[15,16$bullet;<PLACEHOLDER> Example to make things only show up on single or multiple difficulties. Separate multiple difficulties with commas e.g. 14,15,16,17$]","2438","4","22866","0","0","3","0","0","0","0","0","4","255"
+"22870","Stage One: <PH>","<PLACEHOLDER> Description of this encounter phase","2438","5","0","22872","22871","2","0","0","0","0","1","0","255"
+"22871","Stage Two: <PH>","<PLACEHOLDER> Description of this encounter phase","2438","7","0","0","0","0","0","0","0","0","0","0","255"
+"22872","Section 7","$[!14,15,16,17This is how you make red text.$]","2438","6","22870","0","0","2","0","0","1234","0","1","0","255"
+"22873","Overview","Kyra and Signe begin the assault on the ground, using |cFF2959D3|Hspell:350365|h[Wings of Rage]|h|r and |cFF2959D3|Hspell:350385|h[Reverberating Refrain]|h|r when their energy reaches 100. 
+
+Meanwhile, Skyja commands the other val'kyr to strike from the skies. When she reaches 100 energy, she casts |cFF2959D3|Hspell:350467|h[Call of the Val'kyr]|h|r to call assistance from her fallen companions. 
+
+When Kyra or Signe reach low health, Skyja lands and continues the battle.","2439","1","0","22874","22877","3","0","0","0","0","0","0","255"
+"22874","Tanks","$bullet;|cFF2959D3|Hspell:350202|h[Unending Strike]|h|r inflicts more damage to all players the more applications it has.
+$bullet;|cFF2959D3|Hspell:350157|h[Annhylde's Bright Aegis]|h|r protects all val'kyr remaining within it.","2439","2","22873","0","22875","3","0","0","0","0","0","1","255"
+"22875","Damage Dealers","$bullet;|cFF2959D3|Hspell:350039|h[Arthura's Crushing Gaze]|h|r inflicts high damage, split evenly among players struck.
+$bullet;Signe's |cFF2959D3|Hspell:350287|h[Song of Dissolution]|h|r can inflict very high damage if not interrupted.
+$bullet;Formless Mass will continually attempt to cast |cFF2959D3|Hspell:350339|h[Siphon Vitality]|h|r.","2439","3","22873","0","23626","3","0","0","0","0","0","2","255"
+"22876","Healers","$bullet;|cFF2959D3|Hspell:350039|h[Arthura's Crushing Gaze]|h|r inflicts high damage, split evenly among players struck.
+$bullet;|cFF2959D3|Hspell:350542|h[Fragments of Destiny]|h|r jump to the nearest player upon being dispelled, and is only removed when all fragments exist on a single player.","2439","5","22873","0","0","3","0","0","0","0","2","4","0"
+"22877","Stage One: The Unending Voice","Kyra and Signe stand as a first line of defense, preventing intruders from continuing.","2439","6","0","23202","23678","0","0","0","0","0","1","0","255"
+"22879","Stage Two: The First of the Mawsworn","When Kyra or Signe reach $356068s1% health remaining, Skyja enters the fray and takes matters into her own hands.","2439","80","0","23205","0","0","0","0","0","0","3","0","0"
+"22880","Overview","Kel'Thuzad can only be truly defeated once his phylactery is destroyed. Until then, when Kel'Thuzad reaches 0 health remaining he calls forth his minions to protect him while the phylactery opens and empowers him. During this window, players may enter the phylactery and attempt to destroy the Remnant of Kel'Thuzad. Once fully recovered, Kel'Thuzad gains a stack of |cFF2959D3|Hspell:352051|h[Necrotic Surge]|h|r and engages the players once more.
+
+When the Remnant is destroyed, the phylactery shatters and Kel'Thuzad summons a |cFF2959D3|Hspell:354638|h[Deep Freeze]|h|r to unleash all his power before death can finally take him.","2440","1","0","22882","22884","3","0","0","0","0","0","0","255"
+"22881","Tanks","$bullet;Each Soul Shard created applies |cFF2959D3|Hspell:348978|h[Soul Exhaustion]|h|r to its summoner which cannot be removed unitl it is absorbed.
+$bullet;Unstoppable Abominations inflict heavy damage.","2440","5","22880","0","0","3","0","0","0","0","0","1","255"
+"22882","Damage Dealers","$bullet;Soul Shards continuously cast |cFF2959D3|Hspell:348428|h[Piercing Wail]|h|r inflicting damage to the raid.
+$bullet;Enemies alive at the end of Stage Two receive |cFF2959D3|Hspell:355948|h[Necrotic Empowerment]|h|r.
+$bullet;Kel'Thuzad cannot be defeated while the Remnant of Kel'Thuzad is alive.","2440","2","22880","0","23769","3","0","0","0","0","2","2","0"
+"22883","Healers","$bullet;|cFF2959D3|Hspell:348756|h[Frost Blast]|h|r roots players during moments when mobility is paramount.
+$bullet;|cFF2959D3|Hspell:354289|h[Sinister Miasma]|h|r continually stacks damage on players within the phylactery.","2440","4","22880","0","22881","3","0","0","0","0","0","4","255"
+"22884","Stage One: Chains and Ice","Kel'Thuzad is a master of frost and shadow and until the phylactery is destroyed, remains immortal.","2440","6","0","23560","22885","2","0","0","0","0","1","0","255"
+"22885","Stage Two: The Phylactery Opens","When Kel'Thuzad is defeated, the phylactery opens and restores him to life once more. While open, players can enter the phylactery to battle the last remnant of Kel'Thuzad's soul. It is during this time Kel'Thuzad uses March of the Forsaken to summon his minions to protect his exposed phylactery.","2440","24","0","23562","23201","0","0","0","0","0","0","0","255"
+"22886","Overview","Azeroth's champions battle Sylvanas at the pinnacle of the Sanctum of Domination, across the vastness between the Maw and the Eternal City, and within the Arbiter's chamber.
+
+Players first encounter Sylvanas atop Torghast. Upon reaching $348143s1% health, she rips apart chunks of the tower itself.
+
+As the Jailer envelops Oribos in the Maw, players pursue him with the aid of Thrall, Jaina Proudmoore, and Bolvar Fordragon, forging new paths and defeating Mawforged commanders while Sylvanas harrows from all sides in |cFF2959D3|Hspell:348146|h[Banshee Form]|h|r.
+
+Within the Crucible, the Banished One executes his grand plan. Our allies confront the dominated Anduin Wrynn while Sylvanas engages players directly.","2441","1","0","22888","23057","3","0","0","0","0","0","0","255"
+"22887","Tanks","$bullet;Sylvanas rarely gives ground. She casts |cFF2959D3|Hspell:347548|h[Ranger Shot]|h|r exclusively if her threat target has moved out of range of her |cFF2959D3|Hspell:348299|h[Ranger Strike]|h|r.
+$[16$bullet;|cFF2959D3|Hspell:352650|h[Ranger's Heartseeker]|h|r and |cFF2959D3|Hspell:358185|h[Banshee's Weapons]|h|r, |cFF2959D3|Hspell:353969|h[Banshee's Heartseeker]|h|r and |cFF2959D3|Hspell:358181|h[Banshee's Blades]|h|r, can inflict high damage in a short period of time.$]
+$[14,15,17$bullet;|cFF2959D3|Hspell:352650|h[Ranger's Heartseeker]|h|r and |cFF2959D3|Hspell:353965|h[Banshee's Heartseeker]|h|r can inflict high damage in a short period of time.$]","2441","4","22886","0","0","3","0","0","0","0","0","1","255"
+"22888","Damage Dealers","$bullet;While under the effects of |cFF2959D3|Hspell:347504|h[Windrunner]|h|r, spells and abilities strike Sylvanas where she cast Windrunner.
+$bullet;Sylvanas' |cFF2959D3|Hspell:348145|h[Rive]|h|r, |cFF2959D3|Hspell:355540|h[Ruin]|h|r, and |cFF2959D3|Hspell:354147|h[Raze]|h|r are deadly if not avoided.","2441","2","22886","0","22889","3","0","0","0","0","0","2","255"
+"22889","Healers","$bullet;|cFF2959D3|Hspell:347670|h[Shadow Dagger]|h|r inflicts significant damage to affected targets.
+$bullet;Sylvanas' |cFF2959D3|Hspell:348145|h[Rive]|h|r, |cFF2959D3|Hspell:355540|h[Ruin]|h|r, and |cFF2959D3|Hspell:354147|h[Raze]|h|r are deadly if not avoided.","2441","3","22886","0","22887","3","0","0","0","0","0","4","255"
+"22890","Stage Three: The Freedom of Choice","""Nothing can stop what is to come.""
+
+Sylvanas follows the players' traversal, greeting them for the final showdown between Death and inevitability in the Jailer's master plan.","2441","72","0","23551","0","0","0","0","0","0","0","0","255"
+"22891","Intermission: A Monument to our Suffering","""You are unfit to wear this crown.""
+
+Upon reaching $348143s1% health, Sylvanas chains all players with |cFF2959D3|Hspell:349458|h[Domination Chains]|h|r, then casts |cFF2959D3|Hspell:348145|h[Rive]|h|r, destroying the tower itself.","2441","23","0","23768","23067","0","0","0","0","0","0","0","255"
+"22892","Overview","The Eye of the Jailer fights players directly on the platform at first. Upon reaching 66%, and 33% health remaining, the Eye of the Jailer unleashes two of its Deathseeker Eyes to assault players on the platform and retreats to fight from a distance.
+
+When all of its Deathseeker Eyes have been defeated the Eye of the Jailer becomes enraged, unleashing |cFF2959D3|Hspell:348969|h[Immediate Extermination]|h|r and beginning its final assault.","2442","1","0","22893","23592","3","0","0","0","0","0","0","255"
+"22893","Tanks","$bullet;|cFF2959D3|Hspell:350828|h[Deathlink]|h|r will damage other people in the raid for the amount of damage you take.
+
+$bullet;|cFF2959D3|Hspell:350816|h[Spreading Misery]|h|r will always hit the Deathseeker Eye's primary target and one other random target.
+
+$bullet;Deathseeker Eyes will repeatedly cast |cFF2959D3|Hspell:351826|h[Suffering]|h|r if brought too close to each other.","2442","2","22892","0","22894","3","0","0","0","0","0","1","255"
+"22894","Damage Dealers","$bullet;If Deathseeker Eyes do not die together, the dead one will continuously pulse |cFF2959D3|Hspell:351826|h[Suffering]|h|r.
+
+$bullet;|cFF2959D3|Hspell:350847|h[Desolation Beam]|h|r will chain to other targets nearby on cast, increasing damage with each leap.
+
+$[15$bullet;|cFF2959D3|Hspell:349979|h[Dragging Chains]|h|r is reduced by each target hit by the effect.$]","2442","3","22892","0","22895","3","0","0","0","0","0","2","255"
+"22895","Healers","$bullet;|cFF2959D3|Hspell:350828|h[Deathlink]|h|r will damage other people in the raid for the amount of damage the primary target takes.
+
+$bullet;|cFF2959D3|Hspell:350713|h[Slothful Corruption]|h|r slows down ranged and casting speeds but does not slow down melee attack speed.
+
+$bullet;|cFF2959D3|Hspell:348969|h[Immediate Extermination]|h|r will eventually make healing impossible.","2442","4","22892","0","0","3","0","0","0","0","0","4","255"
+"22896","Stage One: His Gaze Upon You","","2442","6","0","23584","22897","0","0","0","0","0","1","0","255"
+"22897","Stage Two: Double Vision","","2442","17","0","23494","23375","0","0","0","0","0","1","0","255"
+"22898","Overview","The Painsmith's chamber is built from deadly spikes that erupt from the floor, activated by his weapons' attacks. 
+
+Upon reaching 70% and 40% health remaining Raznal will leap to his anvil to forge a new weapon, allowing him to activate spikes in devious new combinations.","2443","1","0","22899","23117","3","0","0","0","0","0","0","255"
+"22899","Tanks","$bullet;Deadly spikes erupt from the floor when Painsmith Raznal throws his weapon.
+$bullet;|cFF2959D3|Hspell:355568|h[Cruciform Axe]|h|r, |cFF2959D3|Hspell:348508|h[Reverberating Hammer]|h|r, and |cFF2959D3|Hspell:355778|h[Dualblade Scythe]|h|r inflict massive damage to nearby players upon impact.
+$[16$bullet;|cFF2959D3|Hspell:355534|h[Shadowsteel Embers]|h|r are created while Raznal is occupied with |cFF2959D3|Hspell:355525|h[Forge Weapon]|h|r.$]","2443","2","22898","0","22900","3","0","0","0","0","0","1","255"
+"22900","Damage Dealers","$bullet;Deadly spikes erupt from the floor when Painsmith Raznal throws his weapon.
+$bullet;|cFF2959D3|Hspell:352052|h[Spiked Balls]|h|r roll across the chamber and inflict massive damage to anyone caught in their path.
+$[14,15,16$bullet;$bullet;|cFF2959D3|Hspell:355504|h[Shadowsteel Chains]|h|r inflict damage to nearby players and knock them back.$]
+$[17$bullet;$bullet;|cFF2959D3|Hspell:355504|h[Shadowsteel Chains]|h|r inflict damage to nearby players.$]","2443","3","22898","0","22901","3","0","0","0","0","0","2","255"
+"22901","Healers","$bullet;Deadly spikes erupt from the floor when Painsmith Raznal throws his weapon.
+$bullet;|cFF2959D3|Hspell:348508|h[Reverberating Hammer]|h|r, |cFF2959D3|Hspell:355568|h[Cruciform Axe]|h|r, and |cFF2959D3|Hspell:355778|h[Dualblade Scythe]|h|r inflict massive damage to nearby players upon impact.
+$[14,15,16$bullet;$bullet;|cFF2959D3|Hspell:355504|h[Shadowsteel Chains]|h|r inflict damage to nearby players and knock them back.$]
+$[17$bullet;$bullet;|cFF2959D3|Hspell:355504|h[Shadowsteel Chains]|h|r inflict damage to nearby players.$]","2443","4","22898","0","0","3","0","0","0","0","0","4","255"
+"22904","Overview","The Remnant of Nerzhul periodically manifests Orbs of Torment, that inflict damage to all players until they are they are slain and thrown from the platform.
+At 80%, 60%, and 30% health remaning, a piece of the armor encasing the Remnant of Ner'zhul shatters away, increasing the intensity of |cFF2959D3|Hspell:350671|h[Aura of Spite]|h|r.","2444","1","0","22905","23301","3","0","0","0","0","0","0","255"
+"22905","Tanks","$bullet;The Remnant of Ner'zhul uses |cFF2959D3|Hspell:349890|h[Suffering]|h|r when reaching 100 energy.
+$bullet;Orbs of Torment take reduced damage until struck with |cFF2959D3|Hspell:349890|h[Suffering]|h|r.
+$bullet;|cFF2959D3|Hspell:350469|h[Curse of Malevolence]|h|r knocks back all players from the position of the victim upon removal.","2444","2","22904","0","22906","3","0","0","0","0","0","1","255"
+"22906","Damage Dealers","$bullet;Orbs of Torment take reduced damage until struck with |cFF2959D3|Hspell:349890|h[Suffering]|h|r.
+$bullet;|cFF2959D3|Hspell:350073|h[Torment]|h|r will inflict damage to all players until Orbs of Torment are thrown off the edge of the platform.
+$bullet;|cFF2959D3|Hspell:350469|h[Curse of Malevolence]|h|r knocks back all players from the position of the victim upon removal.","2444","3","22904","0","22907","3","0","0","0","0","0","2","255"
+"22907","Healers","$bullet;|cFF2959D3|Hspell:350073|h[Torment]|h|r will inflict damage to all players until Orbs of Torment are thrown off the edge of the platform.
+$bullet;|cFF2959D3|Hspell:350469|h[Curse of Malevolence]|h|r knocks back all players from the position of the victim upon removal and inflicts signifcant damage to the raid.
+$bullet;|cFF2959D3|Hspell:350469|h[Curse of Malevolence]|h|r can be dispelled.","2444","4","22904","0","0","3","0","0","0","0","0","4","255"
+"22908","Stage One: PH","","2444","17","0","23740","0","2","0","0","350671","0","0","0","255"
+"22909","Stage Two: PH","","2444","15","0","0","23305","2","0","0","349890","0","0","1","255"
+"22910","Overview","As Dormazain inflicts |cFF2959D3|Hspell:350217|h[Torment]|h|r to Garrosh Hellscream, he gains energy. Upon reaching 100 energy, Dormazain performs |cFF2959D3|Hspell:349985|h[Tormented Eruptions]|h|r.","2445","1","0","22912","23285","3","0","0","0","0","0","0","255"
+"22911","Tanks","$bullet;Snapping all |cFF2959D3|Hspell:348985|h[Warmonger Shackles]|h|r binding Garrosh interrupts |cFF2959D3|Hspell:351946|h[Hellscream]|h|r.
+$bullet;|cFF2959D3|Hspell:349985|h[Tormented Eruptions]|h|r inflicts heavy damage.
+$bullet;|cFF2959D3|Hspell:350422|h[Ruinblade]|h|r increases Physical damage taken.","2445","4","22910","0","0","3","0","0","0","0","0","1","255"
+"22912","Damage Dealers","$bullet;Snapping all |cFF2959D3|Hspell:348985|h[Warmonger Shackles]|h|r binding Garrosh interrupts |cFF2959D3|Hspell:351946|h[Hellscream]|h|r.
+$bullet;Mawsworn Agonizers cast |cFF2959D3|Hspell:351779|h[Agonizing Nova]|h|r and become more powerful if allowed to reach 100 energy or Garrosh, gaining |cFF2959D3|Hspell:350650|h[Defiance]|h|r.
+$bullet;|cFF2959D3|Hspell:350648|h[Brand of Torment]|h|r inflicts damage to allies and Mawsworn.","2445","2","22910","0","22913","3","0","0","0","0","0","2","255"
+"22913","Healers","$bullet;Snapping all |cFF2959D3|Hspell:348985|h[Warmonger Shackles]|h|r binding Garrosh will interrupt |cFF2959D3|Hspell:351946|h[Hellscream]|h|r.
+$bullet;|cFF2959D3|Hspell:349985|h[Tormented Eruptions]|h|r inflicts heavy damage.
+$bullet;|cFF2959D3|Hspell:350648|h[Brand of Torment]|h|r inflicts damage to allies and Mawsworn.","2445","3","22910","0","22911","3","0","0","0","0","0","4","255"
+"22915","Garrosh Hellscream","|cFF2959D3|Hspell:350217|h[Torment]|h|r inflicted upon Garrosh unleashes waves of Anima. Any Mawsworn allowed to reach Garrosh become empowered with |cFF2959D3|Hspell:350650|h[Defiance]|h|r.","2445","21","0","23379","23362","1","87839","0","0","0","0","0","255"
+"22916","Overview","Over the course of the encounter, the Guardian of the First Ones depletes its energy reserve. When the Guardian's Energy reaches 0 it activates |cFF2959D3|Hspell:352538|h[Purging Protocol]|h|r until it can link with an Energy Core.","2446","1","0","22917","23271","3","0","0","0","0","0","0","255"
+"22917","Tanks","$bullet; Standing in |cFF2959D3|Hspell:352394|h[Radiant Energy]|h|r greatly reduces the effects of |cFF2959D3|Hspell:350455|h[Unstable Energy]|h|r.
+$bullet; The Guardian will activate |cFF2959D3|Hspell:352385|h[Energizing Link]|h|r while standing near an Energy Core.
+$bullet; The Guardian gains significant attack speed while |cFF2959D3|Hspell:352538|h[Purging Protocol]|h|r is active.","2446","2","22916","0","22918","3","0","0","0","0","0","1","255"
+"22918","Damage Dealers","$bullet; Standing in |cFF2959D3|Hspell:352394|h[Radiant Energy]|h|r greatly reduces the effects of |cFF2959D3|Hspell:350455|h[Unstable Energy]|h|r.
+$bullet; |cFF2959D3|Hspell:356090|h[Threat Neutralization]|h|r inflicts substantial Arcane damage to the targeted player and nearby allies.","2446","3","22916","0","22919","3","0","0","0","0","0","2","255"
+"22919","Healers","$bullet; Standing in |cFF2959D3|Hspell:352394|h[Radiant Energy]|h|r greatly reduces the effects of |cFF2959D3|Hspell:350455|h[Unstable Energy]|h|r.
+$bullet; |cFF2959D3|Hspell:352538|h[Purging Protocol]|h|r inflicts increasing Arcane damage to all players until the Guardian links with an Energy Core.
+$bullet; |cFF2959D3|Hspell:356090|h[Threat Neutralization]|h|r inflicts substantial Arcane damage to the targeted player and nearby allies.","2446","4","22916","0","0","3","0","0","0","0","0","4","255"
+"22922","Overview","Fatescribe Roh-Kalo calls upon his attackers' fates, singling them out with |cFF2959D3|Hspell:350819|h[Call of Eternity]|h|r and building elaborate patterns of destruction with |cFF2959D3|Hspell:350355|h[Fated Conjunction]|h|r.
+
+At 70% and 40% health remaining, the Fatescribe uses |cFF2959D3|Hspell:351969|h[Realign Fate]|h|r to activate the Loom of Fates and draw from its considerable power. Realigning the runes to their true positions interrupts |cFF2959D3|Hspell:353122|h[Darkest Destiny]|h|r and forces the Fatescribe to resume his assault once more.
+
+When the Fatescribe's attempts are interrupted twice, he adds |cFF2959D3|Hspell:353195|h[Extemporaneous Fate]|h|r to his repertoire.","2447","1","0","22923","22926","3","0","0","0","0","0","0","255"
+"22923","Tanks","$bullet; The damage from |cFF2959D3|Hspell:351680|h[Invoke Destiny]|h|r is reduced the farther other players are from the eruption.
+$bullet; Shade of Destiny will trigger |cFF2959D3|Hspell:353435|h[Overwhelming Burden]|h|r if it reaches melee range with its target.
+$bullet; When Fatescribe Roh-Kalo first strikes a new melee target, he will cast |cFF2959D3|Hspell:353603|h[Diviner's Probe]|h|r several times, inflicting significant damage to his current target.","2447","2","22922","0","23827","3","0","0","0","0","0","1","255"
+"22924","Damage Dealers","$bullet; |cFF2959D3|Hspell:350568|h[Call of Eternity]|h|r erupts after a short time, leaving behind an |cFF2959D3|Hspell:350826|h[Echo of Eternity]|h|r and inflicting damage to all nearby allies.
+$bullet; |cFF2959D3|Hspell:354964|h[Runic Affinity]|h|r allows the manipulation of the Loom of Fates to prevent |cFF2959D3|Hspell:353122|h[Darkest Destiny]|h|r.
+$bullet; |cFF2959D3|Hspell:354365|h[Grim Portent]|h|r will erupt for massive damage if any selected players are not within their rune on expiration.","2447","5","22922","0","23829","3","0","0","0","0","2","2","0"
+"22925","Healers","$bullet; When Fatescribe Roh-Kalo first strikes a new melee target, he will cast |cFF2959D3|Hspell:353603|h[Diviner's Probe]|h|r several times, inflicting significant damage to his current target.
+$bullet; |cFF2959D3|Hspell:350568|h[Call of Eternity]|h|r erupts after a short time, leaving behind an |cFF2959D3|Hspell:350826|h[Echo of Eternity]|h|r and inflicting damage to all nearby allies.
+$bullet; |cFF2959D3|Hspell:354964|h[Runic Affinity]|h|r allows the manipulation of the Loom of Fates to prevent |cFF2959D3|Hspell:353122|h[Darkest Destiny]|h|r.","2447","7","22922","0","23830","3","0","0","0","0","2","4","0"
+"22926","Stage One: Scrying Fate","Fatescribe Roh-Kalo twists fate itself into a weapon, reading players and spells to exploit their predictable weaknesses.","2447","9","0","23563","22927","0","0","0","0","0","1","0","255"
+"22927","Stage Two: Defying Destiny","Fatescribe Roh-Kalo activates the Loom of Fates, seeking to invoke the players' |cFF2959D3|Hspell:353122|h[Darkest Destiny]|h|r.","2447","25","0","23510","23486","0","0","0","0","0","1","0","255"
 "22928","Section 5","","2393","27","22667","22669","0","2","0","0","342923","0","0","0","255"
+"22929","Overview","The P.O.S.T. Master pummels players with everything at its disposal, from crushingly heavy |cFF2959D3|Hspell:346967|h[Money Order]|h|rs to unidentified |cFF2959D3|Hspell:346286|h[Hazardous Liquids]|h|r.
+
+Upon reaching 100 energy, the P.O.S.T. Master activates the central mail portal, releasing |cFF2959D3|Hspell:346947|h[Unstable Goods]|h|r. Players must quickly deposit these into an active Delivery Portal to avoid an |cFF2959D3|Hspell:346297|h[Unstable Explosion]|h|r.","2436","1","0","22930","22958","3","0","0","0","0","0","0","255"
+"22930","Damage Dealers","$bullet;Throw |cFF2959D3|Hspell:346947|h[Unstable Goods]|h|r into an active Delivery Portal before they trigger |cFF2959D3|Hspell:346297|h[Unstable Explosion]|h|r.
+$bullet;Group up for |cFF2959D3|Hspell:346967|h[Money Order]|h|r, as its damage is shared among all players hit.","2436","2","22929","0","22931","3","0","0","0","0","1","2","255"
+"22931","Healer","$bullet;Throw |cFF2959D3|Hspell:346947|h[Unstable Goods]|h|r into an active Delivery Portal before they trigger |cFF2959D3|Hspell:346297|h[Unstable Explosion]|h|r.
+$bullet;Group up for |cFF2959D3|Hspell:346967|h[Money Order]|h|r, as its damage is shared among all players hit.
+$bullet;|cFF2959D3|Hspell:346742|h[Fan Mail]|h|r inflicts significant damage to all players.","2436","3","22929","0","22932","3","0","0","0","0","1","4","255"
+"22932","Tank","$bullet;Throw |cFF2959D3|Hspell:346947|h[Unstable Goods]|h|r into an active Delivery Portal before they trigger |cFF2959D3|Hspell:346297|h[Unstable Explosion]|h|r.
+$bullet;Group up for |cFF2959D3|Hspell:346967|h[Money Order]|h|r, as its damage is shared among all players hit.","2436","4","22929","0","0","3","0","0","0","0","1","1","255"
+"22933","Section 5","","2436","11","0","0","22965","2","0","0","346742","0","0","4","255"
+"22934","Section 6","","2436","8","0","22957","22933","2","0","0","346286","0","0","0","255"
+"22935","Section 7","","2436","10","22934","0","0","2","0","0","346329","0","0","0","255"
+"22938","Section 10","","2436","7","22958","0","0","2","0","0","346297","0","0","16","255"
 "22942","Section 60","","2420","6","21973","0","21975","2","0","0","325117","0","0","0","255"
 "22944","Section 42","","2426","31","22201","0","0","2","0","0","346660","0","0","0","255"
 "22945","Empowered with Anima","When both other council members are defeated, the remaining council member gains a final ability.","2426","32","22148","22959","22433","0","0","0","0","0","0","0","255"
@@ -17927,10 +18113,20 @@ $bullet;Reduce allies to <30% health when they are afflicted with |cFF2959D3|Hsp
 "22954","Image of Absolution","","2369","14","22953","22955","0","1","94424","0","0","0","0","8","255"
 "22955","Section 17","","2369","15","22954","0","22956","2","0","0","313208","0","0","8","255"
 "22956","Section 18","","2369","16","22954","0","0","2","0","0","313210","0","0","24","255"
+"22957","Section 15","","2436","9","22934","0","22935","2","0","0","346844","0","0","128","255"
+"22958","Section 16","","2436","5","0","23608","22934","2","0","0","346947","0","1","32","255"
 "22959","Section 45","","2426","33","22945","22961","22946","2","0","0","346939","0","2","8","0"
 "22961","Section 46","","2426","34","22959","0","0","2","0","0","346945","0","2","8","0"
 "22963","Section 47","","2426","44","22206","0","22207","2","0","0","346891","0","2","8","0"
 "22964","Section 48","","2426","19","22199","0","22208","2","0","0","346934","0","2","8","0"
+"22965","Section 14","","2436","12","0","0","0","2","0","0","346962","0","0","0","255"
+"22966","Section 7","","2435","33","0","22967","0","2","0","0","346985","0","2","1","0"
+"22967","Section 8","","2435","34","22966","0","0","2","0","0","346986","0","0","0","255"
+"22968","Chain Thing","","2435","26","0","22995","22969","2","0","0","347269","0","2","32","0"
+"22969","Hungering Mist","","2435","28","0","0","22970","2","0","0","347671","0","2","16","0"
+"22970","Howl Thing","","2435","29","0","22974","23043","2","0","0","347283","0","2","128","0"
+"22973","Grasp of Death","","2435","32","0","0","22966","2","0","0","347668","0","2","4","0"
+"22974","Howl Subspell","","2435","30","22970","0","0","2","0","0","347286","0","0","128","255"
 "22977","Section 50","","2426","52","22225","0","22978","2","0","0","346035","0","0","0","255"
 "22978","Section 49","","2426","53","22225","0","0","2","0","0","330848","0","0","0","255"
 "22982","Section 5","","2392","7","22991","22983","23080","2","0","0","320358","0","0","32","255"
@@ -17946,6 +18142,26 @@ $bullet;Reduce allies to <30% health when they are afflicted with |cFF2959D3|Hsp
 "22992","Section 41","","2426","10","22147","22993","22203","2","0","0","346692","0","0","0","255"
 "22993","Dutiful Attendant","","2426","11","22992","22994","0","1","94015","0","0","0","0","0","255"
 "22994","Section 12","","2426","12","22993","0","0","2","0","0","346694","0","0","0","255"
+"22995","Section 16","","2435","27","22968","0","0","2","0","0","347274","0","0","16","255"
+"22996","Overview","Hylbrande attacks players with aid from Vault Purifiers as well as the Titan Vault's built in defenses.
+
+Upon reaching 100 energy, Hylbrande begins a |cFF2959D3|Hspell:346766|h[Sanitizing Cycle]|h|r. Players must acquire Bypass Codes and input them into the correct Security Panels to avoid certain death. The Titan Console reveals the code layout.","2448","1","0","22997","23000","3","0","0","0","0","0","0","255"
+"22997","Damage Dealers","$bullet;|cFF2959D3|Hspell:346959|h[Purged by Fire]|h|r leaves behind purging fields that can make it dangerous to access panels.
+$bullet;Vault Purifiers aid Hylbrande with |cFF2959D3|Hspell:347015|h[Empowered Defense]|h|r, and lock out Security Panels during |cFF2959D3|Hspell:346766|h[Sanitizing Cycle]|h|r with |cFF2959D3|Hspell:347958|h[Keeper's Protection]|h|r.","2448","2","22996","0","22998","3","0","0","0","0","1","2","255"
+"22998","Healer","$bullet;|cFF2959D3|Hspell:346959|h[Purged by Fire]|h|r will focus damage on a player.
+$bullet;Players are likely to be very spread out during |cFF2959D3|Hspell:346766|h[Sanitizing Cycle]|h|r.","2448","3","22996","0","22999","3","0","0","0","0","1","4","255"
+"22999","Tank","$bullet;|cFF2959D3|Hspell:346116|h[Shearing Swings]|h|r and |cFF2959D3|Hspell:347094|h[Titanic Crash]|h|r both hit all players in front of Hylbrande.
+$bullet;Vault Purifiers aid Hylbrande with |cFF2959D3|Hspell:347015|h[Empowered Defense]|h|r, and lock out Security Panels during |cFF2959D3|Hspell:346766|h[Sanitizing Cycle]|h|r with |cFF2959D3|Hspell:347958|h[Keeper's Protection]|h|r.","2448","4","22996","0","0","3","0","0","0","0","1","1","255"
+"23000","Section 5","","2448","5","0","0","23001","2","0","0","346116","970853","0","1","255"
+"23001","Section 6","","2448","6","0","0","23002","2","0","0","347094","0","0","0","255"
+"23002","Section 7","","2448","7","0","23014","23003","2","0","0","346959","0","0","0","255"
+"23003","Sanitizing Cycle","Hylbrande channels titan power from the chamber to purge all unauthorized life forms as a safety measure, becoming immune to damage and filling the room with a |cFF2959D3|Hspell:346828|h[Sanitizing Field]|h|r.
+
+Bypass Codes appear near Hylbrande and can be picked up by players and deposited into nearby Security Panels.
+
+Players can channel on the Titan Console in the rear of the chamber to confirm where each code must be placed.","2448","9","0","23758","23004","2","0","0","0","135949","1","48","255"
+"23004","Vault Purifier","Vault Purifiers join the fight two at a time as Hylbrande calls for them.","2448","11","0","23005","0","1","100495","0","0","0","0","2","255"
+"23005","Section 9","","2448","12","23004","0","23549","2","0","0","347015","0","0","0","255"
 "23009","Section 113","$[!16
 
 In Mythic difficulty, this effect cannot be removed by player immunities.$]","2425","70","22685","0","22818","2","0","0","333913","0","2","0","0"
@@ -17953,9 +18169,86 @@ In Mythic difficulty, this effect cannot be removed by player immunities.$]","24
 "23011","Section 114","","2425","9","22813","0","22816","2","0","0","333913","0","2","8192","0"
 "23012","Section 108","","2425","111","22324","0","22809","2","0","0","343881","0","2","8193","0"
 "23013","Section 109","","2425","16","22688","0","22808","2","0","0","343881","0","2","8193","0"
+"23014","Section 14","","2448","8","23002","0","0","2","0","0","346961","0","0","0","255"
+"23015","Overview","Timecap'n Hooktail commands her infamous pirate ship, The Hourglass, to |cFF2959D3|Hspell:347370|h[Cannon Barrage]|h|r the beach while she engages players in close combat.
+
+Corsair Brutes grapple from the deck to support their captain, but her |cFF2959D3|Hspell:347149|h[Infinite Breath]|h|r and |cFF2959D3|Hspell:347151|h[Hook Swipe]|h|r are deadly for players and Corsairs alike.
+
+Upon reaching 100 energy, Hooktail uses her infinite magics to greatly empower her allies with |cFF2959D3|Hspell:350517|h[Double Time]|h|r.","2449","1","0","23016","23019","3","0","0","0","0","0","0","255"
+"23016","Damage Dealers","$bullet;Hooktail's |cFF2959D3|Hspell:347149|h[Infinite Breath]|h|r can damage and stun players, but it also kills Corsair Brutes instantly.
+$bullet;Corsair Brutes become much more threatening when empowered by |cFF2959D3|Hspell:350517|h[Double Time]|h|r.
+$bullet;|cFF2959D3|Hspell:352345|h[Anchor Shot]|h|r is especially dangerous for players who are close to the ship.","2449","2","23015","0","23017","3","0","0","0","0","0","2","255"
+"23017","Healer","$bullet;Hooktail's |cFF2959D3|Hspell:347149|h[Infinite Breath]|h|r can damage and stun players, but it also kills Corsair Brutes instantly.
+$bullet;Corsair Brutes become much more threatening when empowered by |cFF2959D3|Hspell:350517|h[Double Time]|h|r.
+$bullet;|cFF2959D3|Hspell:352345|h[Anchor Shot]|h|r is especially dangerous for players who are close to the ship.","2449","3","23015","0","23018","3","0","0","0","0","0","4","255"
+"23018","Tank","$bullet;Hooktail can use |cFF2959D3|Hspell:347151|h[Hook Swipe]|h|r to damage and stun players near her tail.
+$bullet;Hooktail's |cFF2959D3|Hspell:347149|h[Infinite Breath]|h|r can damage and stun players, but it also kills Corsair Brutes instantly.
+$bullet;Corsair Brutes become much more threatening when empowered by |cFF2959D3|Hspell:350517|h[Double Time]|h|r.","2449","4","23015","0","0","3","0","0","0","0","0","1","255"
+"23019","Section 6","","2449","5","0","0","23020","2","0","0","347149","0","0","1","255"
+"23020","Section 7","","2449","6","0","23834","23462","2","0","0","347151","0","0","6","255"
+"23023","Section 10","","2449","11","23027","23845","23461","2","0","0","347370","0","0","0","255"
+"23025","Section 11","","2449","14","0","0","0","2","0","0","347422","0","0","16","255"
+"23027","Corsair Cannoneers","Hooktail's crew assists her from the ship by firing its cannons at players.","2449","10","0","23023","23025","1","87482","0","0","0","0","0","255"
 "23030","Section 48","","2426","18","22199","0","22964","2","0","0","346934","0","2","2056","0"
+"23031","Section 1","","2451","5","0","0","23032","2","0","0","347481","0","0","16","255"
+"23032","Section 2","","2451","6","0","0","23033","2","0","0","347392","0","0","32","255"
+"23033","Section 3","","2451","7","0","0","23034","2","0","0","347249","0","0","0","255"
+"23034","Section 4","","2451","8","0","0","23042","2","0","0","357188","0","0","80","255"
+"23038","Overview","So'azmi deploys |cFF2959D3|Hspell:347426|h[Relocators]|h|r which players must use to avoid his |cFF2959D3|Hspell:347481|h[Shuri]|h|r ability.
+As the fight progresses, So'azmi |cFF2959D3|Hspell:347249|h[Divides]|h|r the playspace to impede players' movement and make his other abilities more difficult to deal with.
+After |cFF2959D3|Hspell:347249|h[Dividing]|h|r the playspace, So'azmi prepares his deadly |cFF2959D3|Hspell:357188|h[Double Technique]|h|r, which must be interrupted multiple times.","2451","1","0","23040","23031","3","0","0","0","0","0","0","255"
+"23039","Tank","$bullet;Use |cFF2959D3|Hspell:347426|h[Relocators]|h|r to avoid the damage of |cFF2959D3|Hspell:347481|h[Shuri]|h|r.
+$bullet;|cFF2959D3|Hspell:357188|h[Double Technique]|h|r must be interrupted multiple times to prevent its damage.","2451","4","23038","0","0","3","0","0","0","0","0","1","255"
+"23040","Damage Dealers","$bullet;Use |cFF2959D3|Hspell:347426|h[Relocators]|h|r to avoid the damage of |cFF2959D3|Hspell:347481|h[Shuri]|h|r.
+$bullet;|cFF2959D3|Hspell:357188|h[Double Technique]|h|r must be interrupted multiple times to prevent its damage.","2451","2","23038","0","23041","3","0","0","0","0","0","2","255"
+"23041","Healer","$bullet;Use |cFF2959D3|Hspell:347426|h[Relocators]|h|r to avoid the damage of |cFF2959D3|Hspell:347481|h[Shuri]|h|r.
+$bullet;|cFF2959D3|Hspell:357188|h[Double Technique]|h|r must be interrupted multiple times to prevent its damage.","2451","3","23038","0","23039","3","0","0","0","0","0","4","255"
+"23042","Section 12","","2451","9","0","0","0","2","0","0","347623","0","0","8192","255"
+"23043","Section 17","","2435","31","0","0","22973","2","0","0","347490","0","2","2048","0"
+"23047","Section 10","","2437","10","0","23498","23049","2","0","0","345770","0","0","0","255"
+"23048","Section 10","","2437","6","22857","23499","0","2","0","0","345990","0","0","0","255"
+"23049","Section 11","","2437","12","0","0","0","2","0","0","347964","0","0","0","255"
+"23051","Section 9","","2441","82","23551","0","23055","2","0","0","347609","0","0","0","255"
+"23055","Section 11","","2441","83","23551","0","23542","2","0","0","347704","0","0","32","255"
+"23057","Stage One: A Cycle of Hatred","""We have forgotten what makes us strong.""
+
+Players battle against Sylvanas atop Torghast while the Jailer remains elusive.","2441","5","0","23257","22891","0","0","0","0","0","1","0","255"
+"23059","Section 9","","2441","18","23057","23839","23463","2","0","0","358704","0","2","4096","0"
+"23062","Section 10","","2441","10","23257","0","0","2","0","0","347670","0","0","4","255"
+"23065","Section 11","","2441","16","23057","0","23838","2","0","0","347704","0","2","0","0"
+"23066","Section 8","","2441","11","23057","23751","23820","2","0","0","349458","0","0","32","255"
+"23067","Stage Two: The Banshee Queen","""What are we if not slaves to this torment?""
+
+Sylvanas enters |cFF2959D3|Hspell:348146|h[Banshee Form]|h|r, taking to the skies to waylay players' pursuit of the Jailer as he ascends. Thrall and Jaina lend their aid, and cast |cFF2959D3|Hspell:348092|h[Call Earth]|h|r and |cFF2959D3|Hspell:348147|h[Channel Ice]|h|r, respectively, after defeating the Mawforged commanders.","2441","29","0","23068","22890","0","0","0","0","0","0","0","255"
+"23068","Sylvanas Windrunner","","2441","30","23067","23652","23069","1","95032","0","0","0","1","0","255"
+"23069","Forces of the Maw","The Jailer's forces continually flood into the fray. Defeating their Mawforged leaders allows Thrall and Jaina to progress.","2441","39","23067","23819","0","0","0","0","0","0","1","0","255"
+"23073","Mawsworn Hopebreaker","","2441","45","23069","23351","23353","1","98549","0","0","0","0","0","255"
+"23074","Section 29","","2441","26","22891","23514","23519","2","0","0","348145","0","0","16","255"
+"23075","Section 32","","2441","35","23068","23327","23808","2","0","0","348146","0","1","0","255"
+"23076","Section 30","","2441","33","23068","0","23077","2","0","0","347704","0","0","0","255"
+"23077","Section 31","","2441","34","23068","0","23075","2","0","0","348109","0","0","0","255"
 "23080","Section 5","","2392","12","22991","23081","22989","2","0","0","327664","0","0","0","255"
 "23081","Section 12","","2392","13","23080","0","0","2","0","0","320366","0","0","0","255"
+"23082","Section 25","","2403","16","0","23083","22359","2","0","0","348159","0","2","0","1"
+"23083","Pestilence Slime","","2403","17","23082","23084","0","1","33010","0","0","0","2","0","1"
+"23084","Section 27","","2403","18","23083","0","23085","2","0","0","331967","0","2","0","1"
+"23085","Section 28","","2403","19","23083","0","0","2","0","0","321999","0","2","0","1"
+"23092","Overview","Each player selects an instrument to play, and must try to hit their notes as waves of belligerent patrons periodically rush the stage.
+
+When enough patrons have been defeated, Zo'gron himself steps in to put an end to the performance.","2452","1","0","23093","23100","3","0","0","0","0","0","0","255"
+"23093","Tanks","$bullet;Hitting notes with instruments makes you |cFF2959D3|Hspell:348567|h[Jazzy]|h|r, increasing your haste. A flawless performance grants you |cFF2959D3|Hspell:358311|h[Up Tempo!]|h|r
+$bullet;Oasis Security staff inflict heavy damage with |cFF2959D3|Hspell:350916|h[Security Slam]|h|r and |cFF2959D3|Hspell:350922|h[Menacing Shout]|h|r.
+$bullet;Zo'gron inflicts additional damage when players are in close proximity to each other with |cFF2959D3|Hspell:355438|h[Suppression Spark]|h|r.","2452","2","23092","0","23094","3","0","0","0","0","0","1","255"
+"23094","Damage Dealers","$bullet;Hitting notes with instruments makes you |cFF2959D3|Hspell:348567|h[Jazzy]|h|r, increasing your haste. A flawless performance grants you |cFF2959D3|Hspell:358311|h[Up Tempo!]|h|r
+$bullet;Oasis patrons will become |cFF2959D3|Hspell:353706|h[Rowdy]|h|r if not defeated quicly.
+$bullet;Zo'gron inflicts additional damage when players are in close proximity to each other with |cFF2959D3|Hspell:355438|h[Suppression Spark]|h|r.","2452","3","23092","0","23095","3","0","0","0","0","0","2","255"
+"23095","Healers","$bullet;Hitting notes with instruments makes you |cFF2959D3|Hspell:348567|h[Jazzy]|h|r, increasing your haste. A flawless performance grants you |cFF2959D3|Hspell:358311|h[Up Tempo!]|h|r
+$bullet;Oasis Security staff inflict heavy damage with |cFF2959D3|Hspell:350916|h[Security Slam]|h|r and |cFF2959D3|Hspell:350922|h[Menacing Shout]|h|r.
+$bullet;Zo'gron inflicts additional damage when players are in close proximity to each other with |cFF2959D3|Hspell:355438|h[Suppression Spark]|h|r.","2452","4","23092","0","0","3","0","0","0","0","0","4","255"
+"23096","Stage One: Unruly Patrons","Oasis clientele periodically rush the stage to put an end to the performance.","2452","13","0","23750","23749","0","0","0","0","0","0","0","255"
+"23097","Speakeasy Security","","2452","24","23523","0","0","2","0","0","350922","0","0","64","255"
+"23098","Zo'gron","","2452","26","23749","23330","0","1","100497","0","0","0","1","0","255"
+"23100","A Pentatonic Performance","Grab an instrument and perform for Au'myza by hitting notes that appear on stage.","2452","5","0","23822","23096","2","0","0","0","0","1","0","255"
 "23101","Stone Legion Goliath","","2425","31","22760","23102","22791","1","95707","0","0","0","1","0","255"
 "23102","Section 38","","2425","32","23101","23103","23104","2","0","0","342694","0","2","0","0"
 "23103","Section 39","","2425","33","23102","0","0","2","0","0","339885","0","2","0","0"
@@ -17965,4 +18258,538 @@ In Mythic difficulty, this effect cannot be removed by player immunities.$]","24
 "23107","Section 43","","2425","37","23101","0","23108","2","0","0","342733","0","0","4096","255"
 "23108","Section 128","","2425","38","23101","0","23109","2","0","0","342741","0","0","4096","255"
 "23109","Section 42","","2425","39","23101","0","0","2","0","0","343898","0","0","0","255"
+"23114","Section 12","","2443","18","23117","0","23794","2","0","0","355504","0","0","0","255"
+"23117","Stage One: A Chamber of Agony","The Painsmith wields an Instrument of Pain amidst razor sharp spikes that erupt from the floor.","2443","5","0","23642","23638","0","0","0","0","0","1","0","255"
+"23118","Section 8","","2443","17","23117","0","23114","2","0","0","352052","0","2","2","0"
+"23149","Section 15","","2437","9","0","0","23047","2","0","0","348128","0","0","1","255"
 "23152","Section 42","","2425","92","22800","0","0","2","0","0","332412","0","2","4096","0"
+"23155","Overview","At the start of the encounter Alcruux will cast |cFF2959D3|Hspell:349627|h[Gluttony]|h|r which will remain until the end of the encounter, transfering to the closest player upon expiration. 
+
+When Alcruux reaches $358629s1% health, Achillite will be activated and after starting up will enter the encounter. Achillite will occasionally channel |cFF2959D3|Hspell:349987|h[Venting Protocol]|h|r, releasing anima orbs that explode upon contact. The player with |cFF2959D3|Hspell:349627|h[Gluttony]|h|r can consume the anima orbs, gaining a stack of |cFF2959D3|Hspell:350010|h[Devoured Anima]|h|r.
+
+When Achillite reaches $358629s1% health, Venza will attempt to steal the Edge of Annihilation and after being corrupted will enter the encounter.","2454","1","0","23156","23159","3","0","0","0","0","0","0","255"
+"23156","Damage Dealers","$bullet;While afflicted with |cFF2959D3|Hspell:349627|h[Gluttony]|h|r you can absorb |cFF2959D3|Hspell:349989|h[Volatile Anima]|h|r to gain |cFF2959D3|Hspell:350010|h[Devoured Anima]|h|r.
+$bullet;The pull of |cFF2959D3|Hspell:350090|h[Whirling Annihilation]|h|r intensifies over time, making it more difficult to avoid the longer you remain nearby.
+$bullet;|cFF2959D3|Hspell:350101|h[Chains of Damnation]|h|r can be deadly if not destroyed quickly.","2454","2","23155","0","23157","3","0","0","0","0","0","2","255"
+"23157","Healer","$bullet;While afflicted with |cFF2959D3|Hspell:349627|h[Gluttony]|h|r you can absorb |cFF2959D3|Hspell:349989|h[Volatile Anima]|h|r to gain |cFF2959D3|Hspell:350010|h[Devoured Anima]|h|r.
+$bullet;|cFF2959D3|Hspell:349934|h[Flagellation Protocol]|h|r can inflict heavy damage if not interrupted.
+$bullet;The pull of |cFF2959D3|Hspell:350090|h[Whirling Annihilation]|h|r intensifies over time, making it more difficult to avoid the longer you remain nearby.","2454","3","23155","0","23158","3","0","0","0","0","0","4","255"
+"23158","Tank","$bullet;|cFF2959D3|Hspell:349934|h[Flagellation Protocol]|h|r can inflict heavy damage if not interrupted.
+$bullet;The pull of |cFF2959D3|Hspell:350090|h[Whirling Annihilation]|h|r intensifies over time, making it more difficult to avoid the longer you remain nearby.","2454","4","23155","0","0","3","0","0","0","0","0","1","255"
+"23159","Alcruux","","2454","5","0","23160","23231","1","95375","0","0","0","0","0","255"
+"23160","Section 6","","2454","6","23159","23293","23161","2","0","0","349627","0","0","0","255"
+"23161","Section 7","","2454","8","23159","0","23184","2","0","0","349663","0","0","0","255"
+"23179","Section 21","","2442","20","23409","0","23661","2","0","0","349028","0","0","4","255"
+"23184","Section 8","","2454","9","23159","0","0","2","0","0","349797","0","0","0","255"
+"23185","Titanic Death Gaze","","2442","22","23409","0","23492","2","0","0","355914","0","2","16","0"
+"23195","Section 7","","2440","9","22884","23224","23448","2","0","0","348071","0","0","1","255"
+"23198","Section 10","","2440","17","22884","23781","23790","2","0","0","347291","0","2","0","0"
+"23199","Section 11","","2440","21","22884","23785","23200","2","0","0","348756","0","0","16","255"
+"23200","Section 12","","2440","23","22884","0","0","2","0","0","348953","0","0","1","255"
+"23201","Stage Three: The Final Stand","With the phylactery destroyed, true death awaits. Kel'Thuzad unleashes his full power to make his violent last stand.","2440","46","0","23846","0","0","0","0","0","0","0","0","255"
+"23202","Kyra, The Unending","Kyra stands at the ready with her blade, prepared to strike down her foes.","2439","7","22877","23221","23203","1","94391","0","0","0","0","0","255"
+"23203","Signe, The Voice","Signe speaks to lost souls, twisting their thoughts.","2439","13","22877","23223","23468","1","94390","0","0","0","0","0","255"
+"23205","Skyja, The First","Skyja was the first to swear fealty to the powers of the Maw.","2439","81","22879","23420","23206","1","94397","0","0","0","0","0","255"
+"23206","Call of the Val'kyr","","2439","91","22879","23207","0","2","0","0","350467","0","0","32","255"
+"23207","Agatha's Eternal Blade","","2439","92","23206","0","23208","2","0","0","350031","1376744","0","0","255"
+"23208","Daschla's Mighty Anvil","","2439","93","23206","0","23209","2","0","0","350184","132318","0","0","255"
+"23209","Annhylde's Bright Aegis","","2439","94","23206","0","23210","2","0","0","350157","1320371","0","0","255"
+"23210","Aradne's Falling Strike","","2439","95","23206","0","23211","2","0","0","350098","2103905","0","0","255"
+"23211","Brynja's Mournful Dirge","","2439","96","23206","0","23212","2","0","0","350109","460699","0","0","255"
+"23212","Arthura's Crushing Gaze","","2439","97","23206","0","0","2","0","0","350039","136215","0","0","255"
+"23213","Call of the Val'kyr","","2439","19","22877","23214","0","2","0","0","350467","0","0","32","255"
+"23214","Agatha's Eternal Blade","","2439","20","23213","0","23215","2","0","0","350031","1376744","0","0","255"
+"23215","Daschla's Mighty Anvil","","2439","21","23213","0","23216","2","0","0","350184","132318","0","0","255"
+"23216","Annhylde's Bright Aegis","","2439","22","23213","0","23217","2","0","0","350157","1320371","0","0","255"
+"23217","Aradne's Falling Strike","","2439","23","23213","0","23218","2","0","0","350098","2103905","0","0","255"
+"23218","Brynja's Mournful Dirge","","2439","24","23213","0","23219","2","0","0","350109","460699","0","0","255"
+"23219","Arthura's Crushing Gaze","","2439","25","23213","0","0","2","0","0","350039","136215","0","0","255"
+"23220","Unending Strike","","2439","11","23202","23247","0","2","0","0","350202","0","0","1","255"
+"23221","Wings of Rage","","2439","8","23202","0","23263","2","0","0","350365","0","0","0","255"
+"23222","Soulful Blast","","2439","16","23203","0","0","2","0","0","350283","0","0","64","255"
+"23223","Reverberating Refrain","","2439","14","23203","0","23262","2","0","0","350385","0","0","0","255"
+"23224","Soul Shard","","2440","10","23195","23225","0","2","0","0","357275","0","0","0","255"
+"23225","Section 15","","2440","11","23224","0","23226","2","0","0","348428","0","0","0","255"
+"23226","Section 16","","2440","12","23224","0","0","2","0","0","348978","0","0","0","255"
+"23231","Achillite","","2454","10","0","23235","23241","1","92534","0","0","0","0","0","255"
+"23232","Section 10","","2454","13","23231","0","23233","2","0","0","349934","0","0","0","255"
+"23233","Section 11","","2454","14","23231","0","0","2","0","0","349954","0","0","0","255"
+"23235","Section 13","","2454","11","23231","23732","23232","2","0","0","349987","0","0","0","255"
+"23240","Stygian Abductors","","2442","45","23375","23378","23634","1","94399","0","0","0","2","40","0"
+"23241","Venza Goldfuse","","2454","15","0","23242","0","1","100564","0","0","0","0","0","255"
+"23242","Section 15","","2454","16","23241","0","23243","2","0","0","350090","0","0","16","255"
+"23243","Section 16","","2454","17","23241","0","0","2","0","0","350101","0","0","0","255"
+"23246","Section 7","","2447","56","23486","0","23325","2","0","0","350355","0","0","16","255"
+"23247","Section 30","","2439","12","23220","0","0","2","0","0","350206","0","0","0","255"
+"23254","Energy Cores","","2446","14","0","23733","0","1","100789","0","0","0","1","0","255"
+"23255","Section 7","","2441","89","23551","0","0","2","0","0","347928","0","0","0","255"
+"23257","Section 30","","2441","6","23057","23843","23066","2","0","0","347504","0","0","0","255"
+"23258","Section 32","","2441","9","23257","0","23062","2","0","0","348627","0","0","0","255"
+"23262","Song of Dissolution","","2439","15","23203","0","23222","2","0","0","350287","0","0","64","255"
+"23263","Formless Mass","Kyra calls forth a formless mass of Maw energy that only exists to devour life.","2439","9","23202","23264","23220","1","94281","0","0","0","0","2","255"
+"23264","Siphon Vitality","","2439","10","23263","0","0","2","0","0","350339","0","0","64","255"
+"23265","Pierce Soul","","2439","89","23205","0","23382","2","0","0","350475","0","0","1","255"
+"23267","Fragments of Destiny","","2439","88","23205","0","23265","2","0","0","350482","0","2","0","0"
+"23269","Word of Recall","$[!16
+
+In Mythic difficulty, Word of Recall periodically calls the spirits of Kyra and Signe to the battlefield.$]","2439","85","23205","23470","23267","2","0","0","350687","0","2","0","0"
+"23270","Section 7","","2447","55","23486","0","23246","2","0","0","353931","0","0","0","255"
+"23271","Section 12","","2446","5","0","0","23473","2","0","0","352538","0","1","48","255"
+"23274","Section 10","","2446","9","0","23515","23276","2","0","0","352660","0","0","0","255"
+"23276","Section 13","$[!16 
+
+In Mythic difficulty, striking an Energy Core with this effect restores energy.$]","2446","12","0","0","23472","2","0","0","356090","0","0","0","255"
+"23280","Section 16","","2446","16","23254","0","23465","2","0","0","352385","0","0","0","255"
+"23283","Section 7","","2445","11","0","0","23287","2","0","0","350422","0","0","1","255"
+"23285","Section 9","","2445","5","0","0","23286","2","0","0","350217","0","1","16","255"
+"23286","Section 10","","2445","6","0","0","23288","2","0","0","349985","0","1","16","255"
+"23287","Section 11","","2445","12","0","23385","23517","2","0","0","350648","0","0","0","255"
+"23288","Section 12","","2445","7","0","23333","23283","2","0","0","348985","0","0","0","255"
+"23289","Mawsworn Agonizer","Mawsworn Agonizers attempt to advance towards Garrosh to continue the task of tormenting him. Upon reaching Garrosh or 100 energy, the become suffused with |cFF2959D3|Hspell:350650|h[Defiance]|h|r, becoming immune to crowd control effects and dealing increased damage.","2445","18","0","23290","22915","1","97237","0","0","0","0","0","255"
+"23290","Section 14","","2445","19","23289","0","23291","2","0","0","351779","0","0","64","255"
+"23291","Section 15","","2445","20","23289","0","0","2","0","0","350650","0","0","0","255"
+"23293","Section 17","","2454","7","23160","0","0","2","0","0","350010","0","0","0","255"
+"23294","Unruly Patron","","2452","21","23328","0","0","2","0","0","353835","0","0","0","255"
+"23297","Section 10","","2452","9","23100","0","23298","2","0","0","349026","0","0","0","255"
+"23298","Section 10","","2452","10","23100","0","23299","2","0","0","349771","0","0","0","255"
+"23299","Section 10","","2452","11","23100","0","23821","2","0","0","349789","0","0","0","255"
+"23301","Orb of Torment","|cFF2959D3|Hspell:350073|h[Torments]|h|r players until it is carried to the edge of the platform and thrown off.","2444","5","0","23739","23575","1","100681","0","0","0","0","32","255"
+"23303","Section 9","","2444","7","23301","0","23628","2","0","0","350073","0","0","0","255"
+"23305","Section 12","","2444","16","0","0","22908","2","0","0","350076","0","0","0","255"
+"23307","Section 14","","2444","13","0","23636","22909","2","0","0","350469","0","0","144","255"
+"23313","Section 10","","2452","8","23100","0","23297","2","0","0","350731","0","0","0","255"
+"23314","Section 10","","2452","7","23822","0","0","2","0","0","359019","0","1","0","255"
+"23320","Overview","So'leah calls on assassins and uses powerful broker magic to assault players until she can unlock the artifact's power and recklessly wield it with devastating effect.","2455","1","0","23322","23344","3","0","0","0","0","0","0","255"
+"23321","Tank","$bullet;|cFF2959D3|Hspell:350799|h[Collapsing Star]|h|r inflicts substantial damage to all party members when discharged.
+$bullet;Coordinate with allies to disrupt So'leah's |cFF2959D3|Hspell:351086|h[Power Overwhelming]|h|r.","2455","4","23320","0","0","3","0","0","0","0","0","1","255"
+"23322","Damage Dealers","$bullet;Coordinate with allies to disrupt So'leah's |cFF2959D3|Hspell:351086|h[Power Overwhelming]|h|r.
+$bullet;|cFF2959D3|Hspell:350799|h[Collapsing Star]|h|r inflicts substantial damage to all party members when discharged.","2455","2","23320","0","23323","3","0","0","0","0","0","2","255"
+"23323","Healer","$bullet;Coordinate with allies to disrupt So'leah's |cFF2959D3|Hspell:351086|h[Power Overwhelming]|h|r.
+$bullet;|cFF2959D3|Hspell:350799|h[Collapsing Star]|h|r inflicts substantial damage to all party members when discharged.","2455","3","23320","0","23321","3","0","0","0","0","0","4","255"
+"23325","Section 9","","2447","57","23486","23812","23484","2","0","0","350819","0","2","0","0"
+"23326","Section 10","","2447","59","23325","23810","0","2","0","0","350826","0","2","8","0"
+"23327","Section 36","","2441","36","23075","0","0","2","0","0","350857","0","1","0","255"
+"23328","Disruptive Patron","","2452","18","23096","23530","23523","1","93590","0","0","0","1","0","255"
+"23329","Unruly Patron","","2452","17","23522","0","0","2","0","0","348566","0","0","0","255"
+"23330","Section 17","","2452","27","23098","0","23637","2","0","0","355438","0","0","32","255"
+"23331","Section 17","","2452","30","23098","0","0","2","0","0","350922","0","0","64","255"
+"23332","Section 17","","2452","23","23523","0","23097","2","0","0","350916","0","0","1","255"
+"23333","Section 16","","2445","8","23288","0","23415","2","0","0","350801","0","0","4","255"
+"23337","Section 6","","2455","15","23340","0","23406","2","0","0","351096","0","0","0","255"
+"23338","Section 7","","2455","14","23340","0","23337","2","0","0","350799","0","0","36","255"
+"23340","Stage Two: Power Overwhelming","At $357693s1% health remaining So'leah draws her relics into the arena to transform herself.","2455","11","0","23346","0","0","0","0","0","0","1","0","255"
+"23341","Section 10","","2455","13","23340","0","23338","2","0","0","350885","0","0","32","255"
+"23342","Section 7","","2455","7","23344","0","23359","2","0","0","350799","0","0","36","255"
+"23344","Stage One: Final Preparations","","2455","5","0","23345","23340","0","0","0","0","0","1","0","255"
+"23345","Section 12","","2455","6","23344","0","23342","2","0","0","350796","0","0","0","255"
+"23346","Section 12","","2455","12","23340","0","23341","2","0","0","351086","0","1","32","255"
+"23348","Mawsworn Vanguard","","2441","42","23069","23349","23073","1","92410","0","0","0","0","0","255"
+"23349","Section 45","","2441","43","23348","0","23350","2","0","0","350865","0","1","0","255"
+"23350","Section 46","","2441","44","23348","0","0","2","0","0","351075","0","3","8","0"
+"23351","Section 43","","2441","46","23073","0","23352","2","0","0","351109","0","3","8","0"
+"23352","Section 44","","2441","47","23073","0","0","2","0","0","351092","0","1","0","255"
+"23353","Mawforged Souljudge","","2441","48","23069","23672","23354","1","98519","0","0","0","0","0","255"
+"23354","Mawforged Summoner","","2441","55","23069","23384","23823","1","100717","0","0","0","0","0","255"
+"23356","Mawforged Colossus","","2441","68","23069","23403","0","1","100986","0","0","0","2","4096","0"
+"23358","Section 47","","2441","53","23353","0","23659","2","0","0","351117","0","1","132","255"
+"23359","Section 14","","2455","8","23344","23360","0","2","0","0","351124","0","0","2","255"
+"23360","So' Cartel Assassin","Highly mobile elite assassins.","2455","9","23359","23361","0","1","99094","0","0","0","0","0","255"
+"23361","Section 16","","2455","10","23360","0","0","2","0","0","351119","0","1","64","255"
+"23362","Section 17","","2445","24","0","0","23836","2","0","0","350851","0","0","0","255"
+"23363","Section 14","","2442","39","23375","0","23364","2","0","0","350803","0","0","1","255"
+"23364","Section 15","","2442","40","23375","0","23662","2","0","0","350828","0","0","17","255"
+"23365","Section 16","","2442","12","22896","0","23586","2","0","0","350763","0","0","16","255"
+"23367","Deathseeker Eye","","2442","24","22897","23589","0","1","100782","0","0","0","0","0","255"
+"23370","Section 23","","2442","30","23367","0","23590","2","0","0","350713","0","0","128","255"
+"23375","Stage Three: Immediate Extermination","","2442","37","0","23536","0","0","0","0","0","0","1","0","255"
+"23377","Section 28","","2442","42","23375","0","23772","2","0","0","355914","0","2","16","0"
+"23378","Section 29","","2442","46","23240","0","23491","2","0","0","349979","0","0","16","255"
+"23379","Section 18","","2445","22","22915","0","23412","2","0","0","351229","0","3","8","0"
+"23381","Section 48","","2441","51","23353","23743","23358","2","0","0","351179","0","2","9","0"
+"23382","Section 37","","2439","90","23205","0","0","2","0","0","351399","0","0","0","255"
+"23383","Section 49","","2441","64","23354","0","0","2","0","0","351451","0","2","256","0"
+"23384","Section 50","","2441","56","23354","23666","23667","2","0","0","351353","0","3","32","0"
+"23385","Section 19","","2445","13","23287","0","0","2","0","0","353429","0","0","0","255"
+"23403","Section 53","","2441","69","23356","0","23660","2","0","0","351589","0","1","1","255"
+"23406","Section 17","","2455","16","23340","0","0","2","0","0","351646","0","0","0","255"
+"23409","Eye of the Jailer","","2442","19","22897","23179","23367","1","100237","0","0","0","1","0","255"
+"23410","Compounding Suffering","","2442","26","23367","23658","23601","2","0","0","351816","0","0","1","255"
+"23412","Section 20","","2445","23","22915","0","0","2","0","0","350650","0","0","0","255"
+"23415","Section 23","$[!15, 16
+
+In Heroic difficulty and Mythic difficulties, Hellscream also causes all players to flee in fear.$]","2445","9","23288","0","23561","2","0","0","351946","0","0","16","255"
+"23420","Fragments of Destiny","","2439","82","23205","23421","23674","2","0","0","350541","0","2","128","0"
+"23421","Shard of Destiny","","2439","83","23420","0","0","2","0","0","350555","0","0","0","255"
+"23423","Soul Reaver","Soul Reaver's periodically unleash Banshee's Cry.","2440","33","23426","23429","0","1","90017","0","0","0","0","0","255"
+"23424","Unstoppable Abomination","The Unstoppable Abomination's unholy strength allows it to inflict punishing melee attacks.","2440","31","23426","23428","23423","1","96437","0","0","0","0","1","255"
+"23425","Section 22","","2440","29","22885","0","23426","2","0","0","352293","0","0","32","255"
+"23426","Section 20","","2440","30","22885","23424","23860","2","0","0","352090","0","0","0","255"
+"23427","Section 21","","2440","39","23431","0","23607","2","0","0","352002","0","2","0","0"
+"23428","Section 23","","2440","32","23424","0","0","2","0","0","349805","0","0","0","255"
+"23429","Section 24","","2440","34","23423","0","23788","2","0","0","352144","0","2","72","0"
+"23431","Remnant of Kel'Thuzad","At 60% and 20% health, the Remnant of Kel'Thuzad attempts to destroy anyone reamining within the phylactery with Undying Wrath and interrupts Kel'Thuzad's cast of Vengeful Destruction.","2440","37","22885","23606","23855","1","28934","0","0","0","0","0","255"
+"23432","Section 27","","2440","49","23201","23433","23859","2","0","0","352348","0","2","32","0"
+"23433","Unstoppable Abomination","The Unstoppable Abomination's unholy strength allows it to inflict punishing melee attacks.","2440","50","23432","23434","23856","1","96437","0","0","0","2","1","0"
+"23434","Section 29","","2440","51","23433","0","0","2","0","0","349805","0","0","0","255"
+"23435","Soul Reaver","Soul Reaver's periodically unleash Banshee's Cry.","2440","58","23859","23436","0","1","90017","0","0","0","0","0","255"
+"23436","Section 31","","2440","59","23435","0","23787","2","0","0","352144","0","2","72","0"
+"23438","Section 38","","2440","48","23201","0","23432","2","0","0","354638","0","0","16","255"
+"23442","Section 36","","2440","61","23201","23786","23443","2","0","0","348756","0","0","16","255"
+"23443","Section 37","","2440","63","23201","0","0","2","0","0","348953","0","0","1","255"
+"23444","Section 39","","2440","26","22885","0","23835","2","0","0","352051","0","2","0","0"
+"23448","Section 43","","2440","13","22884","23449","23198","2","0","0","346459","0","0","0","255"
+"23449","Glacial Spike","Once summoned, the Glacial Spike loses 5% health every 2 sec. Upon death the spike erupts, causing Frozen Destruction.","2440","14","23448","23450","0","1","100062","0","0","0","0","2","255"
+"23450","Section 44","","2440","15","23449","0","23770","2","0","0","348744","0","2","8","0"
+"23456","Section 47","","2440","42","23431","0","23605","2","0","0","352379","0","0","0","255"
+"23458","Section 50","","2441","32","23068","0","23076","2","0","0","351869","0","0","0","255"
+"23459","Section 9","","583","4","0","0","6063","2","0","0","57088","0","0","0","255"
+"23460","Section 48","","2440","8","22884","0","23195","2","0","0","352530","0","2","0","0"
+"23461","Section 11","","2449","13","23027","0","0","2","0","0","352345","0","0","0","255"
+"23462","Section 12","","2449","8","0","0","23833","2","0","0","350517","0","0","32","255"
+"23463","Section 51","","2441","21","23057","23464","0","2","0","0","352650","0","0","1","255"
+"23464","Section 52","","2441","22","23463","0","0","2","0","0","347607","0","1","0","255"
+"23465","Section 15","","2446","17","23254","23466","23516","2","0","0","352394","0","0","32","255"
+"23466","Section 16","","2446","18","23465","0","0","2","0","0","350455","0","1","4","255"
+"23468","Section 38","","2439","17","22877","23469","23213","2","0","0","352744","0","2","4224","0"
+"23469","Section 39","","2439","18","23468","0","0","2","0","0","350555","0","0","0","255"
+"23470","Section 40","","2439","86","23269","0","23471","2","0","0","352756","0","2","4096","0"
+"23471","Section 41","","2439","87","23269","0","0","2","0","0","352752","0","2","4096","0"
+"23472","Section 18","","2446","13","0","0","23254","2","0","0","352833","0","0","0","255"
+"23473","Section 16","","2446","6","0","23474","23274","2","0","0","350735","0","0","1","255"
+"23474","Section 17","","2446","7","23473","0","23635","2","0","0","350732","0","1","0","255"
+"23475","Section 13","","2447","32","22927","23476","0","2","0","0","351969","0","0","0","255"
+"23476","Section 14","","2447","33","23475","0","23521","2","0","0","353122","0","0","16","255"
+"23477","The Loom of Fates","","2447","41","23486","23478","23489","0","0","0","0","0","1","0","255"
+"23478","Section 16","","2447","42","23477","0","23832","2","0","0","353149","0","2","0","0"
+"23479","Section 16","","2447","44","23477","0","23854","2","0","0","353150","0","2","0","0"
+"23482","Section 7","","2447","17","22926","0","23597","2","0","0","353603","0","0","1","255"
+"23483","Section 7","","2447","19","22926","0","23675","2","0","0","350355","0","0","16","255"
+"23484","Section 9","","2447","61","23486","0","0","2","0","0","356065","0","2","0","0"
+"23486","Stage Three: Fated Terminus","Desperate to gain an advantage, Fatescribe Roh-Kalo begins shaping an |cFF2959D3|Hspell:353195|h[Extemporaneous Fate]|h|r in addition to his other abilities.","2447","40","0","23477","0","0","0","0","0","0","1","0","255"
+"23488","Section 26","","2447","39","23475","0","0","2","0","0","353162","0","0","0","255"
+"23489","Section 27","","2447","46","23486","23490","23506","2","0","0","353195","0","0","32","255"
+"23490","Section 28","","2447","47","23489","0","0","2","0","0","353122","0","0","16","255"
+"23491","Section 32","","2442","47","23240","0","0","2","0","0","348074","0","0","8193","255"
+"23492","Section 28","","2442","23","23409","0","0","2","0","0","350028","0","0","0","255"
+"23493","Section 34","","2442","9","22896","0","23591","2","0","0","348054","0","0","0","255"
+"23494","Section 35","","2442","18","22897","0","23409","2","0","0","350066","0","1","0","255"
+"23498","Section 14","","2437","11","23047","0","0","2","0","0","353421","0","0","0","255"
+"23499","Section 13","","2437","7","23048","0","0","2","0","0","353424","0","0","4","255"
+"23502","Section 11","","2447","11","22926","23503","23482","2","0","0","351680","0","0","1","255"
+"23503","Shade of Destiny","The Shade of Destiny binds its target with a |cFF2959D3|Hspell:353432|h[Burden of Destiny]|h|r, causing the Shade to move inexorably toward its target. Upon death, the Shade of Destiny shatters into several Fatespawn Anomalies.","2447","12","23502","23504","0","1","93157","0","0","0","0","0","255"
+"23504","Section 31","","2447","13","23503","23505","0","2","0","0","353432","0","0","0","255"
+"23505","Section 33","","2447","14","23504","0","23754","2","0","0","353435","0","0","16","255"
+"23506","Section 11","","2447","48","23486","23507","23598","2","0","0","351680","0","0","1","255"
+"23507","Shade of Destiny","","2447","49","23506","23508","0","1","93157","0","0","0","0","0","255"
+"23508","Section 31","","2447","50","23507","23509","0","2","0","0","353432","0","0","0","255"
+"23509","Section 33","","2447","51","23508","0","23756","2","0","0","353435","0","0","16","255"
+"23510","The Loom of Fates","","2447","26","22927","23602","23475","0","0","0","0","0","1","0","255"
+"23511","Section 16","","2447","29","23510","0","23512","2","0","0","358123","0","2","0","0"
+"23512","Section 16","","2447","30","23510","0","23793","2","0","0","353150","0","2","0","0"
+"23513","Section 54","","2441","25","22891","0","23074","2","0","0","349458","0","0","32","255"
+"23514","Section 53","","2441","27","23074","0","0","2","0","0","353413","0","1","0","255"
+"23515","Section 17","","2446","10","23274","0","23792","2","0","0","347359","0","0","0","255"
+"23516","Section 18","","2446","19","23254","0","0","2","0","0","352589","0","0","16","255"
+"23517","Mawsworn Overlord","Mawsworn Overlords move inexorably towards Garrosh, empowering nearby Mawsworn with |cFF2959D3|Hspell:353554|h[Infuse Defiance]|h|r. If allowed to reach Garrosh, Mawsworn Overlords empower all Mawsworn with |cFF2959D3|Hspell:354055|h[Defiant|r.","2445","14","0","23518","23289","1","101000","0","0","0","2","4096","0"
+"23518","Section 25","","2445","15","23517","0","23520","2","0","0","353554","0","0","0","255"
+"23519","Section 54","","2441","28","22891","0","0","2","0","0","348109","0","0","0","255"
+"23520","Section 26","","2445","16","23517","0","23541","2","0","0","350650","0","0","0","255"
+"23521","Section 38","","2447","34","23475","0","23764","2","0","0","353696","0","0","4","255"
+"23522","Brawling Patron","","2452","16","23096","23329","23328","1","93578","0","0","0","1","0","255"
+"23523","Oasis Security","","2452","22","23096","23332","0","1","101270","0","0","0","1","0","255"
+"23524","Section 17","","2452","29","23098","0","23331","2","0","0","359028","0","0","1","255"
+"23528","Section 26","","2452","15","23096","0","23522","2","0","0","356482","0","0","0","255"
+"23529","Unruly Patron","","2452","20","23328","0","23294","2","0","0","353783","0","0","0","255"
+"23530","Unruly Patron","","2452","19","23328","0","23529","2","0","0","353836","0","0","0","255"
+"23536","Section 27","","2442","38","23375","0","23363","2","0","0","348969","0","0","32","255"
+"23537","Section 51","","2441","75","23538","0","23817","2","0","0","353972","0","0","0","255"
+"23538","Section 52","","2441","74","23551","23537","23051","2","0","0","353929","0","1","128","255"
+"23539","Section 51","","2441","77","23538","23815","23814","2","0","0","358185","0","2","4097","0"
+"23541","Section 30","","2445","17","23517","0","0","2","0","0","354055","0","0","0","255"
+"23542","Section 55","","2441","84","23551","0","23831","2","0","0","353955","0","0","0","255"
+"23543","Section 56","","2441","81","23538","0","0","2","0","0","354068","0","2","32","0"
+"23544","Section 56","","2441","86","23551","0","23837","2","0","0","358433","0","2","4096","0"
+"23549","Section 19","","2448","13","23004","0","23550","2","0","0","347958","0","0","0","255"
+"23550","Section 20","","2448","14","23004","0","0","2","0","0","352347","0","0","0","255"
+"23551","Sylvanas Windrunner","","2441","73","22890","23538","23553","1","100591","0","0","0","1","0","255"
+"23553","Section 60","","2441","90","22890","0","0","2","0","0","353642","0","1","0","255"
+"23554","Section 61","","2441","88","23551","0","23255","2","0","0","354147","0","0","16","255"
+"23560","Section 52","","2440","7","22884","0","23460","2","0","0","354206","0","0","0","255"
+"23561","Section 31","","2445","10","23288","0","0","2","0","0","354231","0","3","8","0"
+"23562","Section 53","","2440","25","22885","0","23444","2","0","0","354289","0","2","4","0"
+"23563","Section 39","","2447","10","22926","0","23502","2","0","0","354365","0","2","4096","0"
+"23575","Section 22","$[!16
+
+In Mythic difficulty, each of the piece of shattered armor drops to the ground and duplicates one of the Remnant of Ner'zhul's spell casts.$]","2444","9","0","23765","23307","2","0","0","351066","0","0","0","255"
+"23584","Section 14","","2442","7","22896","0","23585","2","0","0","350803","0","0","1","255"
+"23585","Section 15","","2442","8","22896","0","23493","2","0","0","350828","0","0","1","255"
+"23586","Stygian Abductors","","2442","13","22896","23587","23633","1","94399","0","0","0","2","40","0"
+"23587","Section 29","","2442","14","23586","0","23588","2","0","0","349979","0","0","16","255"
+"23588","Section 32","","2442","15","23586","0","0","2","0","0","348074","0","0","8193","255"
+"23589","Section 26","","2442","25","23367","0","23410","2","0","0","350453","0","0","1","255"
+"23590","Section 25","","2442","31","23367","23774","23629","2","0","0","350816","0","0","0","255"
+"23591","Section 28","","2442","10","22896","23773","23365","2","0","0","350028","0","0","0","255"
+"23592","Grapple!","","2442","5","0","0","22896","2","0","0","351401","0","1","0","255"
+"23593","Section 1","","2456","5","0","0","23594","2","0","0","353183","0","0","32","255"
+"23594","Section 4","","2456","6","0","0","23595","2","0","0","353534","0","0","0","255"
+"23595","Section 2","","2456","7","0","0","23596","2","0","0","353752","0","0","0","255"
+"23596","Section 3","","2456","8","0","0","23644","2","0","0","353800","0","0","1","255"
+"23597","Section 40","","2447","18","22926","0","23483","2","0","0","353931","0","0","0","255"
+"23598","Section 7","","2447","54","23486","0","23270","2","0","0","353603","0","0","1","255"
+"23599","Section 35","","2442","29","23601","0","0","2","0","0","351826","0","0","0","255"
+"23601","Section 36","","2442","28","23367","23599","23370","2","0","0","351994","0","2","0","0"
+"23602","Section 42","","2447","27","23510","0","23813","2","0","0","354964","0","2","0","0"
+"23604","Section 47","","2440","44","23431","0","0","2","0","0","352355","0","0","16","255"
+"23605","Section 48","","2440","43","23431","0","23604","2","0","0","355055","0","2","8","0"
+"23606","Section 48","","2440","38","23431","0","23427","2","0","0","355127","0","2","4096","0"
+"23607","Section 49","$[!16
+
+In Mythic difficulty, Shadow fissures create Shadow Pools.$]","2440","40","23431","23789","23456","2","0","0","355136","0","2","4096","0"
+"23608","Section 13","","2436","6","22958","0","22938","2","0","0","346404","0","1","0","255"
+"23609","Stage One: Confronting the Terror","","2435","5","0","23610","23623","0","0","0","0","0","3","0","0"
+"23610","Chain Thing","","2435","6","23609","23611","23612","2","0","0","347269","0","0","32","255"
+"23611","Section 16","","2435","7","23610","0","0","2","0","0","347274","0","0","16","255"
+"23612","Hungering Mist","","2435","8","23609","0","23734","2","0","0","347671","0","0","16","255"
+"23613","Section 17","$[!16
+
+In Mythic difficulty, the Jailer summons forth two forgotten Torments and their afflictions on players last until The Tarragrue is defeated.$]","2435","13","23609","23614","23617","2","0","0","352368","0","3","4096","0"
+"23614","Section 18","","2435","14","23613","0","23615","2","0","0","352382","0","0","0","255"
+"23615","Section 19","","2435","15","23613","0","23616","2","0","0","352389","0","0","0","255"
+"23616","Section 20","","2435","16","23613","0","0","2","0","0","352398","0","0","0","255"
+"23617","Howl Thing","","2435","17","23609","23618","23619","2","0","0","347283","0","0","128","255"
+"23618","Howl Subspell","","2435","18","23617","0","0","2","0","0","347286","0","0","128","255"
+"23619","Section 17","","2435","19","23609","0","23620","2","0","0","347490","0","0","2048","255"
+"23620","Grasp of Death","","2435","20","23609","0","23621","2","0","0","347668","0","0","4","255"
+"23621","Section 7","","2435","21","23609","23622","0","2","0","0","346985","0","0","1","255"
+"23622","Section 8","","2435","22","23621","0","0","2","0","0","346986","0","0","0","255"
+"23623","Stage Two: The Desperate Hour","","2435","23","0","22849","22968","0","0","0","0","0","3","0","0"
+"23626","Healers","$bullet;|cFF2959D3|Hspell:350039|h[Arthura's Crushing Gaze]|h|r inflicts high damage, split evenly among players struck.
+$bullet;|cFF2959D3|Hspell:350542|h[Fragments of Destiny]|h|r jump to the nearest player upon being dispelled, and is only removed when all fragments exist on a single player.","2439","4","22873","0","22876","3","0","0","0","0","2","4","0"
+"23628","Section 14","","2444","8","23301","0","0","2","0","0","350388","0","0","0","255"
+"23629","Section 37","","2442","33","23367","23630","0","2","0","0","355232","0","2","4096","0"
+"23630","Section 38","","2442","34","23629","0","23631","2","0","0","355240","0","2","4096","0"
+"23631","Section 39","","2442","35","23629","0","23632","2","0","0","355245","0","2","4096","0"
+"23632","Section 40","","2442","36","23629","0","0","2","0","0","355246","0","2","4112","0"
+"23633","Section 41","","2442","16","22896","0","0","2","0","0","350604","0","2","4096","0"
+"23634","Section 41","","2442","48","23375","0","0","2","0","0","350604","0","2","4096","0"
+"23635","Section 21","$[!16
+
+In Mythic difficulty, the Guardian depletes 20 energy if Obliterate fails to hit at least 4 players.$]","2446","8","23473","0","0","2","0","0","355352","0","3","40","0"
+"23636","Section 15","","2444","14","23307","0","0","2","0","0","350490","0","2","8","0"
+"23637","Section 17","","2452","28","23098","0","23524","2","0","0","350919","0","0","0","255"
+"23638","Stage Two: The Screaming Anvil","Upon reaching 70% and 40% health remaining the Painsmith leaps to his anvil and begins to craft a new Instrument of Pain.","2443","21","0","23759","0","0","0","0","0","0","1","0","255"
+"23639","Section 12","","2443","12","23642","23797","0","2","0","0","355778","0","0","0","255"
+"23641","Section 17","","2443","15","23117","0","23862","2","0","0","355526","0","2","16","0"
+"23642","Instruments of Pain","The Painsmith wields a weapon of his own crafting, starting with the |cFF2959D3|Hspell:355568|h[Cruciform Axe]|h|r.","2443","6","23117","23798","23851","0","0","0","0","0","1","32","255"
+"23643","Section 12","","2443","9","23654","0","0","2","0","0","358988","0","0","1","255"
+"23644","Section 5","","2456","9","0","0","23645","2","0","0","355456","0","0","16","255"
+"23645","Loose Soul","Loose Souls are released when a Soul Cage is reduced to 1 hp remaining.","2456","10","0","23646","0","1","100016","0","0","0","0","0","255"
+"23646","Section 7","","2456","11","23645","0","23647","2","0","0","354114","0","0","132","255"
+"23647","Section 8","","2456","12","23645","0","0","2","0","0","354117","0","0","0","255"
+"23648","Overview","Mor'geth, Tormentor of the Damned surrounds himself in |cFF2959D3|Hspell:353183|h[Stygian Fog]|h|r that obscures the vision of players outside the zone created by the |cFF2959D3|Hspell:353531|h[Soul Chains]|h|r linking the four Soul Cages around him.  These Soul cages will march in toward Mor'geth, Torment of the Damned, causing the safe area to change in size.
+Damaging |cFF2959D3|Hspell:353534|h[Activated]|h|r Soul Cages causes them to release a Loose Soul and return to their home position.","2456","1","0","23649","23593","3","0","0","0","0","0","0","255"
+"23649","Tanks","$bullet;The area enclosed by |cFF2959D3|Hspell:353531|h[Soul Chains]|h|r is obscured from the area outside, and vice versa.
+$bullet;Mor'geth, Tormentor of the Damned will stay in the center of the arena and will use |cFF2959D3|Hspell:355613|h[Tortuous Reach]|h|r at its tank target if out of melee range.
+$bullet;Mor'geth, Tormentor of the Damned casts |cFF2959D3|Hspell:355456|h[Damnation]|h|r when it reaches 100 energy.
+$bullet;Get the attention of Loose Souls as they are released from the Soul Cages.","2456","2","23648","0","23650","3","0","0","0","0","0","1","255"
+"23650","Damage Dealers","$bullet;The area enclosed by |cFF2959D3|Hspell:353531|h[Soul Chains]|h|r is obscured from the area outside, and vice versa.
+$bullet;Mor'geth, Tormentor of the Damned casts |cFF2959D3|Hspell:355456|h[Damnation]|h|r when it reaches 100 energy.
+$bullet;Damage any |cFF2959D3|Hspell:353534|h[Activated]|h|r Soul Cages to make them return to their starting positions.","2456","3","23648","0","23651","3","0","0","0","0","0","2","255"
+"23651","Healers","$bullet;The area enclosed by |cFF2959D3|Hspell:353531|h[Soul Chains]|h|r is obscured from the area outside, and vice versa.
+$bullet;Mor'geth, Tormentor of the Damned casts |cFF2959D3|Hspell:355456|h[Damnation]|h|r when it reaches 100 energy.
+$bullet;|cFF2959D3|Hspell:354114|h[Unleashed Suffering]|h|r can be dispelled.","2456","4","23648","0","0","3","0","0","0","0","0","4","255"
+"23652","Section 60","","2441","31","23068","0","23458","2","0","0","355540","0","0","80","255"
+"23654","Section 12","","2443","8","23642","23643","23795","2","0","0","355568","0","0","0","255"
+"23658","Section 35","","2442","27","23410","0","0","2","0","0","351826","0","0","0","255"
+"23659","Section 61","","2441","54","23353","0","0","2","0","0","355827","0","3","4096","0"
+"23660","Section 62","","2441","70","23356","23826","0","2","0","0","351562","0","1","0","255"
+"23661","Titanic Death Gaze","","2442","21","23409","0","23185","2","0","0","350847","0","2","16","0"
+"23662","Section 28","","2442","41","23375","0","23377","2","0","0","350847","0","2","16","0"
+"23665","Section 52","","2440","28","22885","0","23425","2","0","0","355948","0","2","8","0"
+"23666","Section 63","","2441","57","23384","23799","0","2","100921","0","351317","0","1","0","255"
+"23667","Section 64","","2441","59","23354","23668","23671","2","0","0","356021","0","3","4128","0"
+"23668","Section 65","","2441","60","23667","0","23669","2","101504","0","356023","0","1","4160","255"
+"23669","Section 63","","2441","61","23667","23800","0","2","100921","0","351317","0","1","0","255"
+"23671","Section 49","","2441","63","23354","0","23383","2","0","0","351451","0","3","264","0"
+"23672","Section 48","","2441","49","23353","23742","23381","2","0","0","351179","0","3","9","0"
+"23674","Word of Recall","","2439","84","23205","0","23269","2","0","0","350687","0","2","8","0"
+"23675","Section 9","","2447","20","22926","23776","23677","2","0","0","350819","0","2","0","0"
+"23676","Section 10","","2447","22","23675","23778","0","2","0","0","350826","0","2","8","0"
+"23677","Section 9","","2447","24","22926","0","0","2","0","0","356065","0","2","0","0"
+"23678","Stage Two: The First of the Mawsworn","When Kyra or Signe reach $350472s1% health remaining, Skyja enters the fray and takes matters into her own hands.","2439","26","0","23679","23696","0","0","0","0","0","3","0","0"
+"23679","Skyja, The First","Skyja was the first to swear fealty to the powers of the Maw.","2439","27","23678","23680","23689","1","94397","0","0","0","0","0","255"
+"23680","Fragments of Destiny","","2439","28","23679","23681","23682","2","0","0","350541","0","0","128","255"
+"23681","Shard of Destiny","","2439","29","23680","0","0","2","0","0","350555","0","0","0","255"
+"23682","Word of Recall","","2439","30","23679","0","23683","2","0","0","350687","0","2","8","0"
+"23683","Word of Recall","","2439","31","23679","23684","23686","2","0","0","350687","0","2","0","0"
+"23684","Section 40","","2439","32","23683","0","23685","2","0","0","352756","0","2","0","0"
+"23685","Section 41","","2439","33","23683","0","0","2","0","0","352752","0","2","0","0"
+"23686","Fragments of Destiny","","2439","34","23679","0","23687","2","0","0","350482","0","2","8","0"
+"23687","Pierce Soul","","2439","35","23679","0","23688","2","0","0","350475","0","0","1","255"
+"23688","Section 37","","2439","36","23679","0","0","2","0","0","351399","0","0","0","255"
+"23689","Call of the Val'kyr","","2439","37","23678","23690","0","2","0","0","350467","0","0","32","255"
+"23690","Agatha's Eternal Blade","","2439","38","23689","0","23691","2","0","0","350031","1376744","0","0","255"
+"23691","Daschla's Mighty Anvil","","2439","39","23689","0","23692","2","0","0","350184","132318","0","0","255"
+"23692","Annhylde's Bright Aegis","","2439","40","23689","0","23693","2","0","0","350157","1320371","0","0","255"
+"23693","Aradne's Falling Strike","","2439","41","23689","0","23694","2","0","0","350098","2103905","0","0","255"
+"23694","Brynja's Mournful Dirge","","2439","42","23689","0","23695","2","0","0","350109","460699","0","0","255"
+"23695","Arthura's Crushing Gaze","","2439","43","23689","0","0","2","0","0","350039","136215","0","0","255"
+"23696","Stage Two: The First of the Mawsworn","When Kyra or Signe reach $356066s1% health remaining, Skyja enters the fray and takes matters into her own hands.","2439","44","0","23697","23714","0","0","0","0","0","3","0","0"
+"23697","Skyja, The First","Skyja was the first to swear fealty to the powers of the Maw.","2439","45","23696","23698","23707","1","94397","0","0","0","0","0","255"
+"23698","Fragments of Destiny","","2439","46","23697","23699","23700","2","0","0","350541","0","2","128","0"
+"23699","Shard of Destiny","","2439","47","23698","0","0","2","0","0","350555","0","0","0","255"
+"23700","Word of Recall","","2439","48","23697","0","23701","2","0","0","350687","0","2","8","0"
+"23701","Word of Recall","","2439","49","23697","23702","23704","2","0","0","350687","0","2","0","0"
+"23702","Section 40","","2439","50","23701","0","23703","2","0","0","352756","0","2","0","0"
+"23703","Section 41","","2439","51","23701","0","0","2","0","0","352752","0","2","0","0"
+"23704","Fragments of Destiny","","2439","52","23697","0","23705","2","0","0","350482","0","2","8","0"
+"23705","Pierce Soul","","2439","53","23697","0","23706","2","0","0","350475","0","0","1","255"
+"23706","Section 37","","2439","54","23697","0","0","2","0","0","351399","0","0","0","255"
+"23707","Call of the Val'kyr","","2439","55","23696","23708","0","2","0","0","350467","0","0","32","255"
+"23708","Agatha's Eternal Blade","","2439","56","23707","0","23709","2","0","0","350031","1376744","0","0","255"
+"23709","Daschla's Mighty Anvil","","2439","57","23707","0","23710","2","0","0","350184","132318","0","0","255"
+"23710","Annhylde's Bright Aegis","","2439","58","23707","0","23711","2","0","0","350157","1320371","0","0","255"
+"23711","Aradne's Falling Strike","","2439","59","23707","0","23712","2","0","0","350098","2103905","0","0","255"
+"23712","Brynja's Mournful Dirge","","2439","60","23707","0","23713","2","0","0","350109","460699","0","0","255"
+"23713","Arthura's Crushing Gaze","","2439","61","23707","0","0","2","0","0","350039","136215","0","0","255"
+"23714","Stage Two: The First of the Mawsworn","When Kyra or Signe reach $356067s1% health remaining, Skyja enters the fray and takes matters into her own hands.","2439","62","0","23715","22879","0","0","0","0","0","3","0","0"
+"23715","Skyja, The First","Skyja was the first to swear fealty to the powers of the Maw.","2439","63","23714","23716","23725","1","94397","0","0","0","0","0","255"
+"23716","Fragments of Destiny","","2439","64","23715","23717","23718","2","0","0","350541","0","2","128","0"
+"23717","Shard of Destiny","","2439","65","23716","0","0","2","0","0","350555","0","0","0","255"
+"23718","Word of Recall","","2439","66","23715","0","23719","2","0","0","350687","0","2","8","0"
+"23719","Word of Recall","","2439","67","23715","23720","23722","2","0","0","350687","0","2","0","0"
+"23720","Section 40","","2439","68","23719","0","23721","2","0","0","352756","0","2","0","0"
+"23721","Section 41","","2439","69","23719","0","0","2","0","0","352752","0","2","0","0"
+"23722","Fragments of Destiny","","2439","70","23715","0","23723","2","0","0","350482","0","2","8","0"
+"23723","Pierce Soul","","2439","71","23715","0","23724","2","0","0","350475","0","0","1","255"
+"23724","Section 37","","2439","72","23715","0","0","2","0","0","351399","0","0","0","255"
+"23725","Call of the Val'kyr","","2439","73","23714","23726","0","2","0","0","350467","0","0","32","255"
+"23726","Agatha's Eternal Blade","","2439","74","23725","0","23727","2","0","0","350031","1376744","0","0","255"
+"23727","Daschla's Mighty Anvil","","2439","75","23725","0","23728","2","0","0","350184","132318","0","0","255"
+"23728","Annhylde's Bright Aegis","","2439","76","23725","0","23729","2","0","0","350157","1320371","0","0","255"
+"23729","Aradne's Falling Strike","","2439","77","23725","0","23730","2","0","0","350098","2103905","0","0","255"
+"23730","Brynja's Mournful Dirge","","2439","78","23725","0","23731","2","0","0","350109","460699","0","0","255"
+"23731","Arthura's Crushing Gaze","","2439","79","23725","0","0","2","0","0","350039","136215","0","0","255"
+"23732","Section 17","","2454","12","23235","0","0","2","0","0","349989","0","0","0","255"
+"23733","Section 19","","2446","15","23254","0","23280","2","0","0","356093","0","3","4128","0"
+"23734","Section 17","","2435","9","23609","23735","23613","2","0","0","352368","0","3","8","0"
+"23735","Section 18","","2435","10","23734","0","23736","2","0","0","352382","0","0","0","255"
+"23736","Section 19","","2435","11","23734","0","23737","2","0","0","352389","0","0","0","255"
+"23737","Section 20","","2435","12","23734","0","0","2","0","0","352398","0","0","0","255"
+"23739","Section 15","","2444","6","23301","0","23303","2","0","0","355790","0","0","0","255"
+"23740","Section 16","","2444","18","22908","0","0","2","0","0","354479","0","0","0","255"
+"23741","Section 9","","2443","20","23794","0","0","2","0","0","356870","0","2","8","0"
+"23742","Section 71","","2441","50","23672","0","0","2","0","0","351180","0","1","0","255"
+"23743","Section 72","","2441","52","23381","0","0","2","0","0","351180","0","1","0","255"
+"23749","Stage Two: Closing Time","The bad-tempered bouncer emerges to put an end to the show.","2452","25","0","23098","0","0","0","0","0","0","0","0","255"
+"23750","Section 26","","2452","14","23096","0","23528","2","0","0","353706","0","0","2050","255"
+"23751","Section 71","","2441","12","23066","0","23752","2","0","0","356624","0","2","24","0"
+"23752","Section 71","$[!16
+
+On this difficulty, Calamity affects targets in a radius around the Domination Arrow.$]","2441","13","23066","0","23753","2","0","0","356624","0","2","4112","0"
+"23753","Section 71","","2441","14","23066","0","0","2","0","0","356651","0","2","4096","0"
+"23754","Fatespawn Anomaly","","2447","15","23504","23755","0","1","94279","0","0","0","0","0","255"
+"23755","Section 47","","2447","16","23754","0","0","2","0","0","353398","0","0","64","255"
+"23756","Fatespawn Anomaly","","2447","52","23508","23757","0","1","94279","0","0","0","0","0","255"
+"23757","Section 49","","2447","53","23756","0","0","2","0","0","353398","0","0","64","255"
+"23758","Section 14","","2448","10","23003","0","0","2","0","0","356796","0","1","0","255"
+"23759","Shadowsteel Ember","","2443","22","23638","0","23805","2","0","0","355534","0","2","0","0"
+"23761","Section 17","","2443","27","23762","0","0","2","0","0","356472","0","0","4","255"
+"23762","Section 17","","2443","26","23638","23761","23861","2","0","0","356844","0","0","4","255"
+"23764","Fatespawn Monstrosity","","2447","35","23475","23780","23488","1","94279","0","0","0","0","0","255"
+"23765","Helm of Suffering","At 80% health remaining, the Helm of Suffering drops to the ground and will duplicate casts of |cFF2959D3|Hspell:349890|h[Suffering]|h|r.","2444","10","23575","0","23766","1","100736","0","0","0","3","0","0"
+"23766","Gauntlet of Malice","At 60% health remaining, the Gauntlet of Malice drops to the ground and will duplicate casts of |cFF2959D3|Hspell:350076|h[Grasp of Malice]|h|r.","2444","11","23575","0","23767","1","100740","0","0","0","3","0","0"
+"23767","Rattlecage of Agony","At 30% health remaining, the Rattlecage of Agony drops to the ground and will duplicate casts of |cFF2959D3|Hspell:350469|h[Malevolence]|h|r.","2444","12","23575","0","0","1","100741","0","0","0","3","0","0"
+"23768","Section 36","","2441","24","22891","0","23513","2","0","0","350857","0","1","0","255"
+"23769","Damage Dealers","$bullet;Soul Shards continuously cast |cFF2959D3|Hspell:348428|h[Piercing Wail]|h|r inflicting damage to the raid.
+$bullet;Kel'Thuzad cannot be defeated while the Remnant of Kel'Thuzad is alive.","2440","3","22880","0","22883","3","0","0","0","0","2","2","0"
+"23770","Section 54","","2440","16","23449","0","0","2","0","0","356958","0","2","0","0"
+"23772","Section 28","","2442","43","23375","0","23850","2","0","0","350028","0","0","0","255"
+"23773","Section 46","","2442","11","23591","0","0","2","0","0","350034","0","0","0","255"
+"23774","Section 47","","2442","32","23590","0","0","2","0","0","350808","0","0","0","255"
+"23776","Section 51","","2447","21","23675","0","23676","2","0","0","353162","0","2","4096","0"
+"23778","Section 53","","2447","23","23676","0","0","2","0","0","353162","0","2","4096","0"
+"23779","Section 54","","2447","38","23764","0","0","2","0","0","357144","0","2","0","0"
+"23780","Section 54","","2447","36","23764","0","23853","2","0","0","357141","0","0","1","255"
+"23781","Frostbound Devoted","These skeletal constructs move towards a random player and detonate if they reach them.","2440","18","23198","23782","0","1","96988","0","0","0","2","0","0"
+"23782","Section 56","","2440","19","23781","0","0","2","0","0","354103","0","2","0","0"
+"23785","Section 53","","2440","22","23199","0","0","2","0","0","357298","0","0","128","255"
+"23786","Section 54","","2440","62","23442","0","0","2","0","0","357298","0","0","128","255"
+"23787","Section 53","","2440","60","23435","0","0","2","0","0","357330","0","2","64","0"
+"23788","Section 54","","2440","35","23423","0","0","2","0","0","357330","0","2","64","0"
+"23789","Section 55","","2440","41","23607","0","0","2","0","0","355137","0","2","0","0"
+"23790","Section 56","","2440","20","22884","0","23199","2","0","0","357621","0","2","0","0"
+"23792","Section 20","","2446","11","23274","0","0","2","0","0","352665","0","0","0","255"
+"23793","Section 56","","2447","31","23510","0","0","2","0","0","357686","0","2","4096","0"
+"23794","Section 9","","2443","19","23117","23741","0","2","0","0","348456","0","2","8","0"
+"23795","Section 12","","2443","10","23642","23796","23639","2","0","0","348508","0","0","0","255"
+"23796","Section 12","","2443","11","23795","0","0","2","0","0","355786","0","0","1","255"
+"23797","Section 12","","2443","13","23639","0","0","2","0","0","355786","0","0","1","255"
+"23798","Section 24","","2443","7","23642","0","23654","2","0","0","357733","0","2","4096","0"
+"23799","Section 70","","2441","58","23666","0","0","2","0","0","351323","0","1","0","255"
+"23800","Section 70","","2441","62","23669","0","0","2","0","0","351323","0","1","0","255"
+"23805","Shadowsteel Ember","$[!16In Mythic difficulty, the Painsmith's forging creates Shadowsteel Horrors.$]","2443","23","23638","23806","23762","2","0","0","357755","0","2","4096","0"
+"23806","Shadowsteel Horror","Twisted monstrosities that eventually burn out with a |cFF2959D3|Hspell:357735|h[Final Scream]|h|r.","2443","24","23805","23807","0","1","38549","0","0","0","2","4096","0"
+"23807","Section 24","","2443","25","23806","0","0","2","0","0","357735","0","3","4112","0"
+"23808","Section 72","","2441","37","23068","0","23852","2","0","0","347670","0","0","0","255"
+"23810","Section 57","","2447","60","23326","0","0","2","0","0","353162","0","2","4096","0"
+"23812","Section 57","","2447","58","23325","0","23326","2","0","0","353162","0","2","4096","0"
+"23813","Section 16","","2447","28","23510","0","23511","2","0","0","353149","0","2","0","0"
+"23814","Section 56","","2441","80","23538","0","23543","2","0","0","354068","0","3","40","0"
+"23815","Section 74","","2441","78","23539","0","23816","2","0","0","353969","0","1","0","255"
+"23816","Section 74","","2441","79","23539","0","0","2","0","0","358181","0","1","4096","255"
+"23817","Section 51","","2441","76","23538","0","23539","2","0","0","353965","0","2","1","0"
+"23818","Section 77","","2441","41","23069","0","23348","2","0","0","358215","0","2","0","0"
+"23819","Section 77","","2441","40","23069","0","23818","2","0","0","358215","0","3","8","0"
+"23820","Section 11","","2441","15","23057","0","23065","2","0","0","347704","0","2","32","0"
+"23821","Section 10","","2452","12","23100","0","0","2","0","0","353221","0","0","0","255"
+"23822","Section 10","","2452","6","23100","23314","23313","2","0","0","348567","0","0","32","255"
+"23823","Mawforged Goliath","","2441","65","23069","23824","23356","1","98534","0","0","0","0","0","255"
+"23824","Section 53","","2441","66","23823","0","23825","2","0","0","351672","0","1","1","255"
+"23825","Section 62","","2441","67","23823","0","0","2","0","0","355849","0","3","4096","0"
+"23826","Section 83","","2441","71","23660","0","0","2","0","0","356024","0","3","0","0"
+"23827","Damage Dealers","$bullet; |cFF2959D3|Hspell:350568|h[Call of Eternity]|h|r erupts after a short time, inflicting damage to all nearby allies.
+$bullet; Assist in moving the Loom of Fates to prevent |cFF2959D3|Hspell:353122|h[Darkest Destiny]|h|r.","2447","3","22922","0","23828","3","0","0","0","0","2","2","0"
+"23828","Damage Dealers","$bullet; |cFF2959D3|Hspell:350568|h[Call of Eternity]|h|r erupts after a short time, leaving behind an |cFF2959D3|Hspell:350826|h[Echo of Eternity]|h|r and inflicting damage to all nearby allies.
+$bullet; |cFF2959D3|Hspell:354964|h[Runic Affinity]|h|r allows the manipulation of the Loom of Fates to prevent |cFF2959D3|Hspell:353122|h[Darkest Destiny]|h|r.","2447","4","22922","0","22924","3","0","0","0","0","2","2","0"
+"23829","Healers","$bullet; When Fatescribe Roh-Kalo first strikes a new melee target, he will cast |cFF2959D3|Hspell:353603|h[Diviner's Probe]|h|r several times, inflicting significant damage to his current target.
+$bullet; |cFF2959D3|Hspell:350568|h[Call of Eternity]|h|r inflicts heavy damage in the build-up to eruption.
+$bullet; Assist in moving the Loom of Fate to counteract |cFF2959D3|Hspell:351969|h[Realign Fate]|h|r and |cFF2959D3|Hspell:353195|h[Extemporaneous Fate]|h|r.","2447","6","22922","0","22925","3","0","0","0","0","2","4","0"
+"23830","Healers","$bullet; When Fatescribe Roh-Kalo first strikes a new melee target, he will cast |cFF2959D3|Hspell:353603|h[Diviner's Probe]|h|r several times, inflicting significant damage to his current target.
+$bullet; |cFF2959D3|Hspell:350568|h[Call of Eternity]|h|r erupts after a short time, leaving behind an |cFF2959D3|Hspell:350826|h[Echo of Eternity]|h|r and inflicting damage to all nearby allies.
+$bullet; |cFF2959D3|Hspell:354964|h[Runic Affinity]|h|r allows the manipulation of the Loom of Fates to prevent |cFF2959D3|Hspell:353122|h[Darkest Destiny]|h|r.
+$bullet; |cFF2959D3|Hspell:354365|h[Grim Portent]|h|r will erupt for massive damage if any selected players are not within their rune on expiration.","2447","8","22922","0","0","3","0","0","0","0","2","4","0"
+"23831","Section 56","","2441","85","23551","0","23544","2","0","0","347670","0","2","0","0"
+"23832","Section 59","","2447","43","23477","0","23479","2","0","0","358123","0","2","0","0"
+"23833","Corsair Brute","Members of Hooktail's crew grapple from the deck to attack players, but they're unaccustomed to her dragon form and vulnerable to her |cFF2959D3|Hspell:347149|h[Infinite Breath]|h|r and |cFF2959D3|Hspell:347151|h[Hook Swipe]|h|r.","2449","9","0","0","23027","1","101457","0","0","0","0","0","255"
+"23834","Section 13","","2449","7","23020","0","0","2","0","0","354334","0","0","0","255"
+"23835","Section 58","$[!16
+
+In Mythic difficulty, Kel'Thuzad starts with applications of |cFF2959D3|Hspell:352051|h[Necrotic Surge]|h|r.$]","2440","27","22885","0","23665","2","0","0","352051","0","2","4096","0"
+"23836","Section 25","","2445","25","0","0","0","2","0","0","358614","0","0","4","255"
+"23837","Section 56","","2441","87","23551","0","23554","2","0","0","358588","0","2","4128","0"
+"23838","Section 9","","2441","17","23057","0","23059","2","0","0","347609","0","2","1","0"
+"23839","Dark Sentinel","","2441","19","23059","23840","0","1","101864","0","0","0","1","0","255"
+"23840","Section 88","","2441","20","23839","0","0","2","0","0","358711","0","1","0","255"
+"23841","Xira the Underhanded","Ambushes players with |cFF2959D3|Hspell:333540|h[Opportunity Strikes]|h|r, stunning them until she is dirsupted.","2397","21","0","23842","0","1","96440","0","0","0","3","4096","0"
+"23842","Section 22","","2397","22","23841","0","0","2","0","0","333540","0","2","4096","0"
+"23843","Section 7","","2441","7","23257","23844","23258","2","0","0","347928","0","1","0","255"
+"23844","Section 13","","2441","8","23843","0","0","2","0","0","347807","0","1","8192","255"
+"23845","Section 14","","2449","12","23023","0","0","2","0","0","358947","0","0","0","255"
+"23846","Section 59","","2440","47","23201","0","23438","2","0","0","359660","0","2","12","0"
+"23847","Frostbound Devoted","These skeletal constructs move towards a random player and detonate if they reach them.","2440","55","23432","23848","0","1","96988","0","0","0","2","4096","0"
+"23848","Section 57","","2440","56","23847","0","0","2","0","0","354103","0","0","0","255"
+"23849","Section 34","","2435","25","23623","0","0","2","0","0","354405","0","2","0","0"
+"23850","Section 16","","2442","44","23375","0","23240","2","0","0","350763","0","0","16","255"
+"23851","Section 17","","2443","14","23117","0","23641","2","0","0","355526","0","2","0","0"
+"23852","Section 7","","2441","38","23068","0","0","2","0","0","347928","0","0","0","255"
+"23853","Section 54","","2447","37","23764","0","23779","2","0","0","357144","0","2","64","0"
+"23854","Section 61","","2447","45","23477","0","0","2","0","0","357686","0","2","4096","0"
+"23855","Section 58","","2440","45","22885","0","0","2","0","0","352316","0","2","40","0"
+"23856","Soul Reaver","Soul Reaver's periodically unleash Banshee's Cry.","2440","52","23432","23857","23847","1","90017","0","0","0","2","8","0"
+"23857","Section 31","","2440","53","23856","0","23858","2","0","0","352144","0","2","72","0"
+"23858","Section 53","","2440","54","23856","0","0","2","0","0","357330","0","2","64","0"
+"23859","Section 59","","2440","57","23201","23435","23442","2","0","0","359354","0","2","32","0"
+"23860","Section 63","","2440","36","22885","0","23431","2","0","0","358679","0","2","8","0"
+"23861","Section 27","","2443","28","23638","0","0","2","0","0","352052","0","2","16","0"
+"23862","Section 8","","2443","16","23117","0","23118","2","0","0","352052","0","2","18","0"

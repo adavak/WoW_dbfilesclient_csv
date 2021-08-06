@@ -74,19 +74,11 @@ Reduces mission success chance if not countered.","1357797","2"
 Mission duration is increased if not countered.","1357798","2"
 "111","Whirlwind","","132369","2"
 "112","Warrior","","132347","2"
-"113","Boss","|CFFFFFFF0Boss|R
-Reduces mission success chance if not countered.","1357797","2"
-"114","Boss","|CFFFFFFF0Boss|R
-Reduces mission success chance if not countered.","1357797","2"
 "115","Minions","|CFFFFFFF0Army|R
 This army has powerful armor.  Mission duration increased if not countered.","1357814","2"
 "121","Spell","|CFFFFFFF0Spell|R
 A high damaging spell which causes increased damage to troops if not countered.","1357804","2"
 "122","Ambush","Chance of mission success reduced.  Cannot be countered.","1357812","2"
-"124","Boss","|CFFFFFFF0Boss|R
-Reduces mission success chance if not countered.","1357797","2"
-"125","Boss","|CFFFFFFF0Boss|R
-Reduces mission success chance if not countered.","1357797","2"
 "126","Brutal","Success chance reduced by ${$a910}%.","311232","2"
 "127","Easy","Success chance reduced by ${$a909}%.","311236","2"
 "128","Hard","Success chance reduced by ${$a907}%.","311237","2"
@@ -122,3 +114,11 @@ Reduces mission success chance if not countered.","1113433","2"
 
 |cFFFFD200""How do you expect us to get there, swim?""|r","135861","2"
 "257","JasonTest Mechanic","JasonTest Mechanic","0","0"
+"113","Boss","|CFFFFFFF0Boss|R
+Reduces mission success chance if not countered.","1357797","2"
+"114","Boss","|CFFFFFFF0Boss|R
+Reduces mission success chance if not countered.","1357797","2"
+"124","Boss","|CFFFFFFF0Boss|R
+Reduces mission success chance if not countered.","1357797","2"
+"125","Boss","|CFFFFFFF0Boss|R
+Reduces mission success chance if not countered.","1357797","2"

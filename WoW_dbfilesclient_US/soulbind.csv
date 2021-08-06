@@ -1,4 +1,4 @@
-Id,Name,CovenantI,GarrTalentTreeId,CreatureId,GarrFollowerId,UnlockCondition
+Id,Name,CovenantId,GarrTalentTreeId,CreatureId,GarrFollowerId,UnlockConditionId
 "1","Niya","3","276","164729","1265","84491"
 "2","Dreamweaver","3","275","164387","1264","84497"
 "3","General Draven","2","304","165028","1209","84407"
